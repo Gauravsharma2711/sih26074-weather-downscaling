@@ -1,0 +1,26 @@
+station_id,station_latitude,station_longitude,record_count,missing_rainfall_count,invalid_coordinate_count,negative_rainfall_count,validation_status
+Chandwad AWS,20.33,74.24,90,0,0,0,VALID
+Deola ARG,20.47,74.18,42,0,0,0,VALID
+Dindori AWS,20.21,73.83,35,0,0,0,VALID
+Harsul AWS,20.12,73.45,8,0,0,0,VALID
+Igatpuri AWS,19.698,73.564,81,0,0,0,VALID
+Jaikheda AWS,20.79,74.21,1,0,0,0,VALID
+Kalwan AWS,20.485,73.918,86,0,0,0,VALID
+Lasalgaon Circle,20.14,74.23,7,0,0,0,VALID
+Malegaon AWS,20.55,74.51,93,0,0,0,VALID
+Malegaon AWS,20.554,74.51,32,0,0,0,VALID
+Mulher Circle AWS,20.78,74.06,1,0,0,0,VALID
+Nampur AWS,20.73,74.31,1,0,0,0,VALID
+Nandgaon AWS,20.31,74.65,90,0,0,0,VALID
+Nashik AWS,19.98,73.78,48,0,0,0,VALID
+Nashik AWS,19.99,73.78,25,0,0,0,VALID
+Niphad AWS,20.08,74.12,96,0,0,0,VALID
+Ozar ARG,20.09,73.91,1,0,0,0,VALID
+Peth AWS,20.25,73.5,75,0,0,0,VALID
+Pimpalgaon Baswant Circle,20.17,73.98,7,0,0,0,VALID
+Satana AWS,20.59,74.2,131,0,0,0,VALID
+Sinnar AWS,19.84,73.98,116,0,0,0,VALID
+Surgana AWS,20.47,73.61,72,0,0,0,VALID
+Trimbakeshwar AWS,19.93,73.53,160,0,0,0,VALID
+Yeola AWS,20.04,74.49,2,0,0,0,VALID
+Yeola AWS,20.0416,74.4891,88,0,0,0,VALID

@@ -1,0 +1,1389 @@
+panchayat_id,panchayat_name,block_name,date,forecast_issue_date,is_exact_duplicate,is_panchayat_date_duplicate,is_conflicting_duplicate,validation_status,validation_reason
+1001,Ajmer Saundane,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1002,Akhatwade,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1003,Aliyabad,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1004,Ambapur,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1005,Ambasan,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1006,Anandpur,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1007,Antapur,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1008,Arai,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1009,Askheda,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1010,Aundane,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1011,Aundanepada,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1012,Avhati,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1013,Babulne,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1014,Bhadane,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1015,Bhakshi,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1016,Bhavanagar,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1017,Bhawade,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1018,Bhildar,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1019,Bhilwad,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1020,Bhimkhet,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1021,Bijorse,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1022,Bijote,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1023,Bodhari,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1024,Bordaivat,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1025,Borhate Digar,Baglan,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1026,Brahamangaon,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1027,Brahamangaon,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1028,Bundhate,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1029,Chaphyachapada,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1030,Chaugaon,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1031,Chaundhane,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1032,Chirai,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1033,Daharane,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1034,Dahindule,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1035,Dangsoundane,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1036,Daregaon,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1037,Daswel,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1038,Deolane,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1039,Devthan Digar,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1040,Dhandri,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1041,Dholbare,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1042,Dongrej,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1043,Dyane,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1044,Ejamane,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1045,Golwad,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1046,Gorane,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1047,Jad,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1048,Jaikheda,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1049,Jakhod,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1050,Jamoti,Baglan,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1051,Joran,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1052,Junenirpur,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1053,Junishemli,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1054,Kakadgaon,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1055,Kandhane,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1056,Kapaleshwar,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1057,Karanjad,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1058,Karanjkhede,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1059,Karhe,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1060,Katerwel,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1061,Kelzar,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1062,Kersane,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1063,Khalche Tembe,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1064,Khamlon,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1065,Khamtane,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1066,Khirmani,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1067,Kikwari Bu.,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1068,Kikwari Kh.,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1069,Kolipada,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1070,Kotbel,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1071,Kupkheda,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1072,Ladud,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1073,Lakhamapur,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1074,Mahad,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1075,Malegaon,Baglan,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1076,Malegaon,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1077,Malegaon,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1078,Maliwada,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1079,Manjawad,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1080,Manur,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1081,Morane Sahebrao,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1082,Morenagaon,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1083,Morkure,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1084,Mulane,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1085,Mulher,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1086,Mungase,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1087,Nalkes,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1088,Nampur,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1089,Nandin,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1090,Navegaon,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1091,Navenirpur,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1092,Navishemli,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1093,Nikwel,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1094,Nitane,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1095,Parner,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1096,Pathave Digar,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1097,Phophir,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1098,Pimpaldar,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1099,Pimpalkote,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1100,Pingalwade,Baglan,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1101,Ramtir,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1102,Ratir,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1103,Sakode,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1104,Salher,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1105,Salvan,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1106,Sarade,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1107,Shevare,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1108,Shripurwade,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1109,Sompur,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1110,Surane,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1111,Taharabad,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1112,Talwade Bu.,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1113,Talwade Di.,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1114,Tandulwadi,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1115,Tarsali,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1116,Tatani,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1117,Tembhe (Vare),Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1118,Thengode,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1119,Tilwan,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1120,Tungan Digar,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1121,Utrane,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1122,Vattar,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1123,Vinchure,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1124,Virgaon,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1125,Visapur,Baglan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1126,Vonoli,Baglan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1127,Wadipisol,Baglan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1128,Waghale,Baglan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1129,Waghambe,Baglan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1130,Wathode,Baglan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1131,Wayagaon,Baglan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1132,Yashwantnagar,Baglan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1133,Adgon,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1134,Ahirkhede,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1135,Asarkhede,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1136,Bahaduri,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1137,Bhadane,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1138,Bhatgaon,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1139,Bhayale,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1140,Bhoyegaon,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1141,Bhutyane,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1142,Bopane,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1143,Borale,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1144,Chikhalamthan,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1145,Chinchole,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1146,Dahegaon,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1147,Dahivad,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1148,Dahyane,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1149,Daregaon,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1150,Devargaon,Chandwad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1151,Dhodambe,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1152,Dhondgavhan,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1153,Dighwat,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1154,Dongaon,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1155,Dongargaon,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1156,Dudh Kheda,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1157,Dugaon,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1158,Gangave,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1159,Ganur,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1160,Goharan,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1161,Harnul,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1162,Hatti,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1163,Hirapur,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1164,Hiwarkhed,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1165,Jopul,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1166,Kaji Sangvi,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1167,Kalamdare,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1168,Kalkhode,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1169,Kanadgaon,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1170,Kanmanda,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1171,Katarwadi,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1172,Khadak Jam,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1173,Khadakoze,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1174,Kheldari,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1175,Kokankheda,Chandwad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1176,Kundalgaon,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1177,Malsane,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1178,Mangrul,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1179,Mesankhede,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1180,Nandurtek,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1181,Nanhave,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1182,Narayangaon,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1183,Nimbale,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1184,Nimgavhan,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1185,Nimon,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1186,Panhale,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1187,Paregaon,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1188,Parsul,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1189,Pate,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1190,Patharshep,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1191,Pimpalnar,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1192,Pimplad,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1193,Puri,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1194,Rahud,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1195,Rajderwadi,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1196,Raypur,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1197,Redgaon Kh.,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1198,Salsane,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1199,Shelu,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1200,Shinde,Chandwad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1201,Shingave,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1202,Shirsane,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1203,Shirur,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1204,Shivare,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1205,Sogras,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1206,Sonisangvi,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1207,Sutarkheda,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1208,Talegoan Rohi,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1209,Talwade,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1210,Tisgaon,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1211,Urdhul,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1212,Uswad,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1213,Vadalibhoi,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1214,Vadbare,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1215,Vadgaonpada,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1216,Vadner Bhairav,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1217,Vitave,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1218,Wad,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1219,Waghdard,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1220,Wahegaon,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1221,Waki Bk.,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1222,Waki Kd.,Chandwad,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1223,Bhaur,Deola,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1224,Chinchave,Deola,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1225,Dahiwad,Deola,2026-09-04,2026-09-04,False,False,False,VALID,Unique Panchayat/Date record
+1226,Deopurpa,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1227,Dongargaon,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1228,Fule Malwadi,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1229,Fulenagar,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1230,Girnare,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1231,Gunjalnagar,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1232,Kankapur,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1233,Kapashi,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1234,Khadaktale,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1235,Khalap,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1236,Khamkheda,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1237,Kharde (W),Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1238,Khuntewadi,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1239,Kumbharde,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1240,Lohoner,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1241,Mahalpatre,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1242,Malwadi,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1243,Matane,Deola,2026-09-03,2026-09-03,False,False,False,VALID,Unique Panchayat/Date record
+1244,Meshi,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1245,M.Fulenagar,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1246,Nimbola,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1247,Pimpalgaon,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1248,Rameshwar,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1249,Sangavi,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1250,Satwaiwadi,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1251,Savki (Lo),Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1252,Sheri (Lo),Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1253,Shrirampur,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1254,Subhashnagar,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1255,Tisgaon,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1256,Umarane,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1257,Varhale,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1258,Varwandi,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1259,Vasol,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1260,Vijaynager,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1261,Vithewadi,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1262,Wajgaon ('L),Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1263,Wakhari,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1264,Warshi,Deola,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1265,Ahiwantwadi,Dindori,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1266,Akrale,Dindori,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1267,Ambad,Dindori,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1268,Ambaner,Dindori,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1269,Ambedindori,Dindori,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1270,Ambegani,Dindori,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1271,Ambewani,Dindori,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1272,Ashewadi,Dindori,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1273,Awankhed,Dindori,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1274,Badgichap,Dindori,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1275,Bhanwad,Dindori,2026-09-02,2026-09-02,False,False,False,VALID,Unique Panchayat/Date record
+1276,Bhatode,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1277,Bopegaon,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1278,Chachadgaon,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1279,Chandikapur,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1280,Charose,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1281,Chausale,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1282,Chinchakhed,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1283,Dahegaon,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1284,Dahivi,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1285,Dehare,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1286,Deoghar,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1287,Deopada,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1288,Deopur,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1289,Deosane,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1290,Deothan,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1291,Dhagur,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1292,Dhakambe,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1293,Dhaur,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1294,Dhondalpara,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1295,Gandole,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1296,Gawalwadi,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1297,Golshi,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1298,Gondegon,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1299,Hastedum,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1300,Hatnore,Dindori,2026-09-01,2026-09-01,False,False,False,VALID,Unique Panchayat/Date record
+1301,Bharvir Kh.,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1302,Bhavali Bk,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1303,Bhavali Kh,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1304,Borli,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1305,Bortembha,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1306,Chinchalekhaire,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1307,Daundat,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1308,Deole,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1309,Dhamangaon,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1310,Dhamani,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1311,Dhanorli,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1312,Dhargaon,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1313,Fangulgavhan,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1314,Garudeshwar,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1315,Ghoti Bk,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1316,Ghoti Kh,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1317,Gondedumala,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1318,Indore,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1319,Janori,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1320,Kaluste,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1321,Kanchangaon,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1322,Karhole,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1323,Kawanai,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1324,Khadked,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1325,Khairgaon,Igatpuri,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1326,Khambale,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1327,Khed,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1328,Korapgaon,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1329,Krishnanagar,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1330,Kurhegaon,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1331,Kurnoli,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1332,Kurungwadi,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1333,Kushegaon,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1334,Laxminagar,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1335,Malunje,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1336,Manikkhamb,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1337,Manjargaon,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1338,Manvedhe,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1339,Maydara,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1340,Mhasurli,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1341,Modale,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1342,Mogre,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1343,Mukane,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1344,Mundhegaon,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1345,Murambi,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1346,Nagosali,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1347,Nandgaon Bk,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1348,Nandgaon Sado,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1349,Nandurvaidya,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1350,Ninavi,Igatpuri,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1351,Ondali,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1352,Padali (D),Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1353,Pimpalgaon Bhatata,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1354,Pimpalgaon Dukra,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1355,Pimpalgaon More,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1356,Pimpalgaon Ghadga,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1357,Pimpri-Sadrddino,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1358,Rayambe,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1359,Sakur,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1360,Samnera,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1361,Sanjegaon,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1362,Shenit,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1363,Shenwad Bk,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1364,Shenwad Kh,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1365,Shevagedang,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1366,Shirsate,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1367,Somaj,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1368,Sonoshi,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1369,Taked Bk,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1370,Taked Kh.,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1371,Takeghoti,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1372,Talogha,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1373,Taloshi,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1374,Titoli,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1375,Tringalwadi,Igatpuri,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1376,Ubhade,Igatpuri,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1377,Umberkon,Igatpuri,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1378,Vaki,Igatpuri,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1379,Vasali,Igatpuri,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1380,Wadiwarhe,Igatpuri,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1381,Waghere,Igatpuri,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1382,Walvihir,Igatpuri,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1383,Abhona,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1384,Athambe,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1385,Bagadu,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1386,Bapkheda,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1387,Bhadwan,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1388,Bhagurdi,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1389,Bhaitane (D),Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1390,Bhandane Ha,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1391,Bhendi,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1392,Bhusani,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1393,Bilwadi,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1394,Bordaivat,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1395,Chankapur,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1396,Dahyane Digar,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1397,Dalwat,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1398,Darebhangi,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1399,Deovalivani,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1400,Desarane,Kalwan,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1401,Desgaon,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1402,Dharde Diger,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1403,Ganore,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1404,Gobapur,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1405,Golakhal,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1406,Gopalkhadi,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1407,Gosarane,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1408,Hingave,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1409,Jaidar,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1410,Jaipur,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1411,Jamale Vani,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1412,Juni Bej,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1413,Kakane,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1414,Kalmathe (Pa),Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1415,Kalwan (Kd),Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1416,Kanashi (K),Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1417,Karambhel (K),Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1418,Kathare Diger,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1419,Khadakvan,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1420,Khadki,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1421,Kharde Diger,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1422,Khedgaon,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1423,Khirad,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1424,Kosurde,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1425,Koswan,Kalwan,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1426,Kundane (K),Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1427,Kundane (O),Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1428,Lingama,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1429,Malgaon (Kh),Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1430,Manur,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1431,Mehedar,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1432,Mohandari,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1433,Mohmukh,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1434,Mokhbhangi,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1435,Mulanevani,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1436,Nakoda,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1437,Nalid,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1438,Nanduri,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1439,Narul,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1440,Navi Bej,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1441,Nivane,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1442,Ojhar,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1443,Otur,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1444,Palasdar,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1445,Pale (Bk),Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1446,Pale (Kd),Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1447,Patvihir,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1448,Pilkos,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1449,Pimpale (Bk),Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1450,Punadnagar,Kalwan,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1451,Ravalji,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1452,Sakore,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1453,Saptashrungi Gad,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1454,Sarledigar,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1455,Savakipale,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1456,Shingashi,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1457,Shirasmani,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1458,Sukapur,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1459,Sule,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1460,Supale Digar,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1461,Tatani,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1462,Tirhal (Kh),Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1463,Vadale (Ha),Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1464,Vadalevani,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1465,Verule,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1466,Virshet,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1467,Visapur,Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1468,Wadi (Bk),Kalwan,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1469,Aghar (Bk),Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1470,Aghar (Kd),Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1471,Ajande,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1472,Ajang,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1473,Astane,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1474,Belgaon,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1475,Bhardenagar,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1476,Bhilkot,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1477,Chandanpuri,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1478,Chaukatpade,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1479,Chikhalohol,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1480,Chinchagavan,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1481,Chinchawad,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1482,Chinchwe (Ga),Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1483,Chondhi,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1484,Dabali,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1485,Dabhadi,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1486,Dahidi,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1487,Dahiwal,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1488,Dapure,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1489,Dasane,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1490,Deoghat,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1491,Devarpade,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1492,Dhavaleshwar,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1493,Dongrale,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1494,Dundhe,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1495,Erandgaon,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1496,Galne,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1497,Garbad,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1498,Garegaon,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1499,Ghanegaon,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1500,Gilane,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1501,Ghodegaon,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1502,Gigaon,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1503,Gilane,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1504,Gugulwad,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1505,Hatane,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1506,Hiswal,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1507,Jalgaon (Ga),Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1508,Jalgaon (Ni),Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1509,Jalku,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1510,Jatpade,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1511,Jeur,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1512,Jwardi (Bk),Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1513,Kajwade,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1514,Kalwadi,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1515,Kandhane,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1516,Kankrale,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1517,Karanj Gavhan,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1518,Kashti,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1519,Kaulane (Ga),Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1520,Kaulane (Ni),Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1521,Khadaki,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1522,Khakurdi,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1523,Khalane,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1524,Khayade,Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1525,Kothare (Bk),Malegaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1526,Kukane,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1527,Lakhani,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1528,Lendane,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1529,Lonwade,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1530,Lulle,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1531,Malgaon,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1532,Malhangaon,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1533,Manjre,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1534,Manke,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1535,Mathurpada,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1536,Mehune,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1537,Mohpada,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1538,Mungse,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1539,Nagaon (Di),Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1540,Nagzari,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1541,Nale,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1542,Nandgaon (Bk),Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1543,Nardane,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1544,Nilgawhan,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1545,Nimbayati,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1546,Nimgaon,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1547,Nimgaon (Kh),Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1548,Nimgile,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1549,Nimshewadi,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1550,Padalde,Malegaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1551,Palasdare,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1552,Pandhrun,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1553,Patane,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1554,Patharde,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1555,Pimpalgaon,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1556,Pohane,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1557,Rajmane,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1558,Ravalgaon,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1559,Ronzane,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1560,Ronze,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1561,Sajwal,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1562,Sakur,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1563,Sakuri (Ni),Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1564,Satmanne,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1565,Saundane,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1566,Savatawadi,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1567,Savkarwadi,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1568,Sawandgaon,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1569,Sayne (Kd),Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1570,Shendurni,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1571,Sherul,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1572,Shirsondi,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1573,Sitane,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1574,Sonaj,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1575,Takali,Malegaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1576,Talwade,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1577,Tehare,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1578,Tingri,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1579,Tokade,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1580,Umbarde,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1581,Vadel,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1582,Vadgaon,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1583,Vadner,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1584,Vajirkhede,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1585,Valwade,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1586,Valwadi,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1587,Vanpat,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1588,Varahane,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1589,Virane,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1590,Wake,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1591,Yesgaon (Bk),Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1592,Yesgaon (Kd),Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1593,Zadi,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1594,Zodage,Malegaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1595,Amode,Nandgaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1596,Anakwade,Nandgaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1597,Astgaon,Nandgaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1598,Babhulwadi,Nandgaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1599,Bangaon Bk.,Nandgaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1600,Bangaon Kh.,Nandgaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1601,Bejgaon,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1602,Bhalur,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1603,Bhardi,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1604,Bhauri,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1605,Birole,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1606,Bolthan,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1607,Borale,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1608,Boygaon,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1609,Chandore,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1610,Chinchvihir,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1611,Dahegaon,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1612,Darhel,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1613,Dhaner,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1614,Dheku Kd.,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1615,Dhotane Bk.,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1616,Dhotane Kh.,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1617,Ekawai,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1618,Fulenagar,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1619,Gangadhari,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1620,Girnanagar,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1621,Gondegaon,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1622,Higane Dehare,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1623,Hinganwadi,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1624,Hirenagar,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1625,Hiswal Bk.,Nandgaon,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1626,Hiswal Kh.,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1627,Jalgaon Bk.,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1628,Jalgaon Kh.,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1629,Jamdhri,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1630,Jategaon,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1631,Jawalki,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1632,Kalamdari,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1633,Karhi,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1634,Kasabkheda,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1635,Kasari,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1636,Khadgaon,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1637,Khirdi Patode,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1638,Kondhar,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1639,Krantinagar,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1640,Kusumtel,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1641,Laxminagar,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1642,Lodhare,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1643,Lohshingve,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1644,Malegaon (K),Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1645,Malgaon,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1646,Malharwadi,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1647,Mandwad,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1648,Manglane,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1649,Manikpunj,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1650,Mohegaon,Nandgaon,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1651,Morzar,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1652,Muldongri,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1653,Nagapur,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1654,Nandur,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1655,Navsari,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1656,Naydongri,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1657,New Panzan,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1658,Palashi,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1659,Panewadi,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1660,Panzandev,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1661,Pardhadi,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1662,Pimparkhed,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1663,Pimprale,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1664,Pimprihaveli,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1665,Pokhari Patode,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1666,Rankheda,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1667,Rohile (Bk),Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1668,Sakora,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1669,Satane,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1670,Sawargaon,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1671,Shashrinagar,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1672,Shriramnagar,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1673,Soyegaon,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1674,Takali Bk.,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1675,Takali Kh.,Nandgaon,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1676,Talwade,Nandgaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1677,Tandulwadi,Nandgaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1678,Vahelgaon,Nandgaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1679,Vanjarwadi,Nandgaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1680,Wadali Bk.,Nandgaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1681,Wadali Kh.,Nandgaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1682,Wakhari,Nandgaon,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1683,Ambebahula,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1684,Belatgavhan,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1685,Belgaon Dhaga,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1686,Chandgiri,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1687,Chandshi,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1688,Dahegaon,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1689,Dari,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1690,Devargaon,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1691,Dhondegaon,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1692,Donwade,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1693,Dudgaon,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1694,Dugaon,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1695,Eklahare,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1696,Ganeshgaon N.,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1697,Ganeshgaon T.,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1698,Gangamhalungi,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1699,Gangavarhe,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1700,Gaulane,Nashik,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1701,Girnare,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1702,Govardhan,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1703,Hinganwedhe,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1704,Indira Nagar,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1705,Jakhori,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1706,Jalalpur,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1707,Jategaon,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1708,Kalavi,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1709,Kotamgaon,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1710,Ladchi,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1711,Lahvit,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1712,Lakhalgaon,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1713,Lohshingve,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1714,Madsangvi,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1715,Mahadeopur,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1716,Mahirawani,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1717,Matori,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1718,Mohagaon,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1719,Mungsara,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1720,Nagalwadi,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1721,Naikwadi,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1722,Nanegaon,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1723,Odha,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1724,Ozerkhede,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1725,Palse,Nashik,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1726,Pimpalgaon,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1727,Pimplad N.,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1728,Pimpri Sayyad,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1729,Rahuri,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1730,Raigadnagar,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1731,Rajewadi,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1732,Rajur Bahula,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1733,Sadgaon,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1734,Samangaon,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1735,Sansari,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1736,Sarul,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1737,Shewge Darna,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1738,Shilapur,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1739,Shinde,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1740,Shivagaon,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1741,Subhashnagar,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1742,Talegaon Anjaneri,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1743,Tridshet,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1744,Vadgaon,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1745,Vanjarwadi,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1746,Vilholi,Nashik,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1747,Ahergaon,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1748,Antwerli,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1749,Aurangpur,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1750,Berwadi (Ramnagar),Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1751,Bharvas,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1752,Bhed,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1753,Bhendali,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1754,Bhuse,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1755,Bokadadare,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1756,Bramhangaon (Vanas),Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1757,Bramhangaon Vinchor,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1758,Chandori,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1759,Chappadgaon,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1760,Chatori,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1761,Chitegaon,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1762,Darana Sangvi,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1763,Datyan,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1764,Dawachwadi,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1765,Deogaon,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1766,Deopur,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1767,Dharangaon Khadak,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1768,Dharangaon Veer,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1769,Dindori,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1770,DIXI,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1771,Dongargaon,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1772,Gajarwadi,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1773,Godegaon,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1774,Gondegaon,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1775,Gorthan,Niphad,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1776,Grampanchayat Varhedarana,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1777,Hanumannagar,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1778,Jalgaon,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1779,Jiwahle,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1780,Kanlad,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1781,Karanjgaon,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1782,Karanj Kd.,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1783,Karsul,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1784,Kathargaon,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1785,Khadakmalegaon,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1786,Khangaon Tadi,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1787,Khede,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1788,Khedle Zunge,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1789,Kherwadi (Narayangaon),Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1790,Kokangaon,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1791,Kolgaon,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1792,Kolwadi (Shriramnagar),Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1793,Kotamgaon,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1794,Kothure,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1795,K.Sukane,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1796,Kumbhari,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1797,Kundewadi,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1798,Kundewadi,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1799,Kundewadi,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1800,Kundewadi,Niphad,2026-01-09,2026-01-09,False,False,False,VALID,Unique Panchayat/Date record
+1801,Kurudgaon,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1802,Lalpadi,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1803,Lasalgaon,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1804,Lonwadee,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1805,Mahajanpur,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1806,Mahalsakore,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1807,Manjargaon,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1808,Maralgoi Bk,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1809,Maralgoi Kd,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1810,M.Sukane,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1811,Mukhed,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1812,Naitale,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1813,Nandgaon,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1814,Nandurdi,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1815,Nandur Kd,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1816,Nandur M.,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1817,Narayan T.,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1818,Nimgaon V.,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1819,Oney,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1820,Pachore Bk,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1821,Pachore Kd,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1822,Pachore Vani,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1823,Palkhed,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1824,Panchakeshor,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1825,Pimpalgaon Najik,Niphad,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+1826,Pimpalgaon Nipani,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1827,Pimplas,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1828,Pimpri,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1829,Ranwad,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1830,Rasalpur,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1831,Raulas,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1832,Redgaon,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1833,Rui,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1834,Saikheda,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1835,Sakore,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1836,Sarole Kd.,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1837,Sarole Thadi,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1838,Savargaon,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1839,Shimpi Takli,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1840,Shingve,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1841,Shirasgaon,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1842,Shirvare,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1843,Shirwade Vani,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1844,Shirwade Wakad,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1845,Shivadi,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1846,Sonewadi Bk,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1847,Sonewadi Kd,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1848,Songaon,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1849,Subhasnagar,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1850,Sundarpur,Niphad,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1851,Takali Vinchor,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1852,Talwade,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1853,Tamaswadi,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1854,Tarukhedle,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1855,Thergaon,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1856,Thetale,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1857,Ugaon,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1858,Umberkhed,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1859,Vahegaon,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1860,Vakad,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1861,Vanasgaon,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1862,Vdali Najik,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1863,Velapur,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1864,Vinchur,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1865,Vishnunagar,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1866,Wavi,Niphad,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1867,Aad (B),Peth,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1868,Adgaon (B),Peth,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1869,Ambe,Peth,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1870,Amloan,Peth,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1871,Andhrute,Peth,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1872,Asarbari,Peth,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1873,Badgi,Peth,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1874,Bhaygaon,Peth,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1875,Bhuvan,Peth,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+1876,Borvat,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1877,Cholmukh,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1878,Deogaon,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1879,Devichamal,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1880,Dhanpada,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1881,Dhondmal,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1882,Dolharmal,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1883,Donawade,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1884,Ekdare,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1885,Gangodbari,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1886,Gavandha,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1887,Ghanshet,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1888,Gonde,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1889,Hanumannager,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1890,Hanumantpada,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1891,Harangaon,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1892,Hatrundi,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1893,Jale,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1894,Jambhulmal,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1895,Jambvihir,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1896,Jogmodi,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1897,Junothi,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1898,Kahandolpada,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1899,Kalambari,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1900,Kapurne,Peth,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+1901,Karanjali,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1902,Karanjkhed,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1903,Kayre,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1904,Kharpadi,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1905,Khirkide,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1906,Khokartale,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1907,Kohor,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1908,Kopurli (B),Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1909,Kopurli (Kh),Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1910,Kotambi,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1911,Kulwandi,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1912,Kumbhale,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1913,Kumbharbari,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1914,Lingawane,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1915,Malegaon,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1916,Mangone,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1917,Mankapur,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1918,Mhasgan,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1919,Nachalondhi,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1920,Nirgude,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1921,Pahuchibari,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1922,Pate,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1923,Pimpalwati,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1924,Rajbari,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1925,Ranvihir,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1926,Ruipetha,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1927,Savalghat,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1928,Shevkhandi,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1929,Shinde,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1930,Shingadari,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1931,Shivshet,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1932,Surgane,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1933,Tirde,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1934,Tondwal,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1935,Umbarpada (Kh),Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1936,Umberdahad,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1937,Umbrad,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1938,Usthale,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1939,Wangani,Peth,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1940,Adwadi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1941,Agaskhind,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1942,Ashapur,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1943,Atkawade,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1944,Aundhewadi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1945,Baragaon Pimpri,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1946,Belu,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1947,Bharatpur,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1948,Bhatwadi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1949,Bhokani,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1950,Borkhind,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1951,Bramhanwade,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1952,Chandrapur Kh.,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1953,Chapadgaon,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1954,Chass,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1955,Chincholi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1956,Chondhi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1957,Dahiwadi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1958,Dapur,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1959,Datali,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1960,Dattanagar (Dapur),Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1961,Deopur,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1962,Deshwandi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1963,Dharangaon,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1964,Dhondbar,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1965,Dhondvirnagar,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1966,Dhulwad,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1967,Dodi Bk.,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1968,Dodi Kh.,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1969,Dubere,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1970,Duberewadi (Krushnanagar),Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1971,Dusingpur,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1972,Fulenagar,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1973,Ghorwad,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1974,Ghotewadi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1975,Gonde,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1976,Gulwanchi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1977,Harsule,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1978,Hivare,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1979,Hivargaon,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1980,Jamgaon,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1981,Jaygaon,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1982,Jogaltembhi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1983,Kankori,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1984,Karwadi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1985,Kasarwadi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1986,Ke. Pa. Nagar,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1987,Khadangali,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1988,Khambale,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1989,Khopadi Kh.,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1990,Kirtangali,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1991,Kolgaonmal,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1992,Komalwadi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1993,Konambe,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1994,Kundewadi,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1995,Maldhon,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1996,Malegaon,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1997,Manegaon,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1998,Manori,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+1999,Marhal Bk.,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2000,Marhal Kh.,Sinnar,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2001,Mendhi,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2002,Mirgaon,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2003,Mithsagare,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2004,Mohu,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2005,Musalgaon,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2006,Naigaon,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2007,Nalwadi,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2008,Nandur Shingote,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2009,Nimgaon (Deopur),Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2010,Nimgaon (Sinnar),Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2011,Nirhale Fattepur,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2012,Padali,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2013,Panchale,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2014,Pandhurli,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2015,Pangari Bk.,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2016,Pangari Kh.,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2017,Paste,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2018,Pathare Bk.,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2019,Pathare Kh.,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2020,Patole,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2021,Patpimpri,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2022,Phardapur,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2023,Pimpale,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2024,Pimpalgaon,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2025,Pimparwadi,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2026,Ramnagar,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2027,Rampur,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2028,Sangavi,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2029,Saradwadi,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2030,Savatamali Nagar,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2031,Sayale,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2032,Shaha,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2033,Shastrinagar,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2034,Shivade,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2035,Shivaji Nagar (Dapur),Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2036,Shivajinagar (Kahandalwadi),Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2037,Shrirampur (Shindewadi),Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2038,Somthane,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2039,Sonambe,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2040,Sonari,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2041,Sonewadi,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2042,Songiri,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2043,Sulewadi,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2044,Suregaon,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2045,Thangaon,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2046,Ujjani,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2047,Vadangali,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2048,Vadgaon (Pingala),Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2049,Vadgaon (Sinnar),Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2050,Vadzire,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2051,Varegaon,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2052,Vinchur Dalavi,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2053,Wavi,Sinnar,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2054,Alangun,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2055,Ambatha,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2056,Ambode,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2057,Barhe,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2058,Bedase,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2059,Bhadar,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2060,Bhavandagad,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2061,Bhawade,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2062,Bhormal,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2063,Biwal,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2064,Borgaon,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2065,Bubali,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2066,Chikadi,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2067,Chinchpada,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2068,Dangrale,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2069,Dolhare,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2070,Ghodambe,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2071,Gondune,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2072,Harantekdi,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2073,Haste,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2074,Hatgad,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2075,Hatrundi,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2076,Hatti,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2077,Hemadpada,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2078,Jahule,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2079,Kalamne,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2080,Karanjul Su,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2081,Kathipada,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2082,Khirdi,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2083,Khobalama,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2084,Khokari,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2085,Khuntvihir,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2086,Kothula,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2087,Kukudmundha,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2088,Kukudne,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2089,Ladgaon,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2090,Malegaon,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2091,Malgawhan,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2092,Mandha,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2093,Mangadhe,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2094,Mani,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2095,Mankhed,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2096,Mhaishadak,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2097,Mohpada,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2098,Nagshevadi,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2099,Palsan,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2100,Pohali,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2101,Pratapgad,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2102,Ragatvihir,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2103,Rahude,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2104,Rasha,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2105,Rokadpada,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2106,Rongane,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2107,Sajole,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2108,Sarad,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2109,Shinde,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2110,Thangaon,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2111,Umberpada(D),Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2112,Umberthan,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2113,Vaghdhond,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2114,Varambhe,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2115,Alwand,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2116,Ambai,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2117,Amboli,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2118,Anjaneri,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2119,Aswalihirsha,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2120,Avhate,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2121,Bafanvihir,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2122,Bbhootmokhada,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2123,Berval,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2124,Beze,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2125,Bhagohol,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2126,Bramhanwade,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2127,Chinchohol,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2128,Chinchvad,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2129,Dalpatpur,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2130,Deodongra,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2131,Deodongri,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2132,Deola,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2133,Devgaon,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2134,Dhumodi,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2135,Gadvadane,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2136,Ganeshgaon (W),Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2137,Gavatha,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2138,Godhadyachapada,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2139,Goldari,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2140,Harsul,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2141,Hatlondhi,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2142,Birdi,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2143,Holdar Nagar,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2144,Jategaon Bk,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2145,Jategaon Khd,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2146,Kachurli,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2147,Kalmuste(H),Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2148,Kalmuste (T),Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2149,Khadakohol,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2150,Khairaipali,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2151,Khambale,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2152,Kharoli,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2153,Kharset,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2154,Kharwal,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2155,Kone,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2156,Kotambi (H),Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2157,Mahadeonagar,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2158,Malegaon,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2159,Met Chandryachi,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2160,Metgharkilla,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2161,Mulegaon,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2162,Mulwad,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2163,Murambi,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2164,Nandgaon (K),Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2165,Nirgude,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2166,Ozarkhed,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2167,Pahine,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2168,Pegalwadi (N),Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2169,Pegalwadi (T),Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2170,Pimplad (T),Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2171,Pimpri (T),Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2172,Raite,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2173,Rohile,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2174,Samundi,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2175,Sapatpali,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2176,Sapgaon,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2177,Sapte,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2178,Saraste,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2179,Shirasgaon (H),Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2180,Shirasgaon (T),Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2181,Shivajinagar,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2182,Somnathnagar,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2183,Takedeogaon,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2184,Takeharsh,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2185,Talegaon (T),Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2186,Talwade (T),Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2187,Thanapada,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2188,Torangan (H),Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2189,Torangan (T),Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2190,Vadholi,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2191,Vaghera,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2192,Varasvihar,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2193,Vaviharsh,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2194,Vaygholpada,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2195,Vele,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2196,Velunje,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2197,Vijaynagar,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2198,Zarwad Bk,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2199,Zarwad Khd,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2200,Adgaon Chothava,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2201,Pratapgad,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2202,Ragatvihir,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2203,Rahude,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2204,Rasha,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2205,Rokadpada,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2206,Rongane,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2207,Sajole,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2208,Sarad,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2209,Shinde,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2210,Thangaon,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2211,Umberpada(D),Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2212,Umberthan,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2213,Vaghdhond,Surgana,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2214,Varambhe,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2215,Alwand,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2216,Ambai,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2217,Amboli,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2218,Anjaneri,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2219,Aswalihirsha,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2220,Avhate,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2221,Bafanvihir,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2222,Bbhootmokhada,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2223,Berval,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2224,Beze,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2225,Bhagohol,Trimbak,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2226,Bramhanwade,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2227,Chinchohol,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2228,Chinchvad,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2229,Dalpatpur,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2230,Deodongra,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2231,Deodongri,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2232,Deola,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2233,Devgaon,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2234,Dhumodi,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2235,Gadvadane,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2236,Ganeshgaon (W),Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2237,Gavatha,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2238,Godhadyachapada,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2239,Goldari,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2240,Harsul,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2241,Hatlondhi,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2242,Birdi,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2243,Holdar Nagar,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2244,Jategaon Bk,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2245,Jategaon Khd,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2246,Kachurli,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2247,Kalmuste(H),Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2248,Kalmuste (T),Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2249,Khadakohol,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2250,Khairaipali,Trimbak,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2251,Khambale,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2252,Kharoli,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2253,Kharset,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2254,Kharwal,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2255,Kone,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2256,Kotambi (H),Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2257,Mahadeonagar,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2258,Malegaon,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2259,Met Chandryachi,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2260,Metgharkilla,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2261,Mulegaon,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2262,Mulwad,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2263,Murambi,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2264,Nandgaon (K),Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2265,Nirgude,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2266,Ozarkhed,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2267,Pahine,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2268,Pegalwadi (N),Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2269,Pegalwadi (T),Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2270,Pimplad (T),Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2271,Pimpri (T),Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2272,Raite,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2273,Rohile,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2274,Samundi,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2275,Sapatpali,Trimbak,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2276,Sapgaon,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2277,Sapte,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2278,Saraste,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2279,Shirasgaon (H),Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2280,Shirasgaon (T),Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2281,Shivajinagar,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2282,Somnathnagar,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2283,Takedeogaon,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2284,Takeharsh,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2285,Talegaon (T),Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2286,Talwade (T),Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2287,Thanapada,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2288,Torangan (H),Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2289,Torangan (T),Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2290,Vadholi,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2291,Vaghera,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2292,Varasvihar,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2293,Vaviharsh,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2294,Vaygholpada,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2295,Vele,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2296,Velunje,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2297,Vijaynagar,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2298,Zarwad Bk,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2299,Zarwad Khd,Trimbak,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2300,Adgaon Chothava,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2301,Adgaon Repal,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2302,Adsuregaon,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2303,Agangaon,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2304,Aherwadi,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2305,Ambegaon,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2306,Andersul,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2307,Angulgaon,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2308,Ankai,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2309,Ankute,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2310,Babhulgaon Kh,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2311,Balapur,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2312,Balhegaon,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2313,Bharam,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2314,Bhatgaon,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2315,Bhulegaon,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2316,Bokte,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2317,Chandgaon,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2318,Chinchodi Bk.,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2319,Chinchodi Ku,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2320,Deolane,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2321,Deothan,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2322,Deshmane Bk,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2323,Devargaon,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2324,Dhamangaon,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2325,Dhamode,Yeola,2026-05-09,2026-05-09,False,False,False,VALID,Unique Panchayat/Date record
+2326,Dhulgaon,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2327,Dongargaon,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2328,Dugalgaon,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2329,Erandgaon Bk.,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2330,Erandgaon Kh,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2331,Ganeshpur,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2332,Garkhede,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2333,Gavandgaon,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2334,Gujarkhede,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2335,Jalgaon Neur,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2336,Jaualke,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2337,Kanadi,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2338,Katarni,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2339,Khairgavhan,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2340,Khamgaon,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2341,Kharwandi,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2342,Khirdisathe,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2343,Kolam Bk,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2344,Kolgaon,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2345,Kotamgaon Bk,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2346,Kotomgaon Kh,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2347,Kusmadi,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2348,Kusur,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2349,Lauki Shiras,Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2350,Mahalkheda (Patoda),Yeola,2026-04-09,2026-04-09,False,False,False,VALID,Unique Panchayat/Date record
+2351,Mamdapur,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2352,Manori Bk.,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2353,Matulthan,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2354,Mukhed,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2355,Murmi,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2356,Nagarsul,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2357,Nagde,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2358,Naigavhan,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2359,Nandesar,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2360,Nandur,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2361,Nevurgaon,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2362,Nilkhede,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2363,Nimgaon Madh,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2364,Panhalsathe,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2365,Panzarwadi,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2366,Paregaon,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2367,Patoda,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2368,Pimpalgaon Jalal,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2369,Pimpalgaon Lep,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2370,Pimpalkhute Bk.,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2371,Pimpri,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2372,Purangaon,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2373,Rahadi,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2374,Rajapur,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2375,Rendale,Yeola,2026-03-09,2026-03-09,False,False,False,VALID,Unique Panchayat/Date record
+2376,Satali,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2377,Satare,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2378,Satyagaon,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2379,Savargaon,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2380,Saygaon,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2381,Shirasgaon (Lauki),Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2382,Somthandesh,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2383,Suregaon Rasta,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2384,Talwade,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2385,Thangaon,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2386,Undirwadi,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2387,Vaghale,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record
+2388,Vikharni,Yeola,2026-02-09,2026-02-09,False,False,False,VALID,Unique Panchayat/Date record

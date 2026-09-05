@@ -1,0 +1,1389 @@
+panchayat_id,lgd_code,panchayat_name,block_name,district_name,panchayat_latitude,panchayat_longitude,validation_status,validation_reason
+1001,182597,Ajmer Saundane,Baglan,Nashik,20.6385,74.1201,VALID,Passed all geographic and bounding box checks
+1002,182598,Akhatwade,Baglan,Nashik,20.6908,74.2045,VALID,Passed all geographic and bounding box checks
+1003,182599,Aliyabad,Baglan,Nashik,20.7734,73.9955,VALID,Passed all geographic and bounding box checks
+1004,182600,Ambapur,Baglan,Nashik,20.7289,74.3392,VALID,Passed all geographic and bounding box checks
+1005,182601,Ambasan,Baglan,Nashik,20.7121,74.3659,VALID,Passed all geographic and bounding box checks
+1006,182602,Anandpur,Baglan,Nashik,20.5891,74.3122,VALID,Passed all geographic and bounding box checks
+1007,182603,Antapur,Baglan,Nashik,20.7812,74.2544,VALID,Passed all geographic and bounding box checks
+1008,182604,Arai,Baglan,Nashik,20.6695,74.1712,VALID,Passed all geographic and bounding box checks
+1009,182605,Askheda,Baglan,Nashik,20.7431,74.3188,VALID,Passed all geographic and bounding box checks
+1010,182606,Aundane,Baglan,Nashik,20.6402,74.1355,VALID,Passed all geographic and bounding box checks
+1011,237156,Aundanepada,Baglan,Nashik,20.6415,74.1388,VALID,Passed all geographic and bounding box checks
+1012,182607,Avhati,Baglan,Nashik,20.6816,74.159,VALID,Passed all geographic and bounding box checks
+1013,182608,Babulne,Baglan,Nashik,20.7092,74.1811,VALID,Passed all geographic and bounding box checks
+1014,182609,Bhadane,Baglan,Nashik,20.8851,74.3621,VALID,Passed all geographic and bounding box checks
+1015,182610,Bhakshi,Baglan,Nashik,20.6391,74.1082,VALID,Passed all geographic and bounding box checks
+1016,182612,Bhavanagar,Baglan,Nashik,20.6522,74.1544,VALID,Passed all geographic and bounding box checks
+1017,182611,Bhawade,Baglan,Nashik,20.7086,74.0048,VALID,Passed all geographic and bounding box checks
+1018,182615,Bhildar,Baglan,Nashik,20.6833,74.1455,VALID,Passed all geographic and bounding box checks
+1019,182616,Bhilwad,Baglan,Nashik,20.6895,74.0541,VALID,Passed all geographic and bounding box checks
+1020,182617,Bhimkhet,Baglan,Nashik,20.7102,73.9855,VALID,Passed all geographic and bounding box checks
+1021,182613,Bijorse,Baglan,Nashik,20.7511,74.1998,VALID,Passed all geographic and bounding box checks
+1022,182614,Bijote,Baglan,Nashik,20.7802,74.0988,VALID,Passed all geographic and bounding box checks
+1023,182618,Bodhari,Baglan,Nashik,20.7921,74.1255,VALID,Passed all geographic and bounding box checks
+1024,182620,Bordaivat,Baglan,Nashik,20.7322,74.2211,VALID,Passed all geographic and bounding box checks
+1025,182619,Borhate Digar,Baglan,Nashik,20.825,74.0244,VALID,Passed all geographic and bounding box checks
+1026,182621,Brahamangaon,Baglan,Nashik,20.6455,74.2811,WARNING,Duplicate coordinates shared across 2 records
+1027,182622,Brahamangaon,Baglan,Nashik,20.6455,74.2811,WARNING,Duplicate coordinates shared across 2 records
+1028,182623,Bundhate,Baglan,Nashik,20.7611,74.2422,VALID,Passed all geographic and bounding box checks
+1029,182624,Chaphyachapada,Baglan,Nashik,20.8122,74.0011,VALID,Passed all geographic and bounding box checks
+1030,182626,Chaugaon,Baglan,Nashik,20.8211,74.2633,VALID,Passed all geographic and bounding box checks
+1031,182627,Chaundhane,Baglan,Nashik,20.7355,74.1122,VALID,Passed all geographic and bounding box checks
+1032,182625,Chirai,Baglan,Nashik,20.8118,74.3519,VALID,Passed all geographic and bounding box checks
+1033,182630,Daharane,Baglan,Nashik,20.6588,74.1844,VALID,Passed all geographic and bounding box checks
+1034,182636,Dahindule,Baglan,Nashik,20.7911,74.1922,VALID,Passed all geographic and bounding box checks
+1035,182629,Dangsoundane,Baglan,Nashik,20.7122,73.9455,VALID,Passed all geographic and bounding box checks
+1036,182631,Daregaon,Baglan,Nashik,20.7011,74.2955,VALID,Passed all geographic and bounding box checks
+1037,182632,Daswel,Baglan,Nashik,20.7588,74.3211,VALID,Passed all geographic and bounding box checks
+1038,182633,Deolane,Baglan,Nashik,20.6311,74.3068,VALID,Passed all geographic and bounding box checks
+1039,182634,Devthan Digar,Baglan,Nashik,20.7411,74.1522,VALID,Passed all geographic and bounding box checks
+1040,182635,Dhandri,Baglan,Nashik,20.7122,74.1411,VALID,Passed all geographic and bounding box checks
+1041,276428,Dholbare,Baglan,Nashik,20.7355,74.0822,VALID,Passed all geographic and bounding box checks
+1042,182637,Dongrej,Baglan,Nashik,20.8422,74.1588,VALID,Passed all geographic and bounding box checks
+1043,182628,Dyane,Baglan,Nashik,20.7541,74.2869,VALID,Passed all geographic and bounding box checks
+1044,182638,Ejamane,Baglan,Nashik,20.7811,74.0122,VALID,Passed all geographic and bounding box checks
+1045,182639,Golwad,Baglan,Nashik,20.8111,73.9916,VALID,Passed all geographic and bounding box checks
+1046,182640,Gorane,Baglan,Nashik,20.6722,74.1351,VALID,Passed all geographic and bounding box checks
+1047,182641,Jad,Baglan,Nashik,20.7917,73.9933,VALID,Passed all geographic and bounding box checks
+1048,182644,Jaikheda,Baglan,Nashik,20.7921,74.2092,VALID,Passed all geographic and bounding box checks
+1049,182642,Jakhod,Baglan,Nashik,20.7811,74.2422,VALID,Passed all geographic and bounding box checks
+1050,182643,Jamoti,Baglan,Nashik,20.8011,74.0322,VALID,Passed all geographic and bounding box checks
+1051,182645,Joran,Baglan,Nashik,20.8351,73.9522,VALID,Passed all geographic and bounding box checks
+1052,182646,Junenirpur,Baglan,Nashik,20.7622,74.3011,VALID,Passed all geographic and bounding box checks
+1053,182698,Junishemli,Baglan,Nashik,20.7255,73.9111,VALID,Passed all geographic and bounding box checks
+1054,182647,Kakadgaon,Baglan,Nashik,20.6388,74.2544,VALID,Passed all geographic and bounding box checks
+1055,182650,Kandhane,Baglan,Nashik,20.6256,74.1066,WARNING,Duplicate coordinates shared across 2 records
+1056,182651,Kapaleshwar,Baglan,Nashik,20.8522,74.0811,VALID,Passed all geographic and bounding box checks
+1057,182652,Karanjad,Baglan,Nashik,20.8411,74.1022,VALID,Passed all geographic and bounding box checks
+1058,182653,Karanjkhede,Baglan,Nashik,20.6088,74.2855,VALID,Passed all geographic and bounding box checks
+1059,182654,Karhe,Baglan,Nashik,20.6511,74.3211,VALID,Passed all geographic and bounding box checks
+1060,182655,Katerwel,Baglan,Nashik,20.7122,74.0622,VALID,Passed all geographic and bounding box checks
+1061,182656,Kelzar,Baglan,Nashik,20.7688,73.9655,VALID,Passed all geographic and bounding box checks
+1062,182657,Kersane,Baglan,Nashik,20.696,74.1032,VALID,Passed all geographic and bounding box checks
+1063,182708,Khalche Tembe,Baglan,Nashik,20.7822,74.3155,VALID,Passed all geographic and bounding box checks
+1064,182648,Khamlon,Baglan,Nashik,20.7322,74.0155,VALID,Passed all geographic and bounding box checks
+1065,182649,Khamtane,Baglan,Nashik,20.6016,74.1624,VALID,Passed all geographic and bounding box checks
+1066,182660,Khirmani,Baglan,Nashik,20.8011,74.0722,VALID,Passed all geographic and bounding box checks
+1067,182658,Kikwari Bu.,Baglan,Nashik,20.6055,74.2311,VALID,Passed all geographic and bounding box checks
+1068,182659,Kikwari Kh.,Baglan,Nashik,20.6122,74.2422,VALID,Passed all geographic and bounding box checks
+1069,182663,Kolipada,Baglan,Nashik,20.7211,73.9211,VALID,Passed all geographic and bounding box checks
+1070,182662,Kotbel,Baglan,Nashik,20.7822,73.9311,VALID,Passed all geographic and bounding box checks
+1071,182661,Kupkheda,Baglan,Nashik,20.6211,74.2155,VALID,Passed all geographic and bounding box checks
+1072,182664,Ladud,Baglan,Nashik,20.7355,74.0522,VALID,Passed all geographic and bounding box checks
+1073,182665,Lakhamapur,Baglan,Nashik,20.6551,74.2322,VALID,Passed all geographic and bounding box checks
+1074,182666,Mahad,Baglan,Nashik,20.6911,74.1122,VALID,Passed all geographic and bounding box checks
+1075,182667,Malegaon,Baglan,Nashik,20.5576,74.5246,WARNING,Duplicate coordinates shared across 3 records
+1076,182668,Malegaon,Baglan,Nashik,20.5576,74.5246,WARNING,Duplicate coordinates shared across 3 records
+1077,182669,Malegaon,Baglan,Nashik,20.5576,74.5246,WARNING,Duplicate coordinates shared across 3 records
+1078,182670,Maliwada,Baglan,Nashik,20.6822,74.1855,VALID,Passed all geographic and bounding box checks
+1079,182674,Manjawad,Baglan,Nashik,20.6522,74.0811,VALID,Passed all geographic and bounding box checks
+1080,182671,Manur,Baglan,Nashik,20.7067,73.8827,VALID,Passed all geographic and bounding box checks
+1081,182672,Morane Sahebrao,Baglan,Nashik,20.6722,74.1522,VALID,Passed all geographic and bounding box checks
+1082,182673,Morenagaon,Baglan,Nashik,20.6655,74.1411,VALID,Passed all geographic and bounding box checks
+1083,182678,Morkure,Baglan,Nashik,20.7411,74.1155,VALID,Passed all geographic and bounding box checks
+1084,182675,Mulane,Baglan,Nashik,20.6322,74.2711,VALID,Passed all geographic and bounding box checks
+1085,182676,Mulher,Baglan,Nashik,20.7822,74.0634,VALID,Passed all geographic and bounding box checks
+1086,182677,Mungase,Baglan,Nashik,20.6211,74.2255,VALID,Passed all geographic and bounding box checks
+1087,182679,Nalkes,Baglan,Nashik,20.7711,74.0255,VALID,Passed all geographic and bounding box checks
+1088,182680,Nampur,Baglan,Nashik,20.7295,74.3109,VALID,Passed all geographic and bounding box checks
+1089,182681,Nandin,Baglan,Nashik,20.851,74.2223,VALID,Passed all geographic and bounding box checks
+1090,182684,Navegaon,Baglan,Nashik,20.7011,74.2822,VALID,Passed all geographic and bounding box checks
+1091,182682,Navenirpur,Baglan,Nashik,20.7511,74.2922,VALID,Passed all geographic and bounding box checks
+1092,182683,Navishemli,Baglan,Nashik,20.7188,73.9055,VALID,Passed all geographic and bounding box checks
+1093,182685,Nikwel,Baglan,Nashik,20.8122,74.1811,VALID,Passed all geographic and bounding box checks
+1094,182686,Nitane,Baglan,Nashik,20.7451,74.1811,VALID,Passed all geographic and bounding box checks
+1095,182687,Parner,Baglan,Nashik,20.6911,74.1222,VALID,Passed all geographic and bounding box checks
+1096,182688,Pathave Digar,Baglan,Nashik,20.7455,74.1622,VALID,Passed all geographic and bounding box checks
+1097,182692,Phophir,Baglan,Nashik,20.7611,74.1011,VALID,Passed all geographic and bounding box checks
+1098,182691,Pimpaldar,Baglan,Nashik,20.8022,74.1411,VALID,Passed all geographic and bounding box checks
+1099,182689,Pimpalkote,Baglan,Nashik,20.7322,73.9655,VALID,Passed all geographic and bounding box checks
+1100,182690,Pingalwade,Baglan,Nashik,20.6655,74.2011,VALID,Passed all geographic and bounding box checks
+1101,182693,Ramtir,Baglan,Nashik,20.8122,74.2811,VALID,Passed all geographic and bounding box checks
+1102,182694,Ratir,Baglan,Nashik,20.7922,74.0511,VALID,Passed all geographic and bounding box checks
+1103,182695,Sakode,Baglan,Nashik,20.7011,74.2155,VALID,Passed all geographic and bounding box checks
+1104,182696,Salher,Baglan,Nashik,20.7223,73.9454,VALID,Passed all geographic and bounding box checks
+1105,264998,Salvan,Baglan,Nashik,20.7522,73.9211,VALID,Passed all geographic and bounding box checks
+1106,182697,Sarade,Baglan,Nashik,20.6944,74.3355,VALID,Passed all geographic and bounding box checks
+1107,182699,Shevare,Baglan,Nashik,20.6811,74.1955,VALID,Passed all geographic and bounding box checks
+1108,182701,Shripurwade,Baglan,Nashik,20.6422,74.3411,VALID,Passed all geographic and bounding box checks
+1109,182700,Sompur,Baglan,Nashik,20.6311,74.2922,VALID,Passed all geographic and bounding box checks
+1110,182702,Surane,Baglan,Nashik,20.6425,74.3396,VALID,Passed all geographic and bounding box checks
+1111,182703,Taharabad,Baglan,Nashik,20.784,74.1387,VALID,Passed all geographic and bounding box checks
+1112,182704,Talwade Bu.,Baglan,Nashik,20.3976,74.7497,WARNING,Duplicate coordinates shared across 3 records
+1113,182706,Talwade Di.,Baglan,Nashik,20.3976,74.7497,WARNING,Duplicate coordinates shared across 3 records
+1114,182705,Tandulwadi,Baglan,Nashik,20.7522,74.2544,VALID,Passed all geographic and bounding box checks
+1115,182707,Tarsali,Baglan,Nashik,20.8122,74.2211,VALID,Passed all geographic and bounding box checks
+1116,300332,Tatani,Baglan,Nashik,20.7822,73.8911,VALID,Passed all geographic and bounding box checks
+1117,182709,Tembhe (Vare),Baglan,Nashik,20.7889,74.3302,VALID,Passed all geographic and bounding box checks
+1118,182710,Thengode,Baglan,Nashik,20.6511,74.1922,VALID,Passed all geographic and bounding box checks
+1119,182711,Tilwan,Baglan,Nashik,20.7211,74.2422,VALID,Passed all geographic and bounding box checks
+1120,182712,Tungan Digar,Baglan,Nashik,20.7411,74.1222,VALID,Passed all geographic and bounding box checks
+1121,182713,Utrane,Baglan,Nashik,20.7643,74.2882,VALID,Passed all geographic and bounding box checks
+1122,182715,Vattar,Baglan,Nashik,20.6822,74.2211,VALID,Passed all geographic and bounding box checks
+1123,182718,Vinchure,Baglan,Nashik,20.5911,74.1822,VALID,Passed all geographic and bounding box checks
+1124,182719,Virgaon,Baglan,Nashik,20.6679,74.1424,VALID,Passed all geographic and bounding box checks
+1125,182720,Visapur,Baglan,Nashik,20.6122,74.2655,VALID,Passed all geographic and bounding box checks
+1126,182714,Vonoli,Baglan,Nashik,20.7822,74.1122,VALID,Passed all geographic and bounding box checks
+1127,182721,Wadipisol,Baglan,Nashik,20.7911,74.0855,VALID,Passed all geographic and bounding box checks
+1128,182723,Waghale,Baglan,Nashik,20.6211,74.3011,VALID,Passed all geographic and bounding box checks
+1129,182722,Waghambe,Baglan,Nashik,20.743,73.9635,VALID,Passed all geographic and bounding box checks
+1130,182716,Wathode,Baglan,Nashik,20.6811,74.2522,VALID,Passed all geographic and bounding box checks
+1131,182717,Wayagaon,Baglan,Nashik,20.7111,74.2322,VALID,Passed all geographic and bounding box checks
+1132,182724,Yashwantnagar,Baglan,Nashik,20.7211,74.1811,VALID,Passed all geographic and bounding box checks
+1133,182725,Adgon,Chandwad,Nashik,20.3522,74.0155,VALID,Passed all geographic and bounding box checks
+1134,182727,Ahirkhede,Chandwad,Nashik,20.4122,74.0511,VALID,Passed all geographic and bounding box checks
+1135,182726,Asarkhede,Chandwad,Nashik,20.3811,73.9822,VALID,Passed all geographic and bounding box checks
+1136,182728,Bahaduri,Chandwad,Nashik,20.2811,74.1011,VALID,Passed all geographic and bounding box checks
+1137,182729,Bhadane,Chandwad,Nashik,20.3211,74.1422,VALID,Passed all geographic and bounding box checks
+1138,182730,Bhatgaon,Chandwad,Nashik,20.3122,74.1811,VALID,Passed all geographic and bounding box checks
+1139,182731,Bhayale,Chandwad,Nashik,20.3455,74.0622,VALID,Passed all geographic and bounding box checks
+1140,182732,Bhoyegaon,Chandwad,Nashik,20.3911,74.1222,VALID,Passed all geographic and bounding box checks
+1141,182733,Bhutyane,Chandwad,Nashik,20.3722,73.9511,VALID,Passed all geographic and bounding box checks
+1142,182734,Bopane,Chandwad,Nashik,20.3622,74.0811,VALID,Passed all geographic and bounding box checks
+1143,182735,Borale,Chandwad,Nashik,20.3922,74.1522,VALID,Passed all geographic and bounding box checks
+1144,182737,Chikhalamthan,Chandwad,Nashik,20.2511,74.0522,VALID,Passed all geographic and bounding box checks
+1145,182738,Chinchole,Chandwad,Nashik,20.3322,74.1111,VALID,Passed all geographic and bounding box checks
+1146,182739,Dahegaon,Chandwad,Nashik,20.3011,74.0922,VALID,Passed all geographic and bounding box checks
+1147,182740,Dahivad,Chandwad,Nashik,20.4011,74.2011,VALID,Passed all geographic and bounding box checks
+1148,182741,Dahyane,Chandwad,Nashik,20.3273,73.99,VALID,Passed all geographic and bounding box checks
+1149,182742,Daregaon,Chandwad,Nashik,20.3511,74.1322,VALID,Passed all geographic and bounding box checks
+1150,182743,Devargaon,Chandwad,Nashik,20.2922,74.0411,VALID,Passed all geographic and bounding box checks
+1151,182744,Dhodambe,Chandwad,Nashik,20.3316,74.0596,VALID,Passed all geographic and bounding box checks
+1152,182745,Dhondgavhan,Chandwad,Nashik,20.4042,74.2251,VALID,Passed all geographic and bounding box checks
+1153,182747,Dighwat,Chandwad,Nashik,20.4181,74.3412,VALID,Passed all geographic and bounding box checks
+1154,182748,Dongaon,Chandwad,Nashik,20.3582,74.3125,VALID,Passed all geographic and bounding box checks
+1155,182749,Dongargaon,Chandwad,Nashik,20.3122,74.2855,VALID,Passed all geographic and bounding box checks
+1156,182746,Dudh Kheda,Chandwad,Nashik,20.3411,74.1522,VALID,Passed all geographic and bounding box checks
+1157,182750,Dugaon,Chandwad,Nashik,20.2815,74.1855,VALID,Passed all geographic and bounding box checks
+1158,182751,Gangave,Chandwad,Nashik,20.2911,74.2211,VALID,Passed all geographic and bounding box checks
+1159,182752,Ganur,Chandwad,Nashik,20.3222,74.2011,VALID,Passed all geographic and bounding box checks
+1160,182753,Goharan,Chandwad,Nashik,20.3011,74.1422,WARNING,Duplicate coordinates shared across 2 records
+1161,182754,Harnul,Chandwad,Nashik,20.3422,74.2911,VALID,Passed all geographic and bounding box checks
+1162,182755,Hatti,Chandwad,Nashik,20.3522,74.2155,VALID,Passed all geographic and bounding box checks
+1163,182756,Hirapur,Chandwad,Nashik,20.2192,74.1977,VALID,Passed all geographic and bounding box checks
+1164,182757,Hiwarkhed,Chandwad,Nashik,20.3811,74.3222,VALID,Passed all geographic and bounding box checks
+1165,182758,Jopul,Chandwad,Nashik,20.1994,73.9064,VALID,Passed all geographic and bounding box checks
+1166,182759,Kaji Sangvi,Chandwad,Nashik,20.3322,74.1811,VALID,Passed all geographic and bounding box checks
+1167,182760,Kalamdare,Chandwad,Nashik,20.3111,74.0522,WARNING,Duplicate coordinates shared across 2 records
+1168,182761,Kalkhode,Chandwad,Nashik,20.2522,74.0811,WARNING,Duplicate coordinates shared across 2 records
+1169,182762,Kanadgaon,Chandwad,Nashik,20.3922,74.2422,WARNING,Duplicate coordinates shared across 2 records
+1170,182763,Kanmanda,Chandwad,Nashik,20.4011,74.3122,VALID,Passed all geographic and bounding box checks
+1171,182764,Katarwadi,Chandwad,Nashik,20.3622,74.2611,VALID,Passed all geographic and bounding box checks
+1172,182765,Khadak Jam,Chandwad,Nashik,20.3411,74.1122,WARNING,Duplicate coordinates shared across 2 records
+1173,182766,Khadakoze,Chandwad,Nashik,20.3555,74.2011,WARNING,Duplicate coordinates shared across 3 records
+1174,182767,Kheldari,Chandwad,Nashik,20.4011,74.3311,VALID,Passed all geographic and bounding box checks
+1175,182768,Kokankheda,Chandwad,Nashik,20.3016,74.3374,VALID,Passed all geographic and bounding box checks
+1176,182769,Kundalgaon,Chandwad,Nashik,20.3122,74.3522,VALID,Passed all geographic and bounding box checks
+1177,182770,Malsane,Chandwad,Nashik,20.3222,74.1911,VALID,Passed all geographic and bounding box checks
+1178,182771,Mangrul,Chandwad,Nashik,20.3111,74.1222,VALID,Passed all geographic and bounding box checks
+1179,182772,Mesankhede,Chandwad,Nashik,20.3588,74.2822,VALID,Passed all geographic and bounding box checks
+1180,182773,Nandurtek,Chandwad,Nashik,20.3622,74.1011,VALID,Passed all geographic and bounding box checks
+1181,182774,Nanhave,Chandwad,Nashik,20.3011,74.0511,VALID,Passed all geographic and bounding box checks
+1182,182775,Narayangaon,Chandwad,Nashik,20.3711,74.1522,VALID,Passed all geographic and bounding box checks
+1183,182776,Nimbale,Chandwad,Nashik,20.3511,74.1111,VALID,Passed all geographic and bounding box checks
+1184,182777,Nimgavhan,Chandwad,Nashik,20.3211,74.1611,VALID,Passed all geographic and bounding box checks
+1185,182778,Nimon,Chandwad,Nashik,20.2822,74.1422,VALID,Passed all geographic and bounding box checks
+1186,182779,Panhale,Chandwad,Nashik,20.3922,74.2211,VALID,Passed all geographic and bounding box checks
+1187,182780,Paregaon,Chandwad,Nashik,20.3379,73.9679,VALID,Passed all geographic and bounding box checks
+1188,182781,Parsul,Chandwad,Nashik,20.265,74.1845,VALID,Passed all geographic and bounding box checks
+1189,182782,Pate,Chandwad,Nashik,20.3211,74.2011,VALID,Passed all geographic and bounding box checks
+1190,182783,Patharshep,Chandwad,Nashik,20.3455,74.1811,VALID,Passed all geographic and bounding box checks
+1191,182785,Pimpalnar,Chandwad,Nashik,20.3688,74.2311,VALID,Passed all geographic and bounding box checks
+1192,182784,Pimplad,Chandwad,Nashik,20.3811,74.0522,VALID,Passed all geographic and bounding box checks
+1193,182786,Puri,Chandwad,Nashik,20.3122,74.1111,VALID,Passed all geographic and bounding box checks
+1194,182787,Rahud,Chandwad,Nashik,20.4011,74.1522,VALID,Passed all geographic and bounding box checks
+1195,182789,Rajderwadi,Chandwad,Nashik,20.4222,74.3111,VALID,Passed all geographic and bounding box checks
+1196,182788,Raypur,Chandwad,Nashik,20.3588,74.2811,VALID,Passed all geographic and bounding box checks
+1197,182790,Redgaon Kh.,Chandwad,Nashik,20.3011,74.1222,VALID,Passed all geographic and bounding box checks
+1198,182791,Salsane,Chandwad,Nashik,20.3411,74.0511,VALID,Passed all geographic and bounding box checks
+1199,182792,Shelu,Chandwad,Nashik,20.22,74.1682,VALID,Passed all geographic and bounding box checks
+1200,182793,Shinde,Chandwad,Nashik,20.3013,74.3383,VALID,Passed all geographic and bounding box checks
+1201,182794,Shingave,Chandwad,Nashik,20.0338,74.0404,VALID,Passed all geographic and bounding box checks
+1202,182795,Shirsane,Chandwad,Nashik,20.3111,74.1522,WARNING,Duplicate coordinates shared across 2 records
+1203,182796,Shirur,Chandwad,Nashik,20.3411,74.1111,VALID,Passed all geographic and bounding box checks
+1204,182797,Shivare,Chandwad,Nashik,20.0597,74.1457,VALID,Passed all geographic and bounding box checks
+1205,182798,Sogras,Chandwad,Nashik,20.3211,74.1011,VALID,Passed all geographic and bounding box checks
+1206,182799,Sonisangvi,Chandwad,Nashik,20.3111,74.0522,WARNING,Duplicate coordinates shared across 2 records
+1207,182800,Sutarkheda,Chandwad,Nashik,20.3522,74.2611,VALID,Passed all geographic and bounding box checks
+1208,182801,Talegoan Rohi,Chandwad,Nashik,20.3322,74.2422,VALID,Passed all geographic and bounding box checks
+1209,182802,Talwade,Chandwad,Nashik,20.3922,74.1811,VALID,Passed all geographic and bounding box checks
+1210,182803,Tisgaon,Chandwad,Nashik,20.3111,74.1522,WARNING,Duplicate coordinates shared across 2 records
+1211,182804,Urdhul,Chandwad,Nashik,20.3211,74.1111,WARNING,Duplicate coordinates shared across 2 records
+1212,182805,Uswad,Chandwad,Nashik,20.3368,74.3197,VALID,Passed all geographic and bounding box checks
+1213,182807,Vadalibhoi,Chandwad,Nashik,20.2841,74.1072,VALID,Passed all geographic and bounding box checks
+1214,182808,Vadbare,Chandwad,Nashik,20.3011,74.1422,WARNING,Duplicate coordinates shared across 2 records
+1215,182809,Vadgaonpada,Chandwad,Nashik,20.3555,74.2011,WARNING,Duplicate coordinates shared across 3 records
+1216,182810,Vadner Bhairav,Chandwad,Nashik,20.2522,74.0811,WARNING,Duplicate coordinates shared across 2 records
+1217,182813,Vitave,Chandwad,Nashik,20.3922,74.2422,WARNING,Duplicate coordinates shared across 2 records
+1218,182806,Wad,Chandwad,Nashik,20.3411,74.1122,WARNING,Duplicate coordinates shared across 2 records
+1219,182814,Waghdard,Chandwad,Nashik,20.3555,74.2011,WARNING,Duplicate coordinates shared across 3 records
+1220,237157,Wahegaon,Chandwad,Nashik,20.3122,74.1522,VALID,Passed all geographic and bounding box checks
+1221,182811,Waki Bk.,Chandwad,Nashik,20.3211,74.1111,WARNING,Duplicate coordinates shared across 2 records
+1222,182812,Waki Kd.,Chandwad,Nashik,20.3322,74.1222,VALID,Passed all geographic and bounding box checks
+1223,182815,Bhaur,Deola,Nashik,20.4522,74.2155,VALID,Passed all geographic and bounding box checks
+1224,182816,Chinchave,Deola,Nashik,20.7929,74.4644,VALID,Passed all geographic and bounding box checks
+1225,182817,Dahiwad,Deola,Nashik,20.4311,74.3,VALID,Passed all geographic and bounding box checks
+1226,294589,Deopurpa,Deola,Nashik,20.4811,74.2422,VALID,Passed all geographic and bounding box checks
+1227,182819,Dongargaon,Deola,Nashik,20.4611,74.1122,VALID,Passed all geographic and bounding box checks
+1228,182820,Fule Malwadi,Deola,Nashik,20.4722,74.2011,VALID,Passed all geographic and bounding box checks
+1229,182821,Fulenagar,Deola,Nashik,20.4522,74.0811,VALID,Passed all geographic and bounding box checks
+1230,182822,Girnare,Deola,Nashik,20.4911,74.1522,VALID,Passed all geographic and bounding box checks
+1231,182823,Gunjalnagar,Deola,Nashik,20.4811,74.2211,VALID,Passed all geographic and bounding box checks
+1232,182824,Kankapur,Deola,Nashik,20.4411,74.1811,VALID,Passed all geographic and bounding box checks
+1233,182825,Kapashi,Deola,Nashik,20.4611,74.2911,VALID,Passed all geographic and bounding box checks
+1234,182826,Khadaktale,Deola,Nashik,20.4711,74.1222,VALID,Passed all geographic and bounding box checks
+1235,182827,Khalap,Deola,Nashik,20.4222,74.3311,VALID,Passed all geographic and bounding box checks
+1236,182828,Khamkheda,Deola,Nashik,20.4911,74.3522,VALID,Passed all geographic and bounding box checks
+1237,182829,Kharde (W),Deola,Nashik,20.4811,74.2811,VALID,Passed all geographic and bounding box checks
+1238,182830,Khuntewadi,Deola,Nashik,20.4555,74.1122,VALID,Passed all geographic and bounding box checks
+1239,182831,Kumbharde,Deola,Nashik,20.4411,74.0511,VALID,Passed all geographic and bounding box checks
+1240,182832,Lohoner,Deola,Nashik,20.514,74.1982,VALID,Passed all geographic and bounding box checks
+1241,182833,Mahalpatre,Deola,Nashik,20.5011,74.1422,VALID,Passed all geographic and bounding box checks
+1242,182835,Malwadi,Deola,Nashik,20.4711,74.1522,VALID,Passed all geographic and bounding box checks
+1243,182836,Matane,Deola,Nashik,20.4611,74.1111,VALID,Passed all geographic and bounding box checks
+1244,182837,Meshi,Deola,Nashik,20.4726,74.2989,VALID,Passed all geographic and bounding box checks
+1245,182834,M.Fulenagar,Deola,Nashik,20.4811,74.2011,VALID,Passed all geographic and bounding box checks
+1246,182838,Nimbola,Deola,Nashik,20.4911,74.1811,VALID,Passed all geographic and bounding box checks
+1247,182839,Pimpalgaon,Deola,Nashik,20.4822,74.1511,VALID,Passed all geographic and bounding box checks
+1248,182840,Rameshwar,Deola,Nashik,20.4711,74.3122,VALID,Passed all geographic and bounding box checks
+1249,182841,Sangavi,Deola,Nashik,20.4611,74.2811,VALID,Passed all geographic and bounding box checks
+1250,182842,Satwaiwadi,Deola,Nashik,20.4511,74.1111,VALID,Passed all geographic and bounding box checks
+1251,182843,Savki (Lo),Deola,Nashik,20.5111,74.1922,VALID,Passed all geographic and bounding box checks
+1252,182844,Sheri (Lo),Deola,Nashik,20.5211,74.2011,VALID,Passed all geographic and bounding box checks
+1253,182845,Shrirampur,Deola,Nashik,20.4811,74.2122,VALID,Passed all geographic and bounding box checks
+1254,182846,Subhashnagar,Deola,Nashik,20.4711,74.2422,VALID,Passed all geographic and bounding box checks
+1255,182847,Tisgaon,Deola,Nashik,20.4911,74.3111,VALID,Passed all geographic and bounding box checks
+1256,182848,Umarane,Deola,Nashik,20.4588,74.3411,VALID,Passed all geographic and bounding box checks
+1257,182849,Varhale,Deola,Nashik,20.5011,74.2811,VALID,Passed all geographic and bounding box checks
+1258,182850,Varwandi,Deola,Nashik,20.4711,74.1422,VALID,Passed all geographic and bounding box checks
+1259,182851,Vasol,Deola,Nashik,20.4411,74.3311,VALID,Passed all geographic and bounding box checks
+1260,182852,Vijaynager,Deola,Nashik,20.4611,74.2011,VALID,Passed all geographic and bounding box checks
+1261,182853,Vithewadi,Deola,Nashik,20.4522,74.1811,VALID,Passed all geographic and bounding box checks
+1262,182854,Wajgaon ('L),Deola,Nashik,20.5111,74.1911,VALID,Passed all geographic and bounding box checks
+1263,182855,Wakhari,Deola,Nashik,20.4711,74.1111,VALID,Passed all geographic and bounding box checks
+1264,182856,Warshi,Deola,Nashik,20.4911,74.1222,VALID,Passed all geographic and bounding box checks
+1265,182857,Ahiwantwadi,Dindori,Nashik,20.2311,73.8522,VALID,Passed all geographic and bounding box checks
+1266,182858,Akrale,Dindori,Nashik,20.1522,73.8211,VALID,Passed all geographic and bounding box checks
+1267,182859,Ambad,Dindori,Nashik,20.1811,73.8122,VALID,Passed all geographic and bounding box checks
+1268,182860,Ambaner,Dindori,Nashik,20.2111,73.8822,VALID,Passed all geographic and bounding box checks
+1269,182861,Ambedindori,Dindori,Nashik,20.2011,73.9122,VALID,Passed all geographic and bounding box checks
+1270,182862,Ambegani,Dindori,Nashik,20.1822,73.8411,VALID,Passed all geographic and bounding box checks
+1271,182863,Ambewani,Dindori,Nashik,20.1711,73.8011,VALID,Passed all geographic and bounding box checks
+1272,182864,Ashewadi,Dindori,Nashik,20.1311,73.8222,VALID,Passed all geographic and bounding box checks
+1273,182865,Awankhed,Dindori,Nashik,20.2522,73.8111,VALID,Passed all geographic and bounding box checks
+1274,182866,Badgichap,Dindori,Nashik,20.2811,73.8411,VALID,Passed all geographic and bounding box checks
+1275,182867,Bhanwad,Dindori,Nashik,20.2422,73.8811,VALID,Passed all geographic and bounding box checks
+1276,182868,Bhatode,Dindori,Nashik,20.1911,73.8522,VALID,Passed all geographic and bounding box checks
+1277,182869,Bopegaon,Dindori,Nashik,20.1611,73.8911,VALID,Passed all geographic and bounding box checks
+1278,182870,Chachadgaon,Dindori,Nashik,20.2111,73.8011,VALID,Passed all geographic and bounding box checks
+1279,182871,Chandikapur,Dindori,Nashik,20.2322,73.8411,VALID,Passed all geographic and bounding box checks
+1280,182874,Charose,Dindori,Nashik,20.2211,73.8222,VALID,Passed all geographic and bounding box checks
+1281,182873,Chausale,Dindori,Nashik,20.4117,73.7866,VALID,Passed all geographic and bounding box checks
+1282,182872,Chinchakhed,Dindori,Nashik,20.1511,73.9111,VALID,Passed all geographic and bounding box checks
+1283,182875,Dahegaon,Dindori,Nashik,20.1811,73.8511,VALID,Passed all geographic and bounding box checks
+1284,182876,Dahivi,Dindori,Nashik,20.3302,73.8873,VALID,Passed all geographic and bounding box checks
+1285,182877,Dehare,Dindori,Nashik,20.2411,73.8911,VALID,Passed all geographic and bounding box checks
+1286,182878,Deoghar,Dindori,Nashik,20.2111,73.8211,VALID,Passed all geographic and bounding box checks
+1287,182879,Deopada,Dindori,Nashik,20.2022,73.8111,VALID,Passed all geographic and bounding box checks
+1288,182880,Deopur,Dindori,Nashik,20.1822,73.8822,VALID,Passed all geographic and bounding box checks
+1289,182881,Deosane,Dindori,Nashik,20.1911,73.8311,VALID,Passed all geographic and bounding box checks
+1290,182882,Deothan,Dindori,Nashik,20.2211,73.8511,VALID,Passed all geographic and bounding box checks
+1291,182883,Dhagur,Dindori,Nashik,20.1311,73.8011,VALID,Passed all geographic and bounding box checks
+1292,182884,Dhakambe,Dindori,Nashik,20.1211,73.8211,VALID,Passed all geographic and bounding box checks
+1293,182885,Dhaur,Dindori,Nashik,20.2411,73.8511,VALID,Passed all geographic and bounding box checks
+1294,274333,Dhondalpara,Dindori,Nashik,20.2511,73.8811,VALID,Passed all geographic and bounding box checks
+1295,182889,Gandole,Dindori,Nashik,20.3805,73.5922,VALID,Passed all geographic and bounding box checks
+1296,182890,Gawalwadi,Dindori,Nashik,20.0924,73.7518,VALID,Passed all geographic and bounding box checks
+1297,182891,Golshi,Dindori,Nashik,20.2111,73.8111,VALID,Passed all geographic and bounding box checks
+1298,182892,Gondegon,Dindori,Nashik,20.1811,73.9111,VALID,Passed all geographic and bounding box checks
+1299,182893,Hastedum,Dindori,Nashik,20.1922,73.8511,VALID,Passed all geographic and bounding box checks
+1300,182894,Hatnore,Dindori,Nashik,20.2311,73.8811,VALID,Passed all geographic and bounding box checks
+1301,182991,Bharvir Kh.,Igatpuri,Nashik,19.7422,73.7411,VALID,Passed all geographic and bounding box checks
+1302,182992,Bhavali Bk,Igatpuri,Nashik,19.6522,73.5111,VALID,Passed all geographic and bounding box checks
+1303,182993,Bhavali Kh,Igatpuri,Nashik,19.6488,73.5222,VALID,Passed all geographic and bounding box checks
+1304,182994,Borli,Igatpuri,Nashik,19.6431,73.5718,VALID,Passed all geographic and bounding box checks
+1305,182995,Bortembha,Igatpuri,Nashik,19.6322,73.5411,VALID,Passed all geographic and bounding box checks
+1306,182996,Chinchalekhaire,Igatpuri,Nashik,19.7111,73.4811,VALID,Passed all geographic and bounding box checks
+1307,182997,Daundat,Igatpuri,Nashik,19.7811,73.6522,VALID,Passed all geographic and bounding box checks
+1308,182998,Deole,Igatpuri,Nashik,19.7211,73.6011,VALID,Passed all geographic and bounding box checks
+1309,182999,Dhamangaon,Igatpuri,Nashik,19.7611,73.7111,VALID,Passed all geographic and bounding box checks
+1310,183000,Dhamani,Igatpuri,Nashik,19.6811,73.5822,VALID,Passed all geographic and bounding box checks
+1311,183002,Dhanorli,Igatpuri,Nashik,19.7011,73.6511,VALID,Passed all geographic and bounding box checks
+1312,183001,Dhargaon,Igatpuri,Nashik,19.7122,73.6222,VALID,Passed all geographic and bounding box checks
+1313,183003,Fangulgavhan,Igatpuri,Nashik,19.7522,73.5511,VALID,Passed all geographic and bounding box checks
+1314,183004,Garudeshwar,Igatpuri,Nashik,19.7222,73.6122,VALID,Passed all geographic and bounding box checks
+1315,183005,Ghoti Bk,Igatpuri,Nashik,19.7167,73.6244,WARNING,Duplicate coordinates shared across 2 records
+1316,183006,Ghoti Kh,Igatpuri,Nashik,19.7167,73.6244,WARNING,Duplicate coordinates shared across 2 records
+1317,183007,Gondedumala,Igatpuri,Nashik,19.8275,73.6814,VALID,Passed all geographic and bounding box checks
+1318,183008,Indore,Igatpuri,Nashik,19.6342,73.7072,VALID,Passed all geographic and bounding box checks
+1319,183009,Janori,Igatpuri,Nashik,19.8054,73.6973,VALID,Passed all geographic and bounding box checks
+1320,183010,Kaluste,Igatpuri,Nashik,19.6621,73.6392,VALID,Passed all geographic and bounding box checks
+1321,183011,Kanchangaon,Igatpuri,Nashik,19.6911,73.5111,VALID,Passed all geographic and bounding box checks
+1322,183012,Karhole,Igatpuri,Nashik,19.7989,73.5803,VALID,Passed all geographic and bounding box checks
+1323,182985,Kawanai,Igatpuri,Nashik,19.781,73.617,VALID,Passed all geographic and bounding box checks
+1324,183013,Khadked,Igatpuri,Nashik,19.6711,73.5511,VALID,Passed all geographic and bounding box checks
+1325,183016,Khairgaon,Igatpuri,Nashik,19.7092,73.6618,VALID,Passed all geographic and bounding box checks
+1326,183014,Khambale,Igatpuri,Nashik,19.7331,73.6372,VALID,Passed all geographic and bounding box checks
+1327,183015,Khed,Igatpuri,Nashik,19.6615,73.7063,VALID,Passed all geographic and bounding box checks
+1328,183017,Korapgaon,Igatpuri,Nashik,19.6822,73.6122,VALID,Passed all geographic and bounding box checks
+1329,245160,Krishnanagar,Igatpuri,Nashik,19.7522,73.7011,VALID,Passed all geographic and bounding box checks
+1330,183023,Kurhegaon,Igatpuri,Nashik,19.8264,73.6963,VALID,Passed all geographic and bounding box checks
+1331,183019,Kurnoli,Igatpuri,Nashik,19.6711,73.6011,VALID,Passed all geographic and bounding box checks
+1332,183020,Kurungwadi,Igatpuri,Nashik,19.6219,73.6318,VALID,Passed all geographic and bounding box checks
+1333,259712,Kushegaon,Igatpuri,Nashik,19.8645,73.5754,VALID,Passed all geographic and bounding box checks
+1334,245159,Laxminagar,Igatpuri,Nashik,19.7322,73.6522,VALID,Passed all geographic and bounding box checks
+1335,183022,Malunje,Igatpuri,Nashik,19.7911,73.7011,VALID,Passed all geographic and bounding box checks
+1336,183024,Manikkhamb,Igatpuri,Nashik,19.7211,73.5511,VALID,Passed all geographic and bounding box checks
+1337,183029,Manjargaon,Igatpuri,Nashik,19.6522,73.6734,VALID,Passed all geographic and bounding box checks
+1338,183025,Manvedhe,Igatpuri,Nashik,19.6622,73.6111,VALID,Passed all geographic and bounding box checks
+1339,183021,Maydara,Igatpuri,Nashik,19.6411,73.5211,VALID,Passed all geographic and bounding box checks
+1340,183026,Mhasurli,Igatpuri,Nashik,19.8324,73.5362,VALID,Passed all geographic and bounding box checks
+1341,259713,Modale,Igatpuri,Nashik,19.8527,73.6115,VALID,Passed all geographic and bounding box checks
+1342,183027,Mogre,Igatpuri,Nashik,19.7811,73.5522,VALID,Passed all geographic and bounding box checks
+1343,183028,Mukane,Igatpuri,Nashik,19.8022,73.7111,VALID,Passed all geographic and bounding box checks
+1344,183018,Mundhegaon,Igatpuri,Nashik,19.7511,73.6511,VALID,Passed all geographic and bounding box checks
+1345,183030,Murambi,Igatpuri,Nashik,19.8509,73.6435,WARNING,Duplicate coordinates shared across 3 records
+1346,183031,Nagosali,Igatpuri,Nashik,19.8026,73.5347,VALID,Passed all geographic and bounding box checks
+1347,183032,Nandgaon Bk,Igatpuri,Nashik,19.6747,73.5693,WARNING,Duplicate coordinates shared across 2 records
+1348,183033,Nandgaon Sado,Igatpuri,Nashik,19.6747,73.5693,WARNING,Duplicate coordinates shared across 2 records
+1349,183034,Nandurvaidya,Igatpuri,Nashik,19.8206,73.7318,VALID,Passed all geographic and bounding box checks
+1350,183035,Ninavi,Igatpuri,Nashik,19.7511,73.5822,VALID,Passed all geographic and bounding box checks
+1351,183036,Ondali,Igatpuri,Nashik,19.6455,73.7122,VALID,Passed all geographic and bounding box checks
+1352,183037,Padali (D),Igatpuri,Nashik,19.7015,73.9585,WARNING,Duplicate coordinates shared across 2 records
+1353,183038,Pimpalgaon Bhatata,Igatpuri,Nashik,19.8242,73.5355,VALID,Passed all geographic and bounding box checks
+1354,183039,Pimpalgaon Dukra,Igatpuri,Nashik,19.7915,73.6822,VALID,Passed all geographic and bounding box checks
+1355,183041,Pimpalgaon More,Igatpuri,Nashik,19.8601,73.6744,VALID,Passed all geographic and bounding box checks
+1356,183040,Pimpalgaon Ghadga,Igatpuri,Nashik,19.7822,73.6211,VALID,Passed all geographic and bounding box checks
+1357,183042,Pimpri-Sadrddino,Igatpuri,Nashik,19.6744,73.6122,VALID,Passed all geographic and bounding box checks
+1358,183043,Rayambe,Igatpuri,Nashik,19.7969,73.5925,VALID,Passed all geographic and bounding box checks
+1359,183044,Sakur,Igatpuri,Nashik,19.6211,73.6822,VALID,Passed all geographic and bounding box checks
+1360,183045,Samnera,Igatpuri,Nashik,19.7122,73.6544,VALID,Passed all geographic and bounding box checks
+1361,183046,Sanjegaon,Igatpuri,Nashik,19.824,73.6119,VALID,Passed all geographic and bounding box checks
+1362,183047,Shenit,Igatpuri,Nashik,19.7544,73.5822,VALID,Passed all geographic and bounding box checks
+1363,183048,Shenwad Bk,Igatpuri,Nashik,19.6953,73.6458,WARNING,Duplicate coordinates shared across 2 records
+1364,183049,Shenwad Kh,Igatpuri,Nashik,19.6953,73.6458,WARNING,Duplicate coordinates shared across 2 records
+1365,183050,Shevagedang,Igatpuri,Nashik,19.7122,73.5211,VALID,Passed all geographic and bounding box checks
+1366,183051,Shirsate,Igatpuri,Nashik,19.7211,73.5544,VALID,Passed all geographic and bounding box checks
+1367,183052,Somaj,Igatpuri,Nashik,19.8122,73.5822,VALID,Passed all geographic and bounding box checks
+1368,183053,Sonoshi,Igatpuri,Nashik,19.8544,73.6522,VALID,Passed all geographic and bounding box checks
+1369,183054,Taked Bk,Igatpuri,Nashik,19.6322,73.8111,VALID,Passed all geographic and bounding box checks
+1370,183055,Taked Kh.,Igatpuri,Nashik,19.6388,73.8222,VALID,Passed all geographic and bounding box checks
+1371,183056,Takeghoti,Igatpuri,Nashik,19.7044,73.6122,VALID,Passed all geographic and bounding box checks
+1372,183057,Talogha,Igatpuri,Nashik,19.7211,73.6822,VALID,Passed all geographic and bounding box checks
+1373,183058,Taloshi,Igatpuri,Nashik,19.6822,73.7111,VALID,Passed all geographic and bounding box checks
+1374,183059,Titoli,Igatpuri,Nashik,19.7122,73.6422,VALID,Passed all geographic and bounding box checks
+1375,183060,Tringalwadi,Igatpuri,Nashik,19.737,73.5358,VALID,Passed all geographic and bounding box checks
+1376,183061,Ubhade,Igatpuri,Nashik,19.7422,73.5844,VALID,Passed all geographic and bounding box checks
+1377,183062,Umberkon,Igatpuri,Nashik,19.8244,73.7022,VALID,Passed all geographic and bounding box checks
+1378,183065,Vaki,Igatpuri,Nashik,19.6544,73.7822,VALID,Passed all geographic and bounding box checks
+1379,183067,Vasali,Igatpuri,Nashik,19.6822,73.6544,VALID,Passed all geographic and bounding box checks
+1380,183063,Wadiwarhe,Igatpuri,Nashik,19.8605,73.6753,VALID,Passed all geographic and bounding box checks
+1381,183064,Waghere,Igatpuri,Nashik,19.8422,73.6922,VALID,Passed all geographic and bounding box checks
+1382,183066,Walvihir,Igatpuri,Nashik,19.7544,73.6122,VALID,Passed all geographic and bounding box checks
+1383,183068,Abhona,Kalwan,Nashik,20.4791,73.9251,VALID,Passed all geographic and bounding box checks
+1384,183069,Athambe,Kalwan,Nashik,20.4407,73.9638,VALID,Passed all geographic and bounding box checks
+1385,183071,Bagadu,Kalwan,Nashik,20.4511,73.8822,VALID,Passed all geographic and bounding box checks
+1386,183070,Bapkheda,Kalwan,Nashik,20.4822,73.9511,VALID,Passed all geographic and bounding box checks
+1387,183072,Bhadwan,Kalwan,Nashik,20.4711,73.9822,VALID,Passed all geographic and bounding box checks
+1388,183073,Bhagurdi,Kalwan,Nashik,20.5122,73.8244,VALID,Passed all geographic and bounding box checks
+1389,183074,Bhaitane (D),Kalwan,Nashik,20.5511,73.9111,VALID,Passed all geographic and bounding box checks
+1390,245154,Bhandane Ha,Kalwan,Nashik,20.5669,73.8294,VALID,Passed all geographic and bounding box checks
+1391,183075,Bhendi,Kalwan,Nashik,20.4122,73.9522,VALID,Passed all geographic and bounding box checks
+1392,183076,Bhusani,Kalwan,Nashik,20.4322,73.8111,VALID,Passed all geographic and bounding box checks
+1393,183077,Bilwadi,Kalwan,Nashik,20.5422,73.8911,VALID,Passed all geographic and bounding box checks
+1394,183078,Bordaivat,Kalwan,Nashik,20.5111,74.0522,VALID,Passed all geographic and bounding box checks
+1395,183079,Chankapur,Kalwan,Nashik,20.5128,73.8922,VALID,Passed all geographic and bounding box checks
+1396,183080,Dahyane Digar,Kalwan,Nashik,20.4922,73.8544,VALID,Passed all geographic and bounding box checks
+1397,183081,Dalwat,Kalwan,Nashik,20.5416,73.8261,VALID,Passed all geographic and bounding box checks
+1398,183082,Darebhangi,Kalwan,Nashik,20.5611,73.8111,VALID,Passed all geographic and bounding box checks
+1399,183085,Deovalivani,Kalwan,Nashik,20.5011,73.9211,VALID,Passed all geographic and bounding box checks
+1400,183083,Desarane,Kalwan,Nashik,20.5822,73.9111,VALID,Passed all geographic and bounding box checks
+1401,183084,Desgaon,Kalwan,Nashik,20.5211,73.9511,VALID,Passed all geographic and bounding box checks
+1402,183086,Dharde Diger,Kalwan,Nashik,20.5444,73.8822,VALID,Passed all geographic and bounding box checks
+1403,183087,Ganore,Kalwan,Nashik,20.4411,74.0111,VALID,Passed all geographic and bounding box checks
+1404,183088,Gobapur,Kalwan,Nashik,20.4363,73.9358,VALID,Passed all geographic and bounding box checks
+1405,183089,Golakhal,Kalwan,Nashik,20.5122,73.9422,VALID,Passed all geographic and bounding box checks
+1406,245149,Gopalkhadi,Kalwan,Nashik,20.5822,73.8511,WARNING,Duplicate coordinates shared across 2 records
+1407,183090,Gosarane,Kalwan,Nashik,20.5011,73.9822,VALID,Passed all geographic and bounding box checks
+1408,183091,Hingave,Kalwan,Nashik,20.4911,73.9011,WARNING,Duplicate coordinates shared across 2 records
+1409,183092,Jaidar,Kalwan,Nashik,20.5922,73.8906,VALID,Passed all geographic and bounding box checks
+1410,183093,Jaipur,Kalwan,Nashik,20.5622,73.8211,VALID,Passed all geographic and bounding box checks
+1411,183094,Jamale Vani,Kalwan,Nashik,20.5311,73.9222,WARNING,Duplicate coordinates shared across 2 records
+1412,183095,Juni Bej,Kalwan,Nashik,20.4611,74.0511,VALID,Passed all geographic and bounding box checks
+1413,183096,Kakane,Kalwan,Nashik,20.4422,73.9411,VALID,Passed all geographic and bounding box checks
+1414,183097,Kalmathe (Pa),Kalwan,Nashik,20.4522,73.9622,VALID,Passed all geographic and bounding box checks
+1415,183099,Kalwan (Kd),Kalwan,Nashik,20.4909,74.0241,VALID,Passed all geographic and bounding box checks
+1416,183100,Kanashi (K),Kalwan,Nashik,20.5811,73.8222,VALID,Passed all geographic and bounding box checks
+1417,183101,Karambhel (K),Kalwan,Nashik,20.5911,73.8422,VALID,Passed all geographic and bounding box checks
+1418,183102,Kathare Diger,Kalwan,Nashik,20.6122,73.8811,VALID,Passed all geographic and bounding box checks
+1419,183104,Khadakvan,Kalwan,Nashik,20.4711,73.9011,VALID,Passed all geographic and bounding box checks
+1420,183103,Khadki,Kalwan,Nashik,20.4122,73.9822,VALID,Passed all geographic and bounding box checks
+1421,183105,Kharde Diger,Kalwan,Nashik,20.5522,73.8111,VALID,Passed all geographic and bounding box checks
+1422,183106,Khedgaon,Kalwan,Nashik,20.4811,73.9222,VALID,Passed all geographic and bounding box checks
+1423,245150,Khirad,Kalwan,Nashik,20.4538,73.7964,VALID,Passed all geographic and bounding box checks
+1424,183108,Kosurde,Kalwan,Nashik,20.5211,73.9011,WARNING,Duplicate coordinates shared across 2 records
+1425,183107,Koswan,Kalwan,Nashik,20.5611,73.8544,WARNING,Duplicate coordinates shared across 2 records
+1426,183109,Kundane (K),Kalwan,Nashik,20.5122,74.0111,WARNING,Duplicate coordinates shared across 3 records
+1427,183110,Kundane (O),Kalwan,Nashik,20.5122,74.0111,WARNING,Duplicate coordinates shared across 3 records
+1428,183111,Lingama,Kalwan,Nashik,20.5411,73.9422,WARNING,Duplicate coordinates shared across 2 records
+1429,183112,Malgaon (Kh),Kalwan,Nashik,20.4711,73.8922,WARNING,Duplicate coordinates shared across 2 records
+1430,183113,Manur,Kalwan,Nashik,20.4827,74.0167,VALID,Passed all geographic and bounding box checks
+1431,183114,Mehedar,Kalwan,Nashik,20.5311,74.0522,WARNING,Duplicate coordinates shared across 2 records
+1432,183116,Mohandari,Kalwan,Nashik,20.4422,73.8959,VALID,Passed all geographic and bounding box checks
+1433,183117,Mohmukh,Kalwan,Nashik,20.4922,73.9811,WARNING,Duplicate coordinates shared across 2 records
+1434,183118,Mokhbhangi,Kalwan,Nashik,20.5626,74.015,VALID,Passed all geographic and bounding box checks
+1435,183115,Mulanevani,Kalwan,Nashik,20.4422,73.9622,WARNING,Duplicate coordinates shared across 2 records
+1436,183119,Nakoda,Kalwan,Nashik,20.5511,73.8811,WARNING,Duplicate coordinates shared across 2 records
+1437,183120,Nalid,Kalwan,Nashik,20.5111,74.0111,WARNING,Duplicate coordinates shared across 3 records
+1438,183121,Nanduri,Kalwan,Nashik,20.4173,73.9056,VALID,Passed all geographic and bounding box checks
+1439,183122,Narul,Kalwan,Nashik,20.4811,73.9511,WARNING,Duplicate coordinates shared across 2 records
+1440,183123,Navi Bej,Kalwan,Nashik,20.5143,74.0747,VALID,Passed all geographic and bounding box checks
+1441,183124,Nivane,Kalwan,Nashik,20.5311,73.9111,VALID,Passed all geographic and bounding box checks
+1442,183126,Ojhar,Kalwan,Nashik,20.5111,73.8811,VALID,Passed all geographic and bounding box checks
+1443,183125,Otur,Kalwan,Nashik,20.4176,74.0044,VALID,Passed all geographic and bounding box checks
+1444,183127,Palasdar,Kalwan,Nashik,20.5822,73.8411,VALID,Passed all geographic and bounding box checks
+1445,183128,Pale (Bk),Kalwan,Nashik,20.4911,73.9011,WARNING,Duplicate coordinates shared across 2 records
+1446,183129,Pale (Kd),Kalwan,Nashik,20.4955,73.9122,VALID,Passed all geographic and bounding box checks
+1447,183130,Patvihir,Kalwan,Nashik,20.5611,73.8122,VALID,Passed all geographic and bounding box checks
+1448,183131,Pilkos,Kalwan,Nashik,20.4711,73.9422,VALID,Passed all geographic and bounding box checks
+1449,183132,Pimpale (Bk),Kalwan,Nashik,20.5111,74.0111,WARNING,Duplicate coordinates shared across 3 records
+1450,245153,Punadnagar,Kalwan,Nashik,20.5311,73.9222,WARNING,Duplicate coordinates shared across 2 records
+1451,183133,Ravalji,Kalwan,Nashik,20.4511,74.0522,VALID,Passed all geographic and bounding box checks
+1452,183134,Sakore,Kalwan,Nashik,20.4473,73.9883,VALID,Passed all geographic and bounding box checks
+1453,183135,Saptashrungi Gad,Kalwan,Nashik,20.3922,73.9111,VALID,Passed all geographic and bounding box checks
+1454,183136,Sarledigar,Kalwan,Nashik,20.5822,73.8511,WARNING,Duplicate coordinates shared across 2 records
+1455,183137,Savakipale,Kalwan,Nashik,20.4122,73.9811,VALID,Passed all geographic and bounding box checks
+1456,245151,Shingashi,Kalwan,Nashik,20.5511,73.8111,VALID,Passed all geographic and bounding box checks
+1457,183138,Shirasmani,Kalwan,Nashik,20.4911,73.9222,VALID,Passed all geographic and bounding box checks
+1458,183139,Sukapur,Kalwan,Nashik,20.5211,73.9011,WARNING,Duplicate coordinates shared across 2 records
+1459,183140,Sule,Kalwan,Nashik,20.5611,73.8544,WARNING,Duplicate coordinates shared across 2 records
+1460,245152,Supale Digar,Kalwan,Nashik,20.5122,74.0111,WARNING,Duplicate coordinates shared across 3 records
+1461,183141,Tatani,Kalwan,Nashik,20.5411,73.9422,WARNING,Duplicate coordinates shared across 2 records
+1462,245148,Tirhal (Kh),Kalwan,Nashik,20.4711,73.8922,WARNING,Duplicate coordinates shared across 2 records
+1463,183142,Vadale (Ha),Kalwan,Nashik,20.5311,74.0522,WARNING,Duplicate coordinates shared across 2 records
+1464,183143,Vadalevani,Kalwan,Nashik,20.4922,73.9811,WARNING,Duplicate coordinates shared across 2 records
+1465,183145,Verule,Kalwan,Nashik,20.4422,73.9622,WARNING,Duplicate coordinates shared across 2 records
+1466,183146,Virshet,Kalwan,Nashik,20.5511,73.8811,WARNING,Duplicate coordinates shared across 2 records
+1467,183147,Visapur,Kalwan,Nashik,20.5111,74.0111,WARNING,Duplicate coordinates shared across 3 records
+1468,183144,Wadi (Bk),Kalwan,Nashik,20.4811,73.9511,WARNING,Duplicate coordinates shared across 2 records
+1469,183149,Aghar (Bk),Malegaon,Nashik,20.5622,74.3211,VALID,Passed all geographic and bounding box checks
+1470,183150,Aghar (Kd),Malegaon,Nashik,20.5722,74.3311,VALID,Passed all geographic and bounding box checks
+1471,183148,Ajande,Malegaon,Nashik,20.5422,74.4111,VALID,Passed all geographic and bounding box checks
+1472,183151,Ajang,Malegaon,Nashik,20.6352,74.4521,VALID,Passed all geographic and bounding box checks
+1473,183152,Astane,Malegaon,Nashik,20.6834,74.6421,VALID,Passed all geographic and bounding box checks
+1474,183153,Belgaon,Malegaon,Nashik,20.6122,74.3522,VALID,Passed all geographic and bounding box checks
+1475,183154,Bhardenagar,Malegaon,Nashik,20.5822,74.5211,VALID,Passed all geographic and bounding box checks
+1476,183156,Bhilkot,Malegaon,Nashik,20.6522,74.4822,VALID,Passed all geographic and bounding box checks
+1477,183157,Chandanpuri,Malegaon,Nashik,20.5111,74.4422,VALID,Passed all geographic and bounding box checks
+1478,183158,Chaukatpade,Malegaon,Nashik,20.6822,74.5511,VALID,Passed all geographic and bounding box checks
+1479,183159,Chikhalohol,Malegaon,Nashik,20.6011,74.6111,VALID,Passed all geographic and bounding box checks
+1480,183160,Chinchagavan,Malegaon,Nashik,20.6211,74.4122,VALID,Passed all geographic and bounding box checks
+1481,183161,Chinchawad,Malegaon,Nashik,20.5911,74.3822,VALID,Passed all geographic and bounding box checks
+1482,183162,Chinchwe (Ga),Malegaon,Nashik,20.6511,74.5511,VALID,Passed all geographic and bounding box checks
+1483,183163,Chondhi,Malegaon,Nashik,20.5411,74.3111,VALID,Passed all geographic and bounding box checks
+1484,183165,Dabali,Malegaon,Nashik,20.5722,74.3822,WARNING,Duplicate coordinates shared across 2 records
+1485,183164,Dabhadi,Malegaon,Nashik,20.5506,74.4559,VALID,Passed all geographic and bounding box checks
+1486,183166,Dahidi,Malegaon,Nashik,20.6111,74.5211,WARNING,Duplicate coordinates shared across 2 records
+1487,183167,Dahiwal,Malegaon,Nashik,20.5811,74.6522,VALID,Passed all geographic and bounding box checks
+1488,183168,Dapure,Malegaon,Nashik,20.6322,74.4511,VALID,Passed all geographic and bounding box checks
+1489,183170,Dasane,Malegaon,Nashik,20.5841,74.5714,VALID,Passed all geographic and bounding box checks
+1490,183173,Deoghat,Malegaon,Nashik,20.5893,74.7811,VALID,Passed all geographic and bounding box checks
+1491,183172,Devarpade,Malegaon,Nashik,20.5922,74.4211,WARNING,Duplicate coordinates shared across 2 records
+1492,183174,Dhavaleshwar,Malegaon,Nashik,20.6511,74.5822,VALID,Passed all geographic and bounding box checks
+1493,183175,Dongrale,Malegaon,Nashik,20.7851,74.5724,VALID,Passed all geographic and bounding box checks
+1494,183176,Dundhe,Malegaon,Nashik,20.5411,74.3411,WARNING,Duplicate coordinates shared across 3 records
+1495,183177,Erandgaon,Malegaon,Nashik,20.5722,74.4522,VALID,Passed all geographic and bounding box checks
+1496,183178,Galne,Malegaon,Nashik,20.6111,74.5111,VALID,Passed all geographic and bounding box checks
+1497,183179,Garbad,Malegaon,Nashik,20.5922,74.6211,WARNING,Duplicate coordinates shared across 2 records
+1498,183180,Garegaon,Malegaon,Nashik,20.738,74.4175,VALID,Passed all geographic and bounding box checks
+1499,183182,Ghanegaon,Malegaon,Nashik,20.6311,74.5511,WARNING,Duplicate coordinates shared across 2 records
+1500,183181,Gilane,Malegaon,Nashik,20.6311,74.5511,WARNING,Duplicate coordinates shared across 2 records
+1501,183183,Ghodegaon,Malegaon,Nashik,20.5511,74.4822,WARNING,Duplicate coordinates shared across 2 records
+1502,183181,Gigaon,Malegaon,Nashik,20.6122,74.6255,VALID,Passed all geographic and bounding box checks
+1503,183184,Gilane,Malegaon,Nashik,20.4522,74.5211,VALID,Passed all geographic and bounding box checks
+1504,183185,Gugulwad,Malegaon,Nashik,20.5822,74.3411,VALID,Passed all geographic and bounding box checks
+1505,183186,Hatane,Malegaon,Nashik,20.6422,74.5511,VALID,Passed all geographic and bounding box checks
+1506,183187,Hiswal,Malegaon,Nashik,20.6334,74.7932,WARNING,Duplicate coordinates shared across 2 records
+1507,183188,Jalgaon (Ga),Malegaon,Nashik,20.6211,74.6322,VALID,Passed all geographic and bounding box checks
+1508,183189,Jalgaon (Ni),Malegaon,Nashik,20.5511,74.3911,VALID,Passed all geographic and bounding box checks
+1509,183190,Jalku,Malegaon,Nashik,20.6511,74.4522,VALID,Passed all geographic and bounding box checks
+1510,183191,Jatpade,Malegaon,Nashik,20.4911,74.4822,VALID,Passed all geographic and bounding box checks
+1511,183192,Jeur,Malegaon,Nashik,20.5822,74.6111,VALID,Passed all geographic and bounding box checks
+1512,183193,Jwardi (Bk),Malegaon,Nashik,20.5422,74.3211,VALID,Passed all geographic and bounding box checks
+1513,183194,Kajwade,Malegaon,Nashik,20.7822,74.4001,VALID,Passed all geographic and bounding box checks
+1514,183195,Kalwadi,Malegaon,Nashik,20.5518,74.7497,VALID,Passed all geographic and bounding box checks
+1515,183196,Kandhane,Malegaon,Nashik,20.6256,74.1066,WARNING,Duplicate coordinates shared across 2 records
+1516,183197,Kankrale,Malegaon,Nashik,20.6853,74.4927,VALID,Passed all geographic and bounding box checks
+1517,183198,Karanj Gavhan,Malegaon,Nashik,20.5122,74.3822,VALID,Passed all geographic and bounding box checks
+1518,183199,Kashti,Malegaon,Nashik,20.6223,74.483,VALID,Passed all geographic and bounding box checks
+1519,183200,Kaulane (Ga),Malegaon,Nashik,20.4811,74.4211,VALID,Passed all geographic and bounding box checks
+1520,183201,Kaulane (Ni),Malegaon,Nashik,20.5611,74.4111,VALID,Passed all geographic and bounding box checks
+1521,183202,Khadaki,Malegaon,Nashik,20.5411,74.4422,VALID,Passed all geographic and bounding box checks
+1522,183203,Khakurdi,Malegaon,Nashik,20.6853,74.4177,VALID,Passed all geographic and bounding box checks
+1523,183204,Khalane,Malegaon,Nashik,20.6111,74.5822,VALID,Passed all geographic and bounding box checks
+1524,183205,Khayade,Malegaon,Nashik,20.6211,74.4111,VALID,Passed all geographic and bounding box checks
+1525,183206,Kothare (Bk),Malegaon,Nashik,20.6511,74.6011,VALID,Passed all geographic and bounding box checks
+1526,183207,Kukane,Malegaon,Nashik,20.6533,74.5159,VALID,Passed all geographic and bounding box checks
+1527,183208,Lakhani,Malegaon,Nashik,20.7021,74.6444,VALID,Passed all geographic and bounding box checks
+1528,183209,Lendane,Malegaon,Nashik,20.5722,74.5422,VALID,Passed all geographic and bounding box checks
+1529,183210,Lonwade,Malegaon,Nashik,20.5511,74.3111,WARNING,Duplicate coordinates shared across 3 records
+1530,183211,Lulle,Malegaon,Nashik,20.4611,74.5211,VALID,Passed all geographic and bounding box checks
+1531,183213,Malgaon,Malegaon,Nashik,20.5911,74.5822,VALID,Passed all geographic and bounding box checks
+1532,183218,Malhangaon,Malegaon,Nashik,20.5822,74.4522,WARNING,Duplicate coordinates shared across 3 records
+1533,183214,Manjre,Malegaon,Nashik,20.5611,74.3811,WARNING,Duplicate coordinates shared across 2 records
+1534,183215,Manke,Malegaon,Nashik,20.5522,74.6111,VALID,Passed all geographic and bounding box checks
+1535,183216,Mathurpada,Malegaon,Nashik,20.5411,74.4922,VALID,Passed all geographic and bounding box checks
+1536,183217,Mehune,Malegaon,Nashik,20.6011,74.3411,VALID,Passed all geographic and bounding box checks
+1537,183219,Mohpada,Malegaon,Nashik,20.5211,74.4211,VALID,Passed all geographic and bounding box checks
+1538,183220,Mungse,Malegaon,Nashik,20.7335,74.1067,VALID,Passed all geographic and bounding box checks
+1539,183221,Nagaon (Di),Malegaon,Nashik,20.5811,74.4422,VALID,Passed all geographic and bounding box checks
+1540,183222,Nagzari,Malegaon,Nashik,20.8143,74.5382,VALID,Passed all geographic and bounding box checks
+1541,183223,Nale,Malegaon,Nashik,20.5511,74.6522,VALID,Passed all geographic and bounding box checks
+1542,183224,Nandgaon (Bk),Malegaon,Nashik,20.3079,74.6572,VALID,Passed all geographic and bounding box checks
+1543,183225,Nardane,Malegaon,Nashik,20.5611,74.4822,VALID,Passed all geographic and bounding box checks
+1544,183226,Nilgawhan,Malegaon,Nashik,20.5922,74.5511,VALID,Passed all geographic and bounding box checks
+1545,183227,Nimbayati,Malegaon,Nashik,20.5111,74.3211,VALID,Passed all geographic and bounding box checks
+1546,183228,Nimgaon,Malegaon,Nashik,20.4387,74.5589,VALID,Passed all geographic and bounding box checks
+1547,183229,Nimgaon (Kh),Malegaon,Nashik,20.5811,74.5111,VALID,Passed all geographic and bounding box checks
+1548,183230,Nimgile,Malegaon,Nashik,20.5522,74.3822,VALID,Passed all geographic and bounding box checks
+1549,183231,Nimshewadi,Malegaon,Nashik,20.6111,74.4522,VALID,Passed all geographic and bounding box checks
+1550,183232,Padalde,Malegaon,Nashik,20.6011,74.4911,VALID,Passed all geographic and bounding box checks
+1551,183233,Palasdare,Malegaon,Nashik,20.5822,74.4122,VALID,Passed all geographic and bounding box checks
+1552,183234,Pandhrun,Malegaon,Nashik,20.5411,74.3511,VALID,Passed all geographic and bounding box checks
+1553,183236,Patane,Malegaon,Nashik,20.5211,74.4822,VALID,Passed all geographic and bounding box checks
+1554,183235,Patharde,Malegaon,Nashik,20.5511,74.3111,WARNING,Duplicate coordinates shared across 3 records
+1555,183237,Pimpalgaon,Malegaon,Nashik,20.5722,74.4211,VALID,Passed all geographic and bounding box checks
+1556,183238,Pohane,Malegaon,Nashik,20.7623,74.4217,VALID,Passed all geographic and bounding box checks
+1557,183239,Rajmane,Malegaon,Nashik,20.5811,74.4822,VALID,Passed all geographic and bounding box checks
+1558,183241,Ravalgaon,Malegaon,Nashik,20.5922,74.3411,WARNING,Duplicate coordinates shared across 2 records
+1559,183240,Ronzane,Malegaon,Nashik,20.5411,74.3822,WARNING,Duplicate coordinates shared across 2 records
+1560,183242,Ronze,Malegaon,Nashik,20.5111,74.4522,VALID,Passed all geographic and bounding box checks
+1561,183243,Sajwal,Malegaon,Nashik,20.5522,74.3111,VALID,Passed all geographic and bounding box checks
+1562,183244,Sakur,Malegaon,Nashik,20.5611,74.4122,VALID,Passed all geographic and bounding box checks
+1563,183245,Sakuri (Ni),Malegaon,Nashik,20.4811,74.5211,VALID,Passed all geographic and bounding box checks
+1564,183246,Satmanne,Malegaon,Nashik,20.6111,74.6011,VALID,Passed all geographic and bounding box checks
+1565,183247,Saundane,Malegaon,Nashik,20.5822,74.4522,WARNING,Duplicate coordinates shared across 3 records
+1566,295549,Savatawadi,Malegaon,Nashik,20.6211,74.4211,VALID,Passed all geographic and bounding box checks
+1567,183249,Savkarwadi,Malegaon,Nashik,20.5511,74.4822,WARNING,Duplicate coordinates shared across 2 records
+1568,183248,Sawandgaon,Malegaon,Nashik,20.5722,74.3822,WARNING,Duplicate coordinates shared across 2 records
+1569,183251,Sayne (Kd),Malegaon,Nashik,20.5911,74.5211,VALID,Passed all geographic and bounding box checks
+1570,183252,Shendurni,Malegaon,Nashik,20.6111,74.6522,VALID,Passed all geographic and bounding box checks
+1571,183253,Sherul,Malegaon,Nashik,20.615,74.7595,VALID,Passed all geographic and bounding box checks
+1572,183254,Shirsondi,Malegaon,Nashik,20.5822,74.4922,VALID,Passed all geographic and bounding box checks
+1573,183255,Sitane,Malegaon,Nashik,20.5411,74.3411,WARNING,Duplicate coordinates shared across 3 records
+1574,183256,Sonaj,Malegaon,Nashik,20.5522,74.4522,VALID,Passed all geographic and bounding box checks
+1575,183258,Takali,Malegaon,Nashik,20.5611,74.3811,WARNING,Duplicate coordinates shared across 2 records
+1576,183259,Talwade,Malegaon,Nashik,20.3977,74.7498,WARNING,Duplicate coordinates shared across 2 records
+1577,183260,Tehare,Malegaon,Nashik,20.5122,74.4111,VALID,Passed all geographic and bounding box checks
+1578,183261,Tingri,Malegaon,Nashik,20.4811,74.5511,VALID,Passed all geographic and bounding box checks
+1579,183262,Tokade,Malegaon,Nashik,20.6211,74.5822,VALID,Passed all geographic and bounding box checks
+1580,183263,Umbarde,Malegaon,Nashik,20.5922,74.4211,WARNING,Duplicate coordinates shared across 2 records
+1581,183265,Vadel,Malegaon,Nashik,20.6389,74.457,VALID,Passed all geographic and bounding box checks
+1582,183266,Vadgaon,Malegaon,Nashik,20.5511,74.3111,WARNING,Duplicate coordinates shared across 3 records
+1583,183267,Vadner,Malegaon,Nashik,20.5611,74.4922,VALID,Passed all geographic and bounding box checks
+1584,183268,Vajirkhede,Malegaon,Nashik,20.5411,74.3411,WARNING,Duplicate coordinates shared across 3 records
+1585,183270,Valwade,Malegaon,Nashik,20.5822,74.4522,WARNING,Duplicate coordinates shared across 3 records
+1586,183271,Valwadi,Malegaon,Nashik,20.6111,74.5211,WARNING,Duplicate coordinates shared across 2 records
+1587,183272,Vanpat,Malegaon,Nashik,20.5922,74.6211,WARNING,Duplicate coordinates shared across 2 records
+1588,183273,Varahane,Malegaon,Nashik,20.5411,74.3822,WARNING,Duplicate coordinates shared across 2 records
+1589,183264,Virane,Malegaon,Nashik,20.7441,74.46,VALID,Passed all geographic and bounding box checks
+1590,183269,Wake,Malegaon,Nashik,20.5511,74.4111,VALID,Passed all geographic and bounding box checks
+1591,183274,Yesgaon (Bk),Malegaon,Nashik,20.6111,74.5511,VALID,Passed all geographic and bounding box checks
+1592,183275,Yesgaon (Kd),Malegaon,Nashik,20.6211,74.5611,VALID,Passed all geographic and bounding box checks
+1593,183276,Zadi,Malegaon,Nashik,20.5822,74.4822,VALID,Passed all geographic and bounding box checks
+1594,183277,Zodage,Malegaon,Nashik,20.5922,74.3411,WARNING,Duplicate coordinates shared across 2 records
+1595,183278,Amode,Nandgaon,Nashik,20.5036,74.7726,VALID,Passed all geographic and bounding box checks
+1596,183279,Anakwade,Nandgaon,Nashik,20.4122,74.5811,VALID,Passed all geographic and bounding box checks
+1597,183280,Astgaon,Nandgaon,Nashik,20.3168,74.4887,VALID,Passed all geographic and bounding box checks
+1598,183281,Babhulwadi,Nandgaon,Nashik,20.3511,74.6122,WARNING,Duplicate coordinates shared across 2 records
+1599,183282,Bangaon Bk.,Nandgaon,Nashik,20.3822,74.5511,VALID,Passed all geographic and bounding box checks
+1600,183283,Bangaon Kh.,Nandgaon,Nashik,20.3911,74.5422,VALID,Passed all geographic and bounding box checks
+1601,183291,Bejgaon,Nandgaon,Nashik,20.3111,74.4422,VALID,Passed all geographic and bounding box checks
+1602,183285,Bhalur,Nandgaon,Nashik,20.4011,74.6211,VALID,Passed all geographic and bounding box checks
+1603,183286,Bhardi,Nandgaon,Nashik,20.3522,74.5844,VALID,Passed all geographic and bounding box checks
+1604,183287,Bhauri,Nandgaon,Nashik,20.3811,74.6011,VALID,Passed all geographic and bounding box checks
+1605,183288,Birole,Nandgaon,Nashik,20.3211,74.5211,VALID,Passed all geographic and bounding box checks
+1606,183289,Bolthan,Nandgaon,Nashik,20.1921,74.9086,VALID,Passed all geographic and bounding box checks
+1607,183290,Borale,Nandgaon,Nashik,20.3511,74.5822,WARNING,Duplicate coordinates shared across 2 records
+1608,183284,Boygaon,Nandgaon,Nashik,20.3411,74.5511,VALID,Passed all geographic and bounding box checks
+1609,183292,Chandore,Nandgaon,Nashik,20.3822,74.6111,VALID,Passed all geographic and bounding box checks
+1610,183293,Chinchvihir,Nandgaon,Nashik,20.3622,74.6311,VALID,Passed all geographic and bounding box checks
+1611,183294,Dahegaon,Nandgaon,Nashik,20.4111,74.5211,VALID,Passed all geographic and bounding box checks
+1612,183295,Darhel,Nandgaon,Nashik,20.3811,74.5811,VALID,Passed all geographic and bounding box checks
+1613,183296,Dhaner,Nandgaon,Nashik,20.3222,74.5422,VALID,Passed all geographic and bounding box checks
+1614,183297,Dheku Kd.,Nandgaon,Nashik,20.3511,74.5911,VALID,Passed all geographic and bounding box checks
+1615,183298,Dhotane Bk.,Nandgaon,Nashik,20.3922,74.6011,VALID,Passed all geographic and bounding box checks
+1616,183299,Dhotane Kh.,Nandgaon,Nashik,20.3955,74.6122,VALID,Passed all geographic and bounding box checks
+1617,183300,Ekawai,Nandgaon,Nashik,20.4011,74.5511,VALID,Passed all geographic and bounding box checks
+1618,183301,Fulenagar,Nandgaon,Nashik,20.3822,74.5844,WARNING,Duplicate coordinates shared across 2 records
+1619,183302,Gangadhari,Nandgaon,Nashik,20.3111,74.4822,WARNING,Duplicate coordinates shared across 4 records
+1620,183303,Girnanagar,Nandgaon,Nashik,20.3411,74.5111,WARNING,Duplicate coordinates shared across 5 records
+1621,183304,Gondegaon,Nandgaon,Nashik,20.3511,74.5511,WARNING,Duplicate coordinates shared across 7 records
+1622,183306,Higane Dehare,Nandgaon,Nashik,20.3211,74.4522,VALID,Passed all geographic and bounding box checks
+1623,183305,Hinganwadi,Nandgaon,Nashik,20.3811,74.5211,VALID,Passed all geographic and bounding box checks
+1624,183307,Hirenagar,Nandgaon,Nashik,20.3911,74.5811,VALID,Passed all geographic and bounding box checks
+1625,183308,Hiswal Bk.,Nandgaon,Nashik,20.6334,74.7932,WARNING,Duplicate coordinates shared across 2 records
+1626,183309,Hiswal Kh.,Nandgaon,Nashik,20.6211,74.7811,VALID,Passed all geographic and bounding box checks
+1627,183310,Jalgaon Bk.,Nandgaon,Nashik,20.2511,74.8822,VALID,Passed all geographic and bounding box checks
+1628,183311,Jalgaon Kh.,Nandgaon,Nashik,20.2588,74.8911,VALID,Passed all geographic and bounding box checks
+1629,183312,Jamdhri,Nandgaon,Nashik,20.3111,74.5511,VALID,Passed all geographic and bounding box checks
+1630,183313,Jategaon,Nandgaon,Nashik,20.229,74.8736,VALID,Passed all geographic and bounding box checks
+1631,183314,Jawalki,Nandgaon,Nashik,20.3411,74.6111,VALID,Passed all geographic and bounding box checks
+1632,183315,Kalamdari,Nandgaon,Nashik,20.3511,74.5822,WARNING,Duplicate coordinates shared across 2 records
+1633,183316,Karhi,Nandgaon,Nashik,20.3822,74.5211,VALID,Passed all geographic and bounding box checks
+1634,183317,Kasabkheda,Nandgaon,Nashik,20.3911,74.5511,VALID,Passed all geographic and bounding box checks
+1635,183318,Kasari,Nandgaon,Nashik,20.3111,74.5111,VALID,Passed all geographic and bounding box checks
+1636,183319,Khadgaon,Nandgaon,Nashik,20.3411,74.5811,VALID,Passed all geographic and bounding box checks
+1637,183320,Khirdi Patode,Nandgaon,Nashik,20.3511,74.6122,WARNING,Duplicate coordinates shared across 2 records
+1638,183321,Kondhar,Nandgaon,Nashik,20.3822,74.5844,WARNING,Duplicate coordinates shared across 2 records
+1639,183322,Krantinagar,Nandgaon,Nashik,20.3911,74.6011,WARNING,Duplicate coordinates shared across 4 records
+1640,183323,Kusumtel,Nandgaon,Nashik,20.3111,74.4522,WARNING,Duplicate coordinates shared across 4 records
+1641,183324,Laxminagar,Nandgaon,Nashik,20.3411,74.5211,WARNING,Duplicate coordinates shared across 3 records
+1642,183325,Lodhare,Nandgaon,Nashik,20.2541,74.92,VALID,Passed all geographic and bounding box checks
+1643,183326,Lohshingve,Nandgaon,Nashik,20.3511,74.5511,WARNING,Duplicate coordinates shared across 7 records
+1644,183327,Malegaon (K),Nandgaon,Nashik,20.5576,74.5247,VALID,Passed all geographic and bounding box checks
+1645,183328,Malgaon,Nandgaon,Nashik,20.4566,74.6404,VALID,Passed all geographic and bounding box checks
+1646,183329,Malharwadi,Nandgaon,Nashik,20.3811,74.5822,WARNING,Duplicate coordinates shared across 3 records
+1647,183330,Mandwad,Nandgaon,Nashik,20.3911,74.6111,WARNING,Duplicate coordinates shared across 3 records
+1648,183331,Manglane,Nandgaon,Nashik,20.3111,74.4822,WARNING,Duplicate coordinates shared across 4 records
+1649,183332,Manikpunj,Nandgaon,Nashik,20.3411,74.5111,WARNING,Duplicate coordinates shared across 5 records
+1650,183333,Mohegaon,Nandgaon,Nashik,20.3511,74.5511,WARNING,Duplicate coordinates shared across 7 records
+1651,183334,Morzar,Nandgaon,Nashik,20.3811,74.5844,WARNING,Duplicate coordinates shared across 4 records
+1652,183335,Muldongri,Nandgaon,Nashik,20.3911,74.6011,WARNING,Duplicate coordinates shared across 4 records
+1653,183336,Nagapur,Nandgaon,Nashik,20.3111,74.4522,WARNING,Duplicate coordinates shared across 4 records
+1654,183337,Nandur,Nandgaon,Nashik,20.3211,74.4822,VALID,Passed all geographic and bounding box checks
+1655,183338,Navsari,Nandgaon,Nashik,20.3411,74.5111,WARNING,Duplicate coordinates shared across 5 records
+1656,183339,Naydongri,Nandgaon,Nashik,20.35,74.8322,VALID,Passed all geographic and bounding box checks
+1657,183340,New Panzan,Nandgaon,Nashik,20.3511,74.5511,WARNING,Duplicate coordinates shared across 7 records
+1658,183341,Palashi,Nandgaon,Nashik,20.3811,74.5844,WARNING,Duplicate coordinates shared across 4 records
+1659,183342,Panewadi,Nandgaon,Nashik,20.3911,74.6011,WARNING,Duplicate coordinates shared across 4 records
+1660,183343,Panzandev,Nandgaon,Nashik,20.3111,74.4522,WARNING,Duplicate coordinates shared across 4 records
+1661,183344,Pardhadi,Nandgaon,Nashik,20.3411,74.5211,WARNING,Duplicate coordinates shared across 3 records
+1662,183345,Pimparkhed,Nandgaon,Nashik,20.3086,74.7829,VALID,Passed all geographic and bounding box checks
+1663,183346,Pimprale,Nandgaon,Nashik,20.3511,74.5511,WARNING,Duplicate coordinates shared across 7 records
+1664,183347,Pimprihaveli,Nandgaon,Nashik,20.3811,74.5822,WARNING,Duplicate coordinates shared across 3 records
+1665,183348,Pokhari Patode,Nandgaon,Nashik,20.3911,74.6111,WARNING,Duplicate coordinates shared across 3 records
+1666,183349,Rankheda,Nandgaon,Nashik,20.3111,74.4822,WARNING,Duplicate coordinates shared across 4 records
+1667,183350,Rohile (Bk),Nandgaon,Nashik,20.3411,74.5111,WARNING,Duplicate coordinates shared across 5 records
+1668,183351,Sakora,Nandgaon,Nashik,20.3511,74.5511,WARNING,Duplicate coordinates shared across 7 records
+1669,183352,Satane,Nandgaon,Nashik,20.3811,74.5844,WARNING,Duplicate coordinates shared across 4 records
+1670,183353,Sawargaon,Nandgaon,Nashik,20.377,74.7941,VALID,Passed all geographic and bounding box checks
+1671,183354,Shashrinagar,Nandgaon,Nashik,20.3911,74.6011,WARNING,Duplicate coordinates shared across 4 records
+1672,183355,Shriramnagar,Nandgaon,Nashik,20.3111,74.4522,WARNING,Duplicate coordinates shared across 4 records
+1673,183356,Soyegaon,Nandgaon,Nashik,20.3411,74.5211,WARNING,Duplicate coordinates shared across 3 records
+1674,183357,Takali Bk.,Nandgaon,Nashik,20.3511,74.5511,WARNING,Duplicate coordinates shared across 7 records
+1675,183358,Takali Kh.,Nandgaon,Nashik,20.3622,74.5611,VALID,Passed all geographic and bounding box checks
+1676,183359,Talwade,Nandgaon,Nashik,20.3977,74.7498,WARNING,Duplicate coordinates shared across 2 records
+1677,183360,Tandulwadi,Nandgaon,Nashik,20.3811,74.5822,WARNING,Duplicate coordinates shared across 3 records
+1678,183361,Vahelgaon,Nandgaon,Nashik,20.3911,74.6111,WARNING,Duplicate coordinates shared across 3 records
+1679,183365,Vanjarwadi,Nandgaon,Nashik,20.3111,74.4822,WARNING,Duplicate coordinates shared across 4 records
+1680,183362,Wadali Bk.,Nandgaon,Nashik,20.3411,74.5111,WARNING,Duplicate coordinates shared across 5 records
+1681,183363,Wadali Kh.,Nandgaon,Nashik,20.3511,74.5211,VALID,Passed all geographic and bounding box checks
+1682,183364,Wakhari,Nandgaon,Nashik,20.3811,74.5844,WARNING,Duplicate coordinates shared across 4 records
+1683,183366,Ambebahula,Nashik,Nashik,19.9122,73.7111,VALID,Passed all geographic and bounding box checks
+1684,183367,Belatgavhan,Nashik,Nashik,19.9311,73.7544,VALID,Passed all geographic and bounding box checks
+1685,183368,Belgaon Dhaga,Nashik,Nashik,19.9678,73.6889,VALID,Passed all geographic and bounding box checks
+1686,183369,Chandgiri,Nashik,Nashik,19.9822,73.8544,VALID,Passed all geographic and bounding box checks
+1687,183370,Chandshi,Nashik,Nashik,20.0284,73.7429,VALID,Passed all geographic and bounding box checks
+1688,183371,Dahegaon,Nashik,Nashik,19.9511,73.9111,VALID,Passed all geographic and bounding box checks
+1689,183372,Dari,Nashik,Nashik,20.0522,73.7111,VALID,Passed all geographic and bounding box checks
+1690,183373,Devargaon,Nashik,Nashik,20.0111,73.6522,VALID,Passed all geographic and bounding box checks
+1691,183374,Dhondegaon,Nashik,Nashik,20.0822,73.6811,VALID,Passed all geographic and bounding box checks
+1692,183375,Donwade,Nashik,Nashik,20.0311,73.6922,VALID,Passed all geographic and bounding box checks
+1693,183376,Dudgaon,Nashik,Nashik,20.0911,73.7511,VALID,Passed all geographic and bounding box checks
+1694,183377,Dugaon,Nashik,Nashik,20.073,73.6857,VALID,Passed all geographic and bounding box checks
+1695,183378,Eklahare,Nashik,Nashik,19.9722,73.8811,VALID,Passed all geographic and bounding box checks
+1696,183379,Ganeshgaon N.,Nashik,Nashik,20.0111,73.6122,VALID,Passed all geographic and bounding box checks
+1697,183380,Ganeshgaon T.,Nashik,Nashik,19.9811,73.6811,VALID,Passed all geographic and bounding box checks
+1698,183381,Gangamhalungi,Nashik,Nashik,20.0511,73.6522,VALID,Passed all geographic and bounding box checks
+1699,183382,Gangavarhe,Nashik,Nashik,20.0119,73.6734,VALID,Passed all geographic and bounding box checks
+1700,183383,Gaulane,Nashik,Nashik,19.9061,73.7408,VALID,Passed all geographic and bounding box checks
+1701,183384,Girnare,Nashik,Nashik,20.0737,73.6612,VALID,Passed all geographic and bounding box checks
+1702,183385,Govardhan,Nashik,Nashik,19.9972,73.6841,VALID,Passed all geographic and bounding box checks
+1703,183386,Hinganwedhe,Nashik,Nashik,19.9231,73.6934,VALID,Passed all geographic and bounding box checks
+1704,273454,Indira Nagar,Nashik,Nashik,19.9734,73.7812,VALID,Passed all geographic and bounding box checks
+1705,183387,Jakhori,Nashik,Nashik,20.0152,73.9143,VALID,Passed all geographic and bounding box checks
+1706,183388,Jalalpur,Nashik,Nashik,20.0381,73.7431,VALID,Passed all geographic and bounding box checks
+1707,183389,Jategaon,Nashik,Nashik,19.9237,73.6484,WARNING,Duplicate coordinates shared across 3 records
+1708,183390,Kalavi,Nashik,Nashik,20.1042,73.6451,VALID,Passed all geographic and bounding box checks
+1709,183391,Kotamgaon,Nashik,Nashik,20.1474,74.2051,WARNING,Duplicate coordinates shared across 2 records
+1710,183392,Ladchi,Nashik,Nashik,20.0831,73.6952,VALID,Passed all geographic and bounding box checks
+1711,183393,Lahvit,Nashik,Nashik,19.8514,73.815,VALID,Passed all geographic and bounding box checks
+1712,183394,Lakhalgaon,Nashik,Nashik,19.9986,73.9213,VALID,Passed all geographic and bounding box checks
+1713,183395,Lohshingve,Nashik,Nashik,19.9821,73.9242,VALID,Passed all geographic and bounding box checks
+1714,183396,Madsangvi,Nashik,Nashik,20.0241,73.9213,VALID,Passed all geographic and bounding box checks
+1715,183397,Mahadeopur,Nashik,Nashik,19.9832,73.7121,VALID,Passed all geographic and bounding box checks
+1716,183398,Mahirawani,Nashik,Nashik,20.0112,73.6732,VALID,Passed all geographic and bounding box checks
+1717,183399,Matori,Nashik,Nashik,20.0531,73.7742,VALID,Passed all geographic and bounding box checks
+1718,183400,Mohagaon,Nashik,Nashik,20.0142,73.6531,VALID,Passed all geographic and bounding box checks
+1719,183401,Mungsara,Nashik,Nashik,20.0821,73.6832,VALID,Passed all geographic and bounding box checks
+1720,183402,Nagalwadi,Nashik,Nashik,20.0952,73.6241,VALID,Passed all geographic and bounding box checks
+1721,183403,Naikwadi,Nashik,Nashik,20.1066,73.6424,VALID,Passed all geographic and bounding box checks
+1722,183404,Nanegaon,Nashik,Nashik,19.9312,73.7541,VALID,Passed all geographic and bounding box checks
+1723,183405,Odha,Nashik,Nashik,20.0177,73.9132,VALID,Passed all geographic and bounding box checks
+1724,183406,Ozerkhede,Nashik,Nashik,20.2581,73.9542,VALID,Passed all geographic and bounding box checks
+1725,183407,Palse,Nashik,Nashik,19.9231,73.8542,VALID,Passed all geographic and bounding box checks
+1726,183408,Pimpalgaon,Nashik,Nashik,19.7098,73.6877,VALID,Passed all geographic and bounding box checks
+1727,183410,Pimplad N.,Nashik,Nashik,19.9648,73.5284,WARNING,Duplicate coordinates shared across 3 records
+1728,183409,Pimpri Sayyad,Nashik,Nashik,20.0412,73.8821,VALID,Passed all geographic and bounding box checks
+1729,183411,Rahuri,Nashik,Nashik,19.9142,73.8111,VALID,Passed all geographic and bounding box checks
+1730,183412,Raigadnagar,Nashik,Nashik,20.1062,73.6431,VALID,Passed all geographic and bounding box checks
+1731,183413,Rajewadi,Nashik,Nashik,20.0321,73.7442,VALID,Passed all geographic and bounding box checks
+1732,183414,Rajur Bahula,Nashik,Nashik,19.9061,73.7422,VALID,Passed all geographic and bounding box checks
+1733,273770,Sadgaon,Nashik,Nashik,20.0953,73.6249,VALID,Passed all geographic and bounding box checks
+1734,183415,Samangaon,Nashik,Nashik,19.9672,73.8831,VALID,Passed all geographic and bounding box checks
+1735,183416,Sansari,Nashik,Nashik,19.9062,73.8383,VALID,Passed all geographic and bounding box checks
+1736,183417,Sarul,Nashik,Nashik,19.9021,73.8342,VALID,Passed all geographic and bounding box checks
+1737,183421,Shewge Darna,Nashik,Nashik,19.9122,73.8911,VALID,Passed all geographic and bounding box checks
+1738,183418,Shilapur,Nashik,Nashik,19.9963,73.8994,VALID,Passed all geographic and bounding box checks
+1739,183419,Shinde,Nashik,Nashik,19.9167,73.8983,VALID,Passed all geographic and bounding box checks
+1740,183420,Shivagaon,Nashik,Nashik,20.0521,73.7132,VALID,Passed all geographic and bounding box checks
+1741,300333,Subhashnagar,Nashik,Nashik,20.0341,74.0112,VALID,Passed all geographic and bounding box checks
+1742,183422,Talegaon Anjaneri,Nashik,Nashik,19.9421,73.5732,VALID,Passed all geographic and bounding box checks
+1743,183423,Tridshet,Nashik,Nashik,19.9982,73.6821,VALID,Passed all geographic and bounding box checks
+1744,183424,Vadgaon,Nashik,Nashik,20.0131,73.7542,VALID,Passed all geographic and bounding box checks
+1745,183425,Vanjarwadi,Nashik,Nashik,20.0241,73.8511,VALID,Passed all geographic and bounding box checks
+1746,183427,Vilholi,Nashik,Nashik,19.9163,73.7178,VALID,Passed all geographic and bounding box checks
+1747,183430,Ahergaon,Niphad,Nashik,20.1621,74.2042,VALID,Passed all geographic and bounding box checks
+1748,183431,Antwerli,Niphad,Nashik,20.0631,73.9542,VALID,Passed all geographic and bounding box checks
+1749,183499,Aurangpur,Niphad,Nashik,20.0812,74.2821,VALID,Passed all geographic and bounding box checks
+1750,183433,Berwadi (Ramnagar),Niphad,Nashik,20.1412,74.2531,VALID,Passed all geographic and bounding box checks
+1751,183432,Bharvas,Niphad,Nashik,19.9912,74.1432,VALID,Passed all geographic and bounding box checks
+1752,183434,Bhed,Niphad,Nashik,20.0142,74.0931,VALID,Passed all geographic and bounding box checks
+1753,183435,Bhendali,Niphad,Nashik,19.9717,74.0612,VALID,Passed all geographic and bounding box checks
+1754,183439,Bhuse,Niphad,Nashik,19.9998,74.094,VALID,Passed all geographic and bounding box checks
+1755,183436,Bokadadare,Niphad,Nashik,20.0152,74.1532,VALID,Passed all geographic and bounding box checks
+1756,183438,Bramhangaon (Vanas),Niphad,Nashik,20.1571,74.1424,VALID,Passed all geographic and bounding box checks
+1757,183437,Bramhangaon Vinchor,Niphad,Nashik,20.1541,74.2342,VALID,Passed all geographic and bounding box checks
+1758,183440,Chandori,Niphad,Nashik,20.0233,73.9991,VALID,Passed all geographic and bounding box checks
+1759,183441,Chappadgaon,Niphad,Nashik,20.0231,74.2211,VALID,Passed all geographic and bounding box checks
+1760,183442,Chatori,Niphad,Nashik,20.0212,74.0411,VALID,Passed all geographic and bounding box checks
+1761,183443,Chitegaon,Niphad,Nashik,19.9721,73.9532,VALID,Passed all geographic and bounding box checks
+1762,183444,Darana Sangvi,Niphad,Nashik,20.0131,73.9142,VALID,Passed all geographic and bounding box checks
+1763,183445,Datyan,Niphad,Nashik,20.1312,74.2811,VALID,Passed all geographic and bounding box checks
+1764,183446,Dawachwadi,Niphad,Nashik,20.0412,74.2422,VALID,Passed all geographic and bounding box checks
+1765,183453,Deogaon,Niphad,Nashik,20.0276,74.2615,VALID,Passed all geographic and bounding box checks
+1766,183448,Deopur,Niphad,Nashik,20.1812,74.1132,VALID,Passed all geographic and bounding box checks
+1767,183450,Dharangaon Khadak,Niphad,Nashik,20.1531,74.1211,VALID,Passed all geographic and bounding box checks
+1768,183449,Dharangaon Veer,Niphad,Nashik,20.0241,74.2412,VALID,Passed all geographic and bounding box checks
+1769,183451,Dindori,Niphad,Nashik,20.0305,74.1476,VALID,Passed all geographic and bounding box checks
+1770,183452,DIXI,Niphad,Nashik,20.0412,73.9621,VALID,Passed all geographic and bounding box checks
+1771,183447,Dongargaon,Niphad,Nashik,20.1342,74.0531,VALID,Passed all geographic and bounding box checks
+1772,183454,Gajarwadi,Niphad,Nashik,20.0414,74.1658,VALID,Passed all geographic and bounding box checks
+1773,183456,Godegaon,Niphad,Nashik,20.1211,74.3121,VALID,Passed all geographic and bounding box checks
+1774,183455,Gondegaon,Niphad,Nashik,20.0342,74.1921,VALID,Passed all geographic and bounding box checks
+1775,183457,Gorthan,Niphad,Nashik,20.0811,74.0842,VALID,Passed all geographic and bounding box checks
+1776,293805,Grampanchayat Varhedarana,Niphad,Nashik,20.0321,73.9431,VALID,Passed all geographic and bounding box checks
+1777,183458,Hanumannagar,Niphad,Nashik,20.1412,74.3021,VALID,Passed all geographic and bounding box checks
+1778,183459,Jalgaon,Niphad,Nashik,20.0648,74.112,VALID,Passed all geographic and bounding box checks
+1779,183460,Jiwahle,Niphad,Nashik,20.0521,74.2412,VALID,Passed all geographic and bounding box checks
+1780,183461,Kanlad,Niphad,Nashik,19.9663,74.2731,VALID,Passed all geographic and bounding box checks
+1781,183462,Karanjgaon,Niphad,Nashik,20.016,74.0739,VALID,Passed all geographic and bounding box checks
+1782,183463,Karanj Kd.,Niphad,Nashik,20.0812,74.0812,VALID,Passed all geographic and bounding box checks
+1783,183464,Karsul,Niphad,Nashik,20.1415,74.0302,VALID,Passed all geographic and bounding box checks
+1784,183466,Kathargaon,Niphad,Nashik,20.0385,74.1158,VALID,Passed all geographic and bounding box checks
+1785,183467,Khadakmalegaon,Niphad,Nashik,20.1612,74.1611,VALID,Passed all geographic and bounding box checks
+1786,183469,Khangaon Tadi,Niphad,Nashik,19.9912,74.1242,VALID,Passed all geographic and bounding box checks
+1787,183470,Khede,Niphad,Nashik,20.1112,74.0431,VALID,Passed all geographic and bounding box checks
+1788,183468,Khedle Zunge,Niphad,Nashik,20.0531,74.3211,VALID,Passed all geographic and bounding box checks
+1789,183471,Kherwadi (Narayangaon),Niphad,Nashik,20.0421,74.0111,VALID,Passed all geographic and bounding box checks
+1790,183472,Kokangaon,Niphad,Nashik,20.0811,73.9721,VALID,Passed all geographic and bounding box checks
+1791,183473,Kolgaon,Niphad,Nashik,20.1412,74.1131,VALID,Passed all geographic and bounding box checks
+1792,183474,Kolwadi (Shriramnagar),Niphad,Nashik,20.0321,74.1431,VALID,Passed all geographic and bounding box checks
+1793,183475,Kotamgaon,Niphad,Nashik,20.1474,74.2051,WARNING,Duplicate coordinates shared across 2 records
+1794,183476,Kothure,Niphad,Nashik,20.0461,74.0753,VALID,Passed all geographic and bounding box checks
+1795,183465,K.Sukane,Niphad,Nashik,20.0821,74.0321,VALID,Passed all geographic and bounding box checks
+1796,183477,Kumbhari,Niphad,Nashik,20.1111,74.2842,VALID,Passed all geographic and bounding box checks
+1797,183478,Kundewadi,Niphad,Nashik,20.1311,74.1142,WARNING,Duplicate coordinates shared across 4 records
+1798,183478,Kundewadi,Niphad,Nashik,20.1311,74.1142,WARNING,Duplicate coordinates shared across 4 records
+1799,183478,Kundewadi,Niphad,Nashik,20.1311,74.1142,WARNING,Duplicate coordinates shared across 4 records
+1800,183478,Kundewadi,Niphad,Nashik,20.1311,74.1142,WARNING,Duplicate coordinates shared across 4 records
+1801,183479,Kurudgaon,Niphad,Nashik,20.0449,74.0946,VALID,Passed all geographic and bounding box checks
+1802,183480,Lalpadi,Niphad,Nashik,20.0611,74.1422,VALID,Passed all geographic and bounding box checks
+1803,183481,Lasalgaon,Niphad,Nashik,20.1426,74.2377,VALID,Passed all geographic and bounding box checks
+1804,183482,Lonwadee,Niphad,Nashik,20.0421,74.1411,VALID,Passed all geographic and bounding box checks
+1805,183483,Mahajanpur,Niphad,Nashik,20.1541,74.1611,VALID,Passed all geographic and bounding box checks
+1806,183484,Mahalsakore,Niphad,Nashik,20.0411,74.2142,VALID,Passed all geographic and bounding box checks
+1807,183485,Manjargaon,Niphad,Nashik,19.9977,74.1163,VALID,Passed all geographic and bounding box checks
+1808,183487,Maralgoi Bk,Niphad,Nashik,20.1611,74.1121,VALID,Passed all geographic and bounding box checks
+1809,183486,Maralgoi Kd,Niphad,Nashik,20.1542,74.1121,VALID,Passed all geographic and bounding box checks
+1810,183488,M.Sukane,Niphad,Nashik,20.0811,74.0342,VALID,Passed all geographic and bounding box checks
+1811,183489,Mukhed,Niphad,Nashik,20.0091,74.3224,WARNING,Duplicate coordinates shared across 2 records
+1812,183490,Naitale,Niphad,Nashik,20.0689,74.1664,VALID,Passed all geographic and bounding box checks
+1813,183491,Nandgaon,Niphad,Nashik,20.3094,74.6597,VALID,Passed all geographic and bounding box checks
+1814,183494,Nandurdi,Niphad,Nashik,20.1242,74.1841,VALID,Passed all geographic and bounding box checks
+1815,183492,Nandur Kd,Niphad,Nashik,20.0128,74.1542,WARNING,Duplicate coordinates shared across 2 records
+1816,183493,Nandur M.,Niphad,Nashik,20.0128,74.1542,WARNING,Duplicate coordinates shared across 2 records
+1817,183495,Narayan T.,Niphad,Nashik,19.99,73.7827,VALID,Passed all geographic and bounding box checks
+1818,183496,Nimgaon V.,Niphad,Nashik,19.9905,74.4238,WARNING,Duplicate coordinates shared across 2 records
+1819,183498,Oney,Niphad,Nashik,20.1511,74.2521,VALID,Passed all geographic and bounding box checks
+1820,183501,Pachore Bk,Niphad,Nashik,20.1812,74.2111,VALID,Passed all geographic and bounding box checks
+1821,183502,Pachore Kd,Niphad,Nashik,20.1711,74.2042,VALID,Passed all geographic and bounding box checks
+1822,183503,Pachore Vani,Niphad,Nashik,19.1911,74.2142,VALID,Passed all geographic and bounding box checks
+1823,183504,Palkhed,Niphad,Nashik,20.1531,73.9221,VALID,Passed all geographic and bounding box checks
+1824,183505,Panchakeshor,Niphad,Nashik,20.0412,73.9932,VALID,Passed all geographic and bounding box checks
+1825,183507,Pimpalgaon Najik,Niphad,Nashik,20.1411,74.1842,VALID,Passed all geographic and bounding box checks
+1826,183508,Pimpalgaon Nipani,Niphad,Nashik,20.1621,74.1541,VALID,Passed all geographic and bounding box checks
+1827,183509,Pimplas,Niphad,Nashik,20.0811,74.1121,VALID,Passed all geographic and bounding box checks
+1828,183510,Pimpri,Niphad,Nashik,20.0969,74.0633,WARNING,Duplicate coordinates shared across 2 records
+1829,183512,Ranwad,Niphad,Nashik,20.1242,74.1911,VALID,Passed all geographic and bounding box checks
+1830,183513,Rasalpur,Niphad,Nashik,20.0411,74.2321,VALID,Passed all geographic and bounding box checks
+1831,183514,Raulas,Niphad,Nashik,20.0969,74.0633,WARNING,Duplicate coordinates shared across 2 records
+1832,183511,Redgaon,Niphad,Nashik,20.1432,74.1521,VALID,Passed all geographic and bounding box checks
+1833,183515,Rui,Niphad,Nashik,20.0212,74.2337,VALID,Passed all geographic and bounding box checks
+1834,183520,Saikheda,Niphad,Nashik,20.0161,74.009,VALID,Passed all geographic and bounding box checks
+1835,183516,Sakore,Niphad,Nashik,20.1481,73.9426,VALID,Passed all geographic and bounding box checks
+1836,183518,Sarole Kd.,Niphad,Nashik,20.0121,74.0132,VALID,Passed all geographic and bounding box checks
+1837,183517,Sarole Thadi,Niphad,Nashik,20.0231,74.0241,VALID,Passed all geographic and bounding box checks
+1838,183519,Savargaon,Niphad,Nashik,20.0117,73.6779,VALID,Passed all geographic and bounding box checks
+1839,183521,Shimpi Takli,Niphad,Nashik,20.1111,74.2011,VALID,Passed all geographic and bounding box checks
+1840,183522,Shingve,Niphad,Nashik,20.1412,74.1011,VALID,Passed all geographic and bounding box checks
+1841,183523,Shirasgaon,Niphad,Nashik,20.0898,73.3945,VALID,Passed all geographic and bounding box checks
+1842,183527,Shirvare,Niphad,Nashik,20.1012,74.2811,VALID,Passed all geographic and bounding box checks
+1843,183525,Shirwade Vani,Niphad,Nashik,20.0811,74.0521,VALID,Passed all geographic and bounding box checks
+1844,183524,Shirwade Wakad,Niphad,Nashik,20.0911,74.2142,VALID,Passed all geographic and bounding box checks
+1845,183526,Shivadi,Niphad,Nashik,20.1112,74.1142,VALID,Passed all geographic and bounding box checks
+1846,183528,Sonewadi Bk,Niphad,Nashik,20.1042,74.1358,WARNING,Duplicate coordinates shared across 2 records
+1847,183529,Sonewadi Kd,Niphad,Nashik,20.1042,74.1358,WARNING,Duplicate coordinates shared across 2 records
+1848,183530,Songaon,Niphad,Nashik,20.1241,74.0811,VALID,Passed all geographic and bounding box checks
+1849,183531,Subhasnagar,Niphad,Nashik,20.0431,74.0811,VALID,Passed all geographic and bounding box checks
+1850,183532,Sundarpur,Niphad,Nashik,20.0811,74.3121,VALID,Passed all geographic and bounding box checks
+1851,183533,Takali Vinchor,Niphad,Nashik,20.1541,74.2521,VALID,Passed all geographic and bounding box checks
+1852,183534,Talwade,Niphad,Nashik,20.3976,74.7497,WARNING,Duplicate coordinates shared across 3 records
+1853,183535,Tamaswadi,Niphad,Nashik,20.1711,74.1611,VALID,Passed all geographic and bounding box checks
+1854,183536,Tarukhedle,Niphad,Nashik,20.0521,74.3311,VALID,Passed all geographic and bounding box checks
+1855,183537,Thergaon,Niphad,Nashik,20.1112,74.3121,VALID,Passed all geographic and bounding box checks
+1856,183538,Thetale,Niphad,Nashik,20.0611,74.0242,VALID,Passed all geographic and bounding box checks
+1857,183539,Ugaon,Niphad,Nashik,20.1234,74.1396,VALID,Passed all geographic and bounding box checks
+1858,183540,Umberkhed,Niphad,Nashik,20.1555,73.9688,VALID,Passed all geographic and bounding box checks
+1859,183545,Vahegaon,Niphad,Nashik,20.1231,74.1141,VALID,Passed all geographic and bounding box checks
+1860,183543,Vakad,Niphad,Nashik,20.1012,74.2211,VALID,Passed all geographic and bounding box checks
+1861,183542,Vanasgaon,Niphad,Nashik,20.0431,74.2842,VALID,Passed all geographic and bounding box checks
+1862,183541,Vdali Najik,Niphad,Nashik,20.1541,74.1841,VALID,Passed all geographic and bounding box checks
+1863,183544,Velapur,Niphad,Nashik,20.0211,74.3121,VALID,Passed all geographic and bounding box checks
+1864,183548,Vinchur,Niphad,Nashik,20.1053,74.2252,VALID,Passed all geographic and bounding box checks
+1865,183549,Vishnunagar,Niphad,Nashik,20.0411,74.2411,VALID,Passed all geographic and bounding box checks
+1866,183547,Wavi,Niphad,Nashik,19.8039,74.2489,VALID,Passed all geographic and bounding box checks
+1867,183550,Aad (B),Peth,Nashik,20.2111,73.5411,VALID,Passed all geographic and bounding box checks
+1868,183551,Adgaon (B),Peth,Nashik,20.0251,73.413,VALID,Passed all geographic and bounding box checks
+1869,183553,Ambe,Peth,Nashik,20.3776,73.5084,VALID,Passed all geographic and bounding box checks
+1870,183552,Amloan,Peth,Nashik,20.3122,73.5111,WARNING,Duplicate coordinates shared across 3 records
+1871,183554,Andhrute,Peth,Nashik,20.2411,73.5242,WARNING,Duplicate coordinates shared across 3 records
+1872,183555,Asarbari,Peth,Nashik,20.1811,73.4922,WARNING,Duplicate coordinates shared across 2 records
+1873,183556,Badgi,Peth,Nashik,20.2511,73.5822,WARNING,Duplicate coordinates shared across 4 records
+1874,183557,Bhaygaon,Peth,Nashik,20.1993,73.5837,VALID,Passed all geographic and bounding box checks
+1875,183558,Bhuvan,Peth,Nashik,20.2811,73.5042,VALID,Passed all geographic and bounding box checks
+1876,183559,Borvat,Peth,Nashik,20.3011,73.5511,VALID,Passed all geographic and bounding box checks
+1877,183560,Cholmukh,Peth,Nashik,20.3142,73.5821,WARNING,Duplicate coordinates shared across 2 records
+1878,183561,Deogaon,Peth,Nashik,20.2111,73.5242,WARNING,Duplicate coordinates shared across 3 records
+1879,183562,Devichamal,Peth,Nashik,20.3211,73.5642,VALID,Passed all geographic and bounding box checks
+1880,183563,Dhanpada,Peth,Nashik,20.2911,73.5911,VALID,Passed all geographic and bounding box checks
+1881,183565,Dhondmal,Peth,Nashik,20.2111,73.5111,WARNING,Duplicate coordinates shared across 4 records
+1882,183566,Dolharmal,Peth,Nashik,20.1911,73.4911,WARNING,Duplicate coordinates shared across 2 records
+1883,183567,Donawade,Peth,Nashik,20.3411,73.5411,WARNING,Duplicate coordinates shared across 2 records
+1884,183568,Ekdare,Peth,Nashik,20.2111,73.5111,WARNING,Duplicate coordinates shared across 4 records
+1885,183569,Gangodbari,Peth,Nashik,20.2411,73.5222,WARNING,Duplicate coordinates shared across 3 records
+1886,183570,Gavandha,Peth,Nashik,20.2811,73.5411,WARNING,Duplicate coordinates shared across 5 records
+1887,183564,Ghanshet,Peth,Nashik,20.3122,73.5522,WARNING,Duplicate coordinates shared across 2 records
+1888,183571,Gonde,Peth,Nashik,20.3211,73.5111,WARNING,Duplicate coordinates shared across 2 records
+1889,183572,Hanumannager,Peth,Nashik,20.3511,73.5422,WARNING,Duplicate coordinates shared across 2 records
+1890,183573,Hanumantpada,Peth,Nashik,20.2111,73.4911,WARNING,Duplicate coordinates shared across 2 records
+1891,183574,Harangaon,Peth,Nashik,20.2411,73.5111,WARNING,Duplicate coordinates shared across 2 records
+1892,183575,Hatrundi,Peth,Nashik,20.2811,73.5842,WARNING,Duplicate coordinates shared across 2 records
+1893,183576,Jale,Peth,Nashik,20.2838,73.5038,VALID,Passed all geographic and bounding box checks
+1894,183577,Jambhulmal,Peth,Nashik,20.3122,73.5411,WARNING,Duplicate coordinates shared across 2 records
+1895,183578,Jambvihir,Peth,Nashik,20.3411,73.5111,WARNING,Duplicate coordinates shared across 2 records
+1896,183579,Jogmodi,Peth,Nashik,20.3264,73.5681,VALID,Passed all geographic and bounding box checks
+1897,183580,Junothi,Peth,Nashik,20.2111,73.4922,VALID,Passed all geographic and bounding box checks
+1898,183581,Kahandolpada,Peth,Nashik,20.2411,73.5411,VALID,Passed all geographic and bounding box checks
+1899,183582,Kalambari,Peth,Nashik,20.2811,73.5642,VALID,Passed all geographic and bounding box checks
+1900,183583,Kapurne,Peth,Nashik,20.3122,73.5111,WARNING,Duplicate coordinates shared across 3 records
+1901,183584,Karanjali,Peth,Nashik,20.2467,73.5845,VALID,Passed all geographic and bounding box checks
+1902,183585,Karanjkhed,Peth,Nashik,20.2541,73.5822,VALID,Passed all geographic and bounding box checks
+1903,183586,Kayre,Peth,Nashik,20.2811,73.5411,WARNING,Duplicate coordinates shared across 5 records
+1904,259862,Kharpadi,Peth,Nashik,20.1857,73.4305,VALID,Passed all geographic and bounding box checks
+1905,183587,Khirkide,Peth,Nashik,20.3122,73.5511,WARNING,Duplicate coordinates shared across 3 records
+1906,183588,Khokartale,Peth,Nashik,20.2411,73.5242,WARNING,Duplicate coordinates shared across 3 records
+1907,183589,Kohor,Peth,Nashik,20.1789,73.5919,VALID,Passed all geographic and bounding box checks
+1908,183590,Kopurli (B),Peth,Nashik,20.3144,73.5499,WARNING,Duplicate coordinates shared across 2 records
+1909,183591,Kopurli (Kh),Peth,Nashik,20.3144,73.5499,WARNING,Duplicate coordinates shared across 2 records
+1910,183592,Kotambi,Peth,Nashik,20.1811,73.4922,WARNING,Duplicate coordinates shared across 2 records
+1911,183593,Kulwandi,Peth,Nashik,20.1382,73.5361,VALID,Passed all geographic and bounding box checks
+1912,183594,Kumbhale,Peth,Nashik,20.2511,73.5822,WARNING,Duplicate coordinates shared across 4 records
+1913,183595,Kumbharbari,Peth,Nashik,20.3122,73.5111,WARNING,Duplicate coordinates shared across 3 records
+1914,183596,Lingawane,Peth,Nashik,20.2411,73.5242,WARNING,Duplicate coordinates shared across 3 records
+1915,183597,Malegaon,Peth,Nashik,20.2511,73.5822,WARNING,Duplicate coordinates shared across 4 records
+1916,183598,Mangone,Peth,Nashik,20.2811,73.5411,WARNING,Duplicate coordinates shared across 5 records
+1917,183599,Mankapur,Peth,Nashik,20.3122,73.5511,WARNING,Duplicate coordinates shared across 3 records
+1918,183600,Mhasgan,Peth,Nashik,20.2111,73.5242,WARNING,Duplicate coordinates shared across 3 records
+1919,183601,Nachalondhi,Peth,Nashik,20.3142,73.5821,WARNING,Duplicate coordinates shared across 2 records
+1920,183602,Nirgude,Peth,Nashik,20.2111,73.5242,WARNING,Duplicate coordinates shared across 3 records
+1921,183603,Pahuchibari,Peth,Nashik,20.2511,73.5822,WARNING,Duplicate coordinates shared across 4 records
+1922,183604,Pate,Peth,Nashik,20.2811,73.5411,WARNING,Duplicate coordinates shared across 5 records
+1923,183606,Pimpalwati,Peth,Nashik,20.3122,73.5511,WARNING,Duplicate coordinates shared across 3 records
+1924,183607,Rajbari,Peth,Nashik,20.3411,73.5111,WARNING,Duplicate coordinates shared across 2 records
+1925,183608,Ranvihir,Peth,Nashik,20.2111,73.5111,WARNING,Duplicate coordinates shared across 4 records
+1926,183609,Ruipetha,Peth,Nashik,20.3122,73.5411,WARNING,Duplicate coordinates shared across 2 records
+1927,183610,Savalghat,Peth,Nashik,20.1911,73.4911,WARNING,Duplicate coordinates shared across 2 records
+1928,183612,Shevkhandi,Peth,Nashik,20.3411,73.5411,WARNING,Duplicate coordinates shared across 2 records
+1929,183613,Shinde,Peth,Nashik,20.2111,73.5111,WARNING,Duplicate coordinates shared across 4 records
+1930,183611,Shingadari,Peth,Nashik,20.2411,73.5222,WARNING,Duplicate coordinates shared across 3 records
+1931,183614,Shivshet,Peth,Nashik,20.2811,73.5411,WARNING,Duplicate coordinates shared across 5 records
+1932,183615,Surgane,Peth,Nashik,20.3187,73.5144,VALID,Passed all geographic and bounding box checks
+1933,183616,Tirde,Peth,Nashik,20.3122,73.5522,WARNING,Duplicate coordinates shared across 2 records
+1934,183617,Tondwal,Peth,Nashik,20.3211,73.5111,WARNING,Duplicate coordinates shared across 2 records
+1935,183619,Umbarpada (Kh),Peth,Nashik,20.3511,73.5422,WARNING,Duplicate coordinates shared across 2 records
+1936,183618,Umberdahad,Peth,Nashik,20.2111,73.4911,WARNING,Duplicate coordinates shared across 2 records
+1937,183620,Umbrad,Peth,Nashik,20.2411,73.5111,WARNING,Duplicate coordinates shared across 2 records
+1938,183621,Usthale,Peth,Nashik,20.2811,73.5842,WARNING,Duplicate coordinates shared across 2 records
+1939,183622,Wangani,Peth,Nashik,20.2411,73.5222,WARNING,Duplicate coordinates shared across 3 records
+1940,183623,Adwadi,Sinnar,Nashik,19.8511,74.0242,VALID,Passed all geographic and bounding box checks
+1941,183624,Agaskhind,Sinnar,Nashik,19.9421,74.0411,VALID,Passed all geographic and bounding box checks
+1942,183625,Ashapur,Sinnar,Nashik,19.8822,74.0111,VALID,Passed all geographic and bounding box checks
+1943,183626,Atkawade,Sinnar,Nashik,19.8211,73.9542,VALID,Passed all geographic and bounding box checks
+1944,183627,Aundhewadi,Sinnar,Nashik,19.765,73.8446,VALID,Passed all geographic and bounding box checks
+1945,183628,Baragaon Pimpri,Sinnar,Nashik,19.9057,74.0567,VALID,Passed all geographic and bounding box checks
+1946,183629,Belu,Sinnar,Nashik,19.9211,74.0842,VALID,Passed all geographic and bounding box checks
+1947,237291,Bharatpur,Sinnar,Nashik,19.8412,74.1432,VALID,Passed all geographic and bounding box checks
+1948,183630,Bhatwadi,Sinnar,Nashik,19.8112,74.2531,VALID,Passed all geographic and bounding box checks
+1949,183631,Bhokani,Sinnar,Nashik,19.7912,74.1132,VALID,Passed all geographic and bounding box checks
+1950,183632,Borkhind,Sinnar,Nashik,19.7909,73.8611,VALID,Passed all geographic and bounding box checks
+1951,183633,Bramhanwade,Sinnar,Nashik,19.9239,73.9295,VALID,Passed all geographic and bounding box checks
+1952,183634,Chandrapur Kh.,Sinnar,Nashik,19.8541,74.2342,VALID,Passed all geographic and bounding box checks
+1953,183635,Chapadgaon,Sinnar,Nashik,20.0127,74.0911,VALID,Passed all geographic and bounding box checks
+1954,183636,Chass,Sinnar,Nashik,19.7178,74.1338,VALID,Passed all geographic and bounding box checks
+1955,183637,Chincholi,Sinnar,Nashik,19.8976,73.9094,VALID,Passed all geographic and bounding box checks
+1956,183638,Chondhi,Sinnar,Nashik,19.8212,74.2211,VALID,Passed all geographic and bounding box checks
+1957,183639,Dahiwadi,Sinnar,Nashik,19.8212,74.0411,VALID,Passed all geographic and bounding box checks
+1958,183643,Dapur,Sinnar,Nashik,19.7405,74.0538,VALID,Passed all geographic and bounding box checks
+1959,183641,Datali,Sinnar,Nashik,19.8131,73.9142,VALID,Passed all geographic and bounding box checks
+1960,183642,Dattanagar (Dapur),Sinnar,Nashik,19.7412,74.0511,VALID,Passed all geographic and bounding box checks
+1961,183640,Deopur,Sinnar,Nashik,19.8312,74.2811,VALID,Passed all geographic and bounding box checks
+1962,183644,Deshwandi,Sinnar,Nashik,19.8412,74.2422,VALID,Passed all geographic and bounding box checks
+1963,183645,Dharangaon,Sinnar,Nashik,19.8276,74.2615,VALID,Passed all geographic and bounding box checks
+1964,183646,Dhondbar,Sinnar,Nashik,19.7595,73.8773,VALID,Passed all geographic and bounding box checks
+1965,183647,Dhondvirnagar,Sinnar,Nashik,19.8181,74.1132,VALID,Passed all geographic and bounding box checks
+1966,183648,Dhulwad,Sinnar,Nashik,19.7209,74.0141,VALID,Passed all geographic and bounding box checks
+1967,183649,Dodi Bk.,Sinnar,Nashik,19.7531,74.1211,VALID,Passed all geographic and bounding box checks
+1968,183650,Dodi Kh.,Sinnar,Nashik,19.7541,74.1242,VALID,Passed all geographic and bounding box checks
+1969,183651,Dubere,Sinnar,Nashik,19.7813,73.9747,VALID,Passed all geographic and bounding box checks
+1970,237294,Duberewadi (Krushnanagar),Sinnar,Nashik,19.7812,73.9621,VALID,Passed all geographic and bounding box checks
+1971,183652,Dusingpur,Sinnar,Nashik,19.8412,73.9621,VALID,Passed all geographic and bounding box checks
+1972,183701,Fulenagar,Sinnar,Nashik,19.8134,74.0531,VALID,Passed all geographic and bounding box checks
+1973,183653,Ghorwad,Sinnar,Nashik,19.8414,74.1658,VALID,Passed all geographic and bounding box checks
+1974,237292,Ghotewadi,Sinnar,Nashik,19.8211,74.3121,VALID,Passed all geographic and bounding box checks
+1975,183654,Gonde,Sinnar,Nashik,19.8342,74.1921,VALID,Passed all geographic and bounding box checks
+1976,183655,Gulwanchi,Sinnar,Nashik,19.8811,74.0842,VALID,Passed all geographic and bounding box checks
+1977,183656,Harsule,Sinnar,Nashik,19.8321,73.9431,VALID,Passed all geographic and bounding box checks
+1978,183657,Hivare,Sinnar,Nashik,19.8412,74.3021,VALID,Passed all geographic and bounding box checks
+1979,183658,Hivargaon,Sinnar,Nashik,19.8648,74.112,VALID,Passed all geographic and bounding box checks
+1980,183659,Jamgaon,Sinnar,Nashik,19.8521,74.2412,VALID,Passed all geographic and bounding box checks
+1981,237297,Jaygaon,Sinnar,Nashik,19.8663,74.2731,VALID,Passed all geographic and bounding box checks
+1982,183660,Jogaltembhi,Sinnar,Nashik,19.816,74.0739,VALID,Passed all geographic and bounding box checks
+1983,183662,Kankori,Sinnar,Nashik,19.7566,74.1743,VALID,Passed all geographic and bounding box checks
+1984,183663,Karwadi,Sinnar,Nashik,19.8111,74.0812,VALID,Passed all geographic and bounding box checks
+1985,183664,Kasarwadi,Sinnar,Nashik,19.8415,74.0302,VALID,Passed all geographic and bounding box checks
+1986,183661,Ke. Pa. Nagar,Sinnar,Nashik,19.8385,74.1158,VALID,Passed all geographic and bounding box checks
+1987,183665,Khadangali,Sinnar,Nashik,19.8612,74.1611,VALID,Passed all geographic and bounding box checks
+1988,183666,Khambale,Sinnar,Nashik,19.9548,73.9521,VALID,Passed all geographic and bounding box checks
+1989,183667,Khopadi Kh.,Sinnar,Nashik,19.8112,74.0431,VALID,Passed all geographic and bounding box checks
+1990,183668,Kirtangali,Sinnar,Nashik,19.8531,74.3211,VALID,Passed all geographic and bounding box checks
+1991,183669,Kolgaonmal,Sinnar,Nashik,19.8421,74.0111,VALID,Passed all geographic and bounding box checks
+1992,183670,Komalwadi,Sinnar,Nashik,19.8811,73.9721,VALID,Passed all geographic and bounding box checks
+1993,183671,Konambe,Sinnar,Nashik,19.778,73.9185,VALID,Passed all geographic and bounding box checks
+1994,183672,Kundewadi,Sinnar,Nashik,19.8412,74.1131,VALID,Passed all geographic and bounding box checks
+1995,183673,Maldhon,Sinnar,Nashik,19.8321,74.1431,VALID,Passed all geographic and bounding box checks
+1996,183674,Malegaon,Sinnar,Nashik,19.8718,73.9767,VALID,Passed all geographic and bounding box checks
+1997,183675,Manegaon,Sinnar,Nashik,19.8461,74.0753,VALID,Passed all geographic and bounding box checks
+1998,183676,Manori,Sinnar,Nashik,19.8821,74.0321,VALID,Passed all geographic and bounding box checks
+1999,183677,Marhal Bk.,Sinnar,Nashik,19.7352,74.1494,WARNING,Duplicate coordinates shared across 2 records
+2000,183678,Marhal Kh.,Sinnar,Nashik,19.7352,74.1494,WARNING,Duplicate coordinates shared across 2 records
+2001,183679,Mendhi,Sinnar,Nashik,19.8111,74.2842,VALID,Passed all geographic and bounding box checks
+2002,183680,Mirgaon,Sinnar,Nashik,19.8311,74.1142,VALID,Passed all geographic and bounding box checks
+2003,183681,Mithsagare,Sinnar,Nashik,19.8449,74.0946,VALID,Passed all geographic and bounding box checks
+2004,183682,Mohu,Sinnar,Nashik,19.8611,74.1422,VALID,Passed all geographic and bounding box checks
+2005,183683,Musalgaon,Sinnar,Nashik,19.8347,74.0536,VALID,Passed all geographic and bounding box checks
+2006,183684,Naigaon,Sinnar,Nashik,19.8421,74.1411,VALID,Passed all geographic and bounding box checks
+2007,183685,Nalwadi,Sinnar,Nashik,19.8541,74.1611,VALID,Passed all geographic and bounding box checks
+2008,183686,Nandur Shingote,Sinnar,Nashik,19.721,74.1351,VALID,Passed all geographic and bounding box checks
+2009,183687,Nimgaon (Deopur),Sinnar,Nashik,19.8411,74.2142,VALID,Passed all geographic and bounding box checks
+2010,183688,Nimgaon (Sinnar),Sinnar,Nashik,19.8973,74.1623,VALID,Passed all geographic and bounding box checks
+2011,183689,Nirhale Fattepur,Sinnar,Nashik,19.8511,74.2321,VALID,Passed all geographic and bounding box checks
+2012,183690,Padali,Sinnar,Nashik,19.7015,73.9585,WARNING,Duplicate coordinates shared across 2 records
+2013,183691,Panchale,Sinnar,Nashik,19.876,74.2162,VALID,Passed all geographic and bounding box checks
+2014,183692,Pandhurli,Sinnar,Nashik,19.83,73.8549,VALID,Passed all geographic and bounding box checks
+2015,183693,Pangari Bk.,Sinnar,Nashik,19.8432,74.1521,VALID,Passed all geographic and bounding box checks
+2016,183694,Pangari Kh.,Sinnar,Nashik,19.8212,74.2337,VALID,Passed all geographic and bounding box checks
+2017,183695,Paste,Sinnar,Nashik,19.8161,74.009,VALID,Passed all geographic and bounding box checks
+2018,183696,Pathare Bk.,Sinnar,Nashik,19.8481,73.9426,VALID,Passed all geographic and bounding box checks
+2019,183697,Pathare Kh.,Sinnar,Nashik,19.8121,74.0132,VALID,Passed all geographic and bounding box checks
+2020,183698,Patole,Sinnar,Nashik,19.8231,74.0241,VALID,Passed all geographic and bounding box checks
+2021,183699,Patpimpri,Sinnar,Nashik,19.9206,74.0539,VALID,Passed all geographic and bounding box checks
+2022,183700,Phardapur,Sinnar,Nashik,19.8111,74.2011,VALID,Passed all geographic and bounding box checks
+2023,183702,Pimpale,Sinnar,Nashik,19.705,74.0044,VALID,Passed all geographic and bounding box checks
+2024,183703,Pimpalgaon,Sinnar,Nashik,19.8412,74.1011,VALID,Passed all geographic and bounding box checks
+2025,183704,Pimparwadi,Sinnar,Nashik,19.8411,74.1011,VALID,Passed all geographic and bounding box checks
+2026,183705,Ramnagar,Sinnar,Nashik,19.8111,74.2811,VALID,Passed all geographic and bounding box checks
+2027,237295,Rampur,Sinnar,Nashik,19.8012,74.2811,VALID,Passed all geographic and bounding box checks
+2028,183706,Sangavi,Sinnar,Nashik,19.872,73.9447,VALID,Passed all geographic and bounding box checks
+2029,183707,Saradwadi,Sinnar,Nashik,19.8011,74.0521,VALID,Passed all geographic and bounding box checks
+2030,183708,Savatamali Nagar,Sinnar,Nashik,19.8911,74.2142,VALID,Passed all geographic and bounding box checks
+2031,183709,Sayale,Sinnar,Nashik,19.8112,74.1142,VALID,Passed all geographic and bounding box checks
+2032,183710,Shaha,Sinnar,Nashik,19.8042,74.1358,WARNING,Duplicate coordinates shared across 2 records
+2033,237296,Shastrinagar,Sinnar,Nashik,19.8042,74.1358,WARNING,Duplicate coordinates shared across 2 records
+2034,183711,Shivade,Sinnar,Nashik,19.7988,73.8808,VALID,Passed all geographic and bounding box checks
+2035,183712,Shivaji Nagar (Dapur),Sinnar,Nashik,19.7241,74.0811,VALID,Passed all geographic and bounding box checks
+2036,237293,Shivajinagar (Kahandalwadi),Sinnar,Nashik,19.8431,74.0811,VALID,Passed all geographic and bounding box checks
+2037,183713,Shrirampur (Shindewadi),Sinnar,Nashik,19.8811,74.3121,VALID,Passed all geographic and bounding box checks
+2038,183714,Somthane,Sinnar,Nashik,19.9549,74.2258,VALID,Passed all geographic and bounding box checks
+2039,183716,Sonambe,Sinnar,Nashik,19.8541,74.2521,VALID,Passed all geographic and bounding box checks
+2040,183717,Sonari,Sinnar,Nashik,19.8976,74.7498,VALID,Passed all geographic and bounding box checks
+2041,183718,Sonewadi,Sinnar,Nashik,19.8711,74.1611,VALID,Passed all geographic and bounding box checks
+2042,183715,Songiri,Sinnar,Nashik,19.8521,74.3311,VALID,Passed all geographic and bounding box checks
+2043,183719,Sulewadi,Sinnar,Nashik,19.8112,74.3121,VALID,Passed all geographic and bounding box checks
+2044,183720,Suregaon,Sinnar,Nashik,19.8611,74.0242,VALID,Passed all geographic and bounding box checks
+2045,183721,Thangaon,Sinnar,Nashik,19.6949,73.9337,VALID,Passed all geographic and bounding box checks
+2046,183722,Ujjani,Sinnar,Nashik,19.8234,74.1396,VALID,Passed all geographic and bounding box checks
+2047,183724,Vadangali,Sinnar,Nashik,19.9343,74.1556,VALID,Passed all geographic and bounding box checks
+2048,183726,Vadgaon (Pingala),Sinnar,Nashik,19.8555,73.9688,VALID,Passed all geographic and bounding box checks
+2049,183727,Vadgaon (Sinnar),Sinnar,Nashik,19.8231,74.1141,VALID,Passed all geographic and bounding box checks
+2050,183725,Vadzire,Sinnar,Nashik,19.8012,74.2211,VALID,Passed all geographic and bounding box checks
+2051,183728,Varegaon,Sinnar,Nashik,19.8431,74.2842,VALID,Passed all geographic and bounding box checks
+2052,183723,Vinchur Dalavi,Sinnar,Nashik,19.8541,74.1841,VALID,Passed all geographic and bounding box checks
+2053,183729,Wavi,Sinnar,Nashik,19.8034,74.249,VALID,Passed all geographic and bounding box checks
+2054,183730,Alangun,Surgana,Nashik,20.4541,73.5822,VALID,Passed all geographic and bounding box checks
+2055,183731,Ambatha,Surgana,Nashik,20.4811,73.5411,WARNING,Duplicate coordinates shared across 4 records
+2056,183732,Ambode,Surgana,Nashik,20.5122,73.5511,WARNING,Duplicate coordinates shared across 3 records
+2057,183735,Barhe,Surgana,Nashik,20.4344,73.5236,VALID,Passed all geographic and bounding box checks
+2058,183733,Bedase,Surgana,Nashik,20.4411,73.5242,WARNING,Duplicate coordinates shared across 2 records
+2059,183734,Bhadar,Surgana,Nashik,20.3511,73.5522,VALID,Passed all geographic and bounding box checks
+2060,183737,Bhavandagad,Surgana,Nashik,20.5811,73.5919,VALID,Passed all geographic and bounding box checks
+2061,183736,Bhawade,Surgana,Nashik,20.5144,73.5499,WARNING,Duplicate coordinates shared across 2 records
+2062,183738,Bhormal,Surgana,Nashik,20.5144,73.5499,WARNING,Duplicate coordinates shared across 2 records
+2063,183739,Biwal,Surgana,Nashik,20.3811,73.4922,VALID,Passed all geographic and bounding box checks
+2064,183740,Borgaon,Surgana,Nashik,20.5084,73.7534,VALID,Passed all geographic and bounding box checks
+2065,183741,Bubali,Surgana,Nashik,20.4511,73.5822,WARNING,Duplicate coordinates shared across 3 records
+2066,183742,Chikadi,Surgana,Nashik,20.5122,73.5111,VALID,Passed all geographic and bounding box checks
+2067,183743,Chinchpada,Surgana,Nashik,20.4411,73.5242,WARNING,Duplicate coordinates shared across 2 records
+2068,183744,Dangrale,Surgana,Nashik,20.4511,73.5822,WARNING,Duplicate coordinates shared across 3 records
+2069,183745,Dolhare,Surgana,Nashik,20.4811,73.5411,WARNING,Duplicate coordinates shared across 4 records
+2070,183746,Ghodambe,Surgana,Nashik,20.5122,73.5511,WARNING,Duplicate coordinates shared across 3 records
+2071,183747,Gondune,Surgana,Nashik,20.4111,73.5242,WARNING,Duplicate coordinates shared across 2 records
+2072,272879,Harantekdi,Surgana,Nashik,20.5142,73.5821,VALID,Passed all geographic and bounding box checks
+2073,183748,Haste,Surgana,Nashik,20.4111,73.5242,WARNING,Duplicate coordinates shared across 2 records
+2074,183749,Hatgad,Surgana,Nashik,20.5391,73.757,VALID,Passed all geographic and bounding box checks
+2075,183750,Hatrundi,Surgana,Nashik,20.4511,73.5822,WARNING,Duplicate coordinates shared across 3 records
+2076,183751,Hatti,Surgana,Nashik,20.4811,73.5411,WARNING,Duplicate coordinates shared across 4 records
+2077,183752,Hemadpada,Surgana,Nashik,20.5122,73.5511,WARNING,Duplicate coordinates shared across 3 records
+2078,183753,Jahule,Surgana,Nashik,20.4411,73.5111,WARNING,Duplicate coordinates shared across 2 records
+2079,183754,Kalamne,Surgana,Nashik,20.5411,73.5411,VALID,Passed all geographic and bounding box checks
+2080,183755,Karanjul Su,Surgana,Nashik,20.4111,73.5111,WARNING,Duplicate coordinates shared across 3 records
+2081,183756,Kathipada,Surgana,Nashik,20.5122,73.5411,WARNING,Duplicate coordinates shared across 3 records
+2082,183757,Khirdi,Surgana,Nashik,20.3785,73.424,VALID,Passed all geographic and bounding box checks
+2083,183758,Khobalama,Surgana,Nashik,20.4111,73.5222,VALID,Passed all geographic and bounding box checks
+2084,183759,Khokari,Surgana,Nashik,20.4811,73.5411,WARNING,Duplicate coordinates shared across 4 records
+2085,183760,Khuntvihir,Surgana,Nashik,20.5122,73.5144,VALID,Passed all geographic and bounding box checks
+2086,183761,Kothula,Surgana,Nashik,20.5122,73.5522,VALID,Passed all geographic and bounding box checks
+2087,183763,Kukudmundha,Surgana,Nashik,20.5211,73.5111,VALID,Passed all geographic and bounding box checks
+2088,183762,Kukudne,Surgana,Nashik,20.6541,73.4459,VALID,Passed all geographic and bounding box checks
+2089,272335,Ladgaon,Surgana,Nashik,20.5511,73.5422,VALID,Passed all geographic and bounding box checks
+2090,183765,Malegaon,Surgana,Nashik,20.5111,73.6111,VALID,Passed all geographic and bounding box checks
+2091,183766,Malgawhan,Surgana,Nashik,20.4411,73.5111,WARNING,Duplicate coordinates shared across 2 records
+2092,183767,Mandha,Surgana,Nashik,20.5811,73.5842,VALID,Passed all geographic and bounding box checks
+2093,183768,Mangadhe,Surgana,Nashik,20.5838,73.5038,VALID,Passed all geographic and bounding box checks
+2094,183769,Mani,Surgana,Nashik,20.4991,73.6056,VALID,Passed all geographic and bounding box checks
+2095,183770,Mankhed,Surgana,Nashik,20.4362,73.5964,VALID,Passed all geographic and bounding box checks
+2096,183764,Mhaishadak,Surgana,Nashik,20.5264,73.5681,VALID,Passed all geographic and bounding box checks
+2097,272878,Mohpada,Surgana,Nashik,20.3042,73.5407,VALID,Passed all geographic and bounding box checks
+2098,183771,Nagshevadi,Surgana,Nashik,20.4111,73.4922,VALID,Passed all geographic and bounding box checks
+2099,183772,Palsan,Surgana,Nashik,20.5016,73.5393,VALID,Passed all geographic and bounding box checks
+2100,183773,Pohali,Surgana,Nashik,20.4411,73.5411,VALID,Passed all geographic and bounding box checks
+2101,183774,Pratapgad,Surgana,Nashik,20.4811,73.5642,WARNING,Duplicate coordinates shared across 2 records
+2102,183775,Ragatvihir,Surgana,Nashik,20.3541,73.5012,WARNING,Duplicate coordinates shared across 2 records
+2103,183776,Rahude,Surgana,Nashik,20.3212,73.4854,WARNING,Duplicate coordinates shared across 2 records
+2104,183777,Rasha,Surgana,Nashik,20.3811,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2105,183778,Rokadpada,Surgana,Nashik,20.4122,73.5411,WARNING,Duplicate coordinates shared across 2 records
+2106,183779,Rongane,Surgana,Nashik,20.3755,73.5388,WARNING,Duplicate coordinates shared across 2 records
+2107,183780,Sajole,Surgana,Nashik,20.3822,73.5451,WARNING,Duplicate coordinates shared across 2 records
+2108,183781,Sarad,Surgana,Nashik,20.4011,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2109,183782,Shinde,Surgana,Nashik,20.4411,73.5522,WARNING,Duplicate coordinates shared across 2 records
+2110,183784,Thangaon,Surgana,Nashik,20.4022,73.5042,WARNING,Duplicate coordinates shared across 2 records
+2111,183785,Umberpada(D),Surgana,Nashik,20.4511,73.5222,WARNING,Duplicate coordinates shared across 2 records
+2112,183786,Umberthan,Surgana,Nashik,20.5122,73.5411,WARNING,Duplicate coordinates shared across 3 records
+2113,272752,Vaghdhond,Surgana,Nashik,20.4511,73.5522,WARNING,Duplicate coordinates shared across 2 records
+2114,183787,Varambhe,Trimbak,Nashik,20.4111,73.5111,WARNING,Duplicate coordinates shared across 3 records
+2115,183788,Alwand,Trimbak,Nashik,20.0111,73.4522,WARNING,Duplicate coordinates shared across 2 records
+2116,183789,Ambai,Trimbak,Nashik,19.9733,73.4719,WARNING,Duplicate coordinates shared across 2 records
+2117,183790,Amboli,Trimbak,Nashik,19.8865,73.65,WARNING,Duplicate coordinates shared across 2 records
+2118,183791,Anjaneri,Trimbak,Nashik,19.946,73.5868,WARNING,Duplicate coordinates shared across 2 records
+2119,183792,Aswalihirsha,Trimbak,Nashik,19.9211,73.4822,WARNING,Duplicate coordinates shared across 2 records
+2120,183793,Avhate,Trimbak,Nashik,19.9822,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2121,183794,Bafanvihir,Trimbak,Nashik,19.9111,73.4811,WARNING,Duplicate coordinates shared across 2 records
+2122,183798,Bbhootmokhada,Trimbak,Nashik,19.8911,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2123,183795,Berval,Trimbak,Nashik,19.9211,73.4411,WARNING,Duplicate coordinates shared across 2 records
+2124,183796,Beze,Trimbak,Nashik,19.9411,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2125,183797,Bhagohol,Trimbak,Nashik,19.9511,73.4211,WARNING,Duplicate coordinates shared across 2 records
+2126,183799,Bramhanwade,Trimbak,Nashik,19.9811,73.4511,WARNING,Duplicate coordinates shared across 2 records
+2127,183800,Chinchohol,Trimbak,Nashik,19.9522,73.4811,WARNING,Duplicate coordinates shared across 2 records
+2128,183801,Chinchvad,Trimbak,Nashik,19.9411,73.4711,WARNING,Duplicate coordinates shared across 2 records
+2129,183802,Dalpatpur,Trimbak,Nashik,19.9311,73.4511,WARNING,Duplicate coordinates shared across 4 records
+2130,183803,Deodongra,Trimbak,Nashik,19.9511,73.4111,WARNING,Duplicate coordinates shared across 2 records
+2131,183806,Deodongri,Trimbak,Nashik,19.9611,73.4211,WARNING,Duplicate coordinates shared across 4 records
+2132,183805,Deola,Trimbak,Nashik,19.9111,73.4511,WARNING,Duplicate coordinates shared across 2 records
+2133,183804,Devgaon,Trimbak,Nashik,19.8281,73.4598,WARNING,Duplicate coordinates shared across 2 records
+2134,183807,Dhumodi,Trimbak,Nashik,19.9122,73.4211,WARNING,Duplicate coordinates shared across 2 records
+2135,183808,Gadvadane,Trimbak,Nashik,19.9511,73.4011,WARNING,Duplicate coordinates shared across 2 records
+2136,183809,Ganeshgaon (W),Trimbak,Nashik,19.9222,73.5111,WARNING,Duplicate coordinates shared across 2 records
+2137,183810,Gavatha,Trimbak,Nashik,19.9811,73.4111,WARNING,Duplicate coordinates shared across 2 records
+2138,301095,Godhadyachapada,Trimbak,Nashik,20.0211,73.4511,WARNING,Duplicate coordinates shared across 2 records
+2139,183811,Goldari,Trimbak,Nashik,19.9811,73.4811,WARNING,Duplicate coordinates shared across 2 records
+2140,183812,Harsul,Trimbak,Nashik,20.1154,73.4533,WARNING,Duplicate coordinates shared across 2 records
+2141,183813,Hatlondhi,Trimbak,Nashik,19.9911,73.4411,WARNING,Duplicate coordinates shared across 2 records
+2142,183814,Birdi,Trimbak,Nashik,19.9622,73.4011,WARNING,Duplicate coordinates shared across 2 records
+2143,183815,Holdar Nagar,Trimbak,Nashik,19.9311,73.4811,WARNING,Duplicate coordinates shared across 2 records
+2144,183816,Jategaon Bk,Trimbak,Nashik,19.9237,73.6484,WARNING,Duplicate coordinates shared across 3 records
+2145,183817,Jategaon Khd,Trimbak,Nashik,19.9122,73.6511,WARNING,Duplicate coordinates shared across 2 records
+2146,183818,Kachurli,Trimbak,Nashik,19.9477,73.4924,WARNING,Duplicate coordinates shared across 2 records
+2147,183819,Kalmuste(H),Trimbak,Nashik,19.9265,73.461,WARNING,Duplicate coordinates shared across 4 records
+2148,183820,Kalmuste (T),Trimbak,Nashik,19.9265,73.461,WARNING,Duplicate coordinates shared across 4 records
+2149,183821,Khadakohol,Trimbak,Nashik,19.9411,73.4011,WARNING,Duplicate coordinates shared across 2 records
+2150,183826,Khairaipali,Trimbak,Nashik,19.9522,73.4211,WARNING,Duplicate coordinates shared across 2 records
+2151,183822,Khambale,Trimbak,Nashik,19.9548,73.6321,WARNING,Duplicate coordinates shared across 2 records
+2152,183823,Kharoli,Trimbak,Nashik,19.9111,73.4411,WARNING,Duplicate coordinates shared across 2 records
+2153,183824,Kharset,Trimbak,Nashik,20.176,73.3945,WARNING,Duplicate coordinates shared across 2 records
+2154,183825,Kharwal,Trimbak,Nashik,20.0623,73.4352,WARNING,Duplicate coordinates shared across 2 records
+2155,183827,Kone,Trimbak,Nashik,19.9511,73.5111,WARNING,Duplicate coordinates shared across 4 records
+2156,183828,Kotambi (H),Trimbak,Nashik,19.9811,73.4211,WARNING,Duplicate coordinates shared across 6 records
+2157,183829,Mahadeonagar,Trimbak,Nashik,19.9211,73.4811,WARNING,Duplicate coordinates shared across 2 records
+2158,183830,Malegaon,Trimbak,Nashik,19.9411,73.5511,WARNING,Duplicate coordinates shared across 4 records
+2159,183831,Met Chandryachi,Trimbak,Nashik,20.0111,73.4511,WARNING,Duplicate coordinates shared across 4 records
+2160,183832,Metgharkilla,Trimbak,Nashik,20.0211,73.4711,WARNING,Duplicate coordinates shared across 2 records
+2161,183833,Mulegaon,Trimbak,Nashik,19.9023,73.6092,WARNING,Duplicate coordinates shared across 2 records
+2162,183834,Mulwad,Trimbak,Nashik,19.9422,73.4511,WARNING,Duplicate coordinates shared across 2 records
+2163,183835,Murambi,Trimbak,Nashik,19.8509,73.6435,WARNING,Duplicate coordinates shared across 3 records
+2164,183836,Nandgaon (K),Trimbak,Nashik,19.9411,73.4111,WARNING,Duplicate coordinates shared across 2 records
+2165,183837,Nirgude,Trimbak,Nashik,19.9754,73.8417,WARNING,Duplicate coordinates shared across 2 records
+2166,183838,Ozarkhed,Trimbak,Nashik,19.9111,73.4211,WARNING,Duplicate coordinates shared across 2 records
+2167,183839,Pahine,Trimbak,Nashik,19.8993,73.5527,WARNING,Duplicate coordinates shared across 2 records
+2168,183840,Pegalwadi (N),Trimbak,Nashik,19.9393,73.5537,WARNING,Duplicate coordinates shared across 4 records
+2169,183841,Pegalwadi (T),Trimbak,Nashik,19.9393,73.5537,WARNING,Duplicate coordinates shared across 4 records
+2170,183842,Pimplad (T),Trimbak,Nashik,19.9648,73.5284,WARNING,Duplicate coordinates shared across 3 records
+2171,183843,Pimpri (T),Trimbak,Nashik,19.9411,73.5111,WARNING,Duplicate coordinates shared across 2 records
+2172,183844,Raite,Trimbak,Nashik,19.9311,73.5222,WARNING,Duplicate coordinates shared across 2 records
+2173,183845,Rohile,Trimbak,Nashik,20.0527,73.5533,WARNING,Duplicate coordinates shared across 2 records
+2174,183846,Samundi,Trimbak,Nashik,19.8788,73.5025,WARNING,Duplicate coordinates shared across 2 records
+2175,183847,Sapatpali,Trimbak,Nashik,19.9122,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2176,183848,Sapgaon,Trimbak,Nashik,19.9411,73.5511,WARNING,Duplicate coordinates shared across 4 records
+2177,183849,Sapte,Trimbak,Nashik,19.9111,73.5822,WARNING,Duplicate coordinates shared across 2 records
+2178,183850,Saraste,Trimbak,Nashik,20.123,73.5022,WARNING,Duplicate coordinates shared across 2 records
+2179,183851,Shirasgaon (H),Trimbak,Nashik,19.9511,73.4811,WARNING,Duplicate coordinates shared across 4 records
+2180,183852,Shirasgaon (T),Trimbak,Nashik,19.9511,73.4811,WARNING,Duplicate coordinates shared across 4 records
+2181,183853,Shivajinagar,Trimbak,Nashik,20.0111,73.4511,WARNING,Duplicate coordinates shared across 4 records
+2182,183854,Somnathnagar,Trimbak,Nashik,19.9211,73.4111,WARNING,Duplicate coordinates shared across 2 records
+2183,183855,Takedeogaon,Trimbak,Nashik,20.0311,73.4511,WARNING,Duplicate coordinates shared across 2 records
+2184,183857,Takeharsh,Trimbak,Nashik,20.0211,73.4211,WARNING,Duplicate coordinates shared across 2 records
+2185,183856,Talegaon (T),Trimbak,Nashik,19.9477,73.647,WARNING,Duplicate coordinates shared across 2 records
+2186,183858,Talwade (T),Trimbak,Nashik,19.9611,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2187,183859,Thanapada,Trimbak,Nashik,20.1266,73.3998,WARNING,Duplicate coordinates shared across 2 records
+2188,183860,Torangan (H),Trimbak,Nashik,19.999,73.4332,WARNING,Duplicate coordinates shared across 4 records
+2189,183861,Torangan (T),Trimbak,Nashik,19.999,73.4332,WARNING,Duplicate coordinates shared across 4 records
+2190,183862,Vadholi,Trimbak,Nashik,19.9377,73.61,WARNING,Duplicate coordinates shared across 2 records
+2191,183863,Vaghera,Trimbak,Nashik,20.0327,73.4791,WARNING,Duplicate coordinates shared across 2 records
+2192,183864,Varasvihar,Trimbak,Nashik,19.9511,73.5111,WARNING,Duplicate coordinates shared across 4 records
+2193,183865,Vaviharsh,Trimbak,Nashik,19.9811,73.4211,WARNING,Duplicate coordinates shared across 6 records
+2194,183867,Vaygholpada,Trimbak,Nashik,19.9611,73.4211,WARNING,Duplicate coordinates shared across 4 records
+2195,183866,Vele,Trimbak,Nashik,20.0954,73.5481,WARNING,Duplicate coordinates shared across 2 records
+2196,183868,Velunje,Trimbak,Nashik,19.9122,73.5511,WARNING,Duplicate coordinates shared across 2 records
+2197,238131,Vijaynagar,Trimbak,Nashik,19.9311,73.4511,WARNING,Duplicate coordinates shared across 4 records
+2198,183869,Zarwad Bk,Trimbak,Nashik,19.9811,73.4211,WARNING,Duplicate coordinates shared across 6 records
+2199,183870,Zarwad Khd,Trimbak,Nashik,19.9722,73.4111,WARNING,Duplicate coordinates shared across 2 records
+2200,183871,Adgaon Chothava,Yeola,Nashik,20.1511,74.4511,WARNING,Duplicate coordinates shared across 2 records
+2201,183774,Pratapgad,Surgana,Nashik,20.4811,73.5642,WARNING,Duplicate coordinates shared across 2 records
+2202,183775,Ragatvihir,Surgana,Nashik,20.3541,73.5012,WARNING,Duplicate coordinates shared across 2 records
+2203,183776,Rahude,Surgana,Nashik,20.3212,73.4854,WARNING,Duplicate coordinates shared across 2 records
+2204,183777,Rasha,Surgana,Nashik,20.3811,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2205,183778,Rokadpada,Surgana,Nashik,20.4122,73.5411,WARNING,Duplicate coordinates shared across 2 records
+2206,183779,Rongane,Surgana,Nashik,20.3755,73.5388,WARNING,Duplicate coordinates shared across 2 records
+2207,183780,Sajole,Surgana,Nashik,20.3822,73.5451,WARNING,Duplicate coordinates shared across 2 records
+2208,183781,Sarad,Surgana,Nashik,20.4011,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2209,183782,Shinde,Surgana,Nashik,20.4411,73.5522,WARNING,Duplicate coordinates shared across 2 records
+2210,183784,Thangaon,Surgana,Nashik,20.4022,73.5042,WARNING,Duplicate coordinates shared across 2 records
+2211,183785,Umberpada(D),Surgana,Nashik,20.4511,73.5222,WARNING,Duplicate coordinates shared across 2 records
+2212,183786,Umberthan,Surgana,Nashik,20.5122,73.5411,WARNING,Duplicate coordinates shared across 3 records
+2213,272752,Vaghdhond,Surgana,Nashik,20.4511,73.5522,WARNING,Duplicate coordinates shared across 2 records
+2214,183787,Varambhe,Trimbak,Nashik,20.4111,73.5111,WARNING,Duplicate coordinates shared across 3 records
+2215,183788,Alwand,Trimbak,Nashik,20.0111,73.4522,WARNING,Duplicate coordinates shared across 2 records
+2216,183789,Ambai,Trimbak,Nashik,19.9733,73.4719,WARNING,Duplicate coordinates shared across 2 records
+2217,183790,Amboli,Trimbak,Nashik,19.8865,73.65,WARNING,Duplicate coordinates shared across 2 records
+2218,183791,Anjaneri,Trimbak,Nashik,19.946,73.5868,WARNING,Duplicate coordinates shared across 2 records
+2219,183792,Aswalihirsha,Trimbak,Nashik,19.9211,73.4822,WARNING,Duplicate coordinates shared across 2 records
+2220,183793,Avhate,Trimbak,Nashik,19.9822,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2221,183794,Bafanvihir,Trimbak,Nashik,19.9111,73.4811,WARNING,Duplicate coordinates shared across 2 records
+2222,183798,Bbhootmokhada,Trimbak,Nashik,19.8911,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2223,183795,Berval,Trimbak,Nashik,19.9211,73.4411,WARNING,Duplicate coordinates shared across 2 records
+2224,183796,Beze,Trimbak,Nashik,19.9411,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2225,183797,Bhagohol,Trimbak,Nashik,19.9511,73.4211,WARNING,Duplicate coordinates shared across 2 records
+2226,183799,Bramhanwade,Trimbak,Nashik,19.9811,73.4511,WARNING,Duplicate coordinates shared across 2 records
+2227,183800,Chinchohol,Trimbak,Nashik,19.9522,73.4811,WARNING,Duplicate coordinates shared across 2 records
+2228,183801,Chinchvad,Trimbak,Nashik,19.9411,73.4711,WARNING,Duplicate coordinates shared across 2 records
+2229,183802,Dalpatpur,Trimbak,Nashik,19.9311,73.4511,WARNING,Duplicate coordinates shared across 4 records
+2230,183803,Deodongra,Trimbak,Nashik,19.9511,73.4111,WARNING,Duplicate coordinates shared across 2 records
+2231,183806,Deodongri,Trimbak,Nashik,19.9611,73.4211,WARNING,Duplicate coordinates shared across 4 records
+2232,183805,Deola,Trimbak,Nashik,19.9111,73.4511,WARNING,Duplicate coordinates shared across 2 records
+2233,183804,Devgaon,Trimbak,Nashik,19.8281,73.4598,WARNING,Duplicate coordinates shared across 2 records
+2234,183807,Dhumodi,Trimbak,Nashik,19.9122,73.4211,WARNING,Duplicate coordinates shared across 2 records
+2235,183808,Gadvadane,Trimbak,Nashik,19.9511,73.4011,WARNING,Duplicate coordinates shared across 2 records
+2236,183809,Ganeshgaon (W),Trimbak,Nashik,19.9222,73.5111,WARNING,Duplicate coordinates shared across 2 records
+2237,183810,Gavatha,Trimbak,Nashik,19.9811,73.4111,WARNING,Duplicate coordinates shared across 2 records
+2238,301095,Godhadyachapada,Trimbak,Nashik,20.0211,73.4511,WARNING,Duplicate coordinates shared across 2 records
+2239,183811,Goldari,Trimbak,Nashik,19.9811,73.4811,WARNING,Duplicate coordinates shared across 2 records
+2240,183812,Harsul,Trimbak,Nashik,20.1154,73.4533,WARNING,Duplicate coordinates shared across 2 records
+2241,183813,Hatlondhi,Trimbak,Nashik,19.9911,73.4411,WARNING,Duplicate coordinates shared across 2 records
+2242,183814,Birdi,Trimbak,Nashik,19.9622,73.4011,WARNING,Duplicate coordinates shared across 2 records
+2243,183815,Holdar Nagar,Trimbak,Nashik,19.9311,73.4811,WARNING,Duplicate coordinates shared across 2 records
+2244,183816,Jategaon Bk,Trimbak,Nashik,19.9237,73.6484,WARNING,Duplicate coordinates shared across 3 records
+2245,183817,Jategaon Khd,Trimbak,Nashik,19.9122,73.6511,WARNING,Duplicate coordinates shared across 2 records
+2246,183818,Kachurli,Trimbak,Nashik,19.9477,73.4924,WARNING,Duplicate coordinates shared across 2 records
+2247,183819,Kalmuste(H),Trimbak,Nashik,19.9265,73.461,WARNING,Duplicate coordinates shared across 4 records
+2248,183820,Kalmuste (T),Trimbak,Nashik,19.9265,73.461,WARNING,Duplicate coordinates shared across 4 records
+2249,183821,Khadakohol,Trimbak,Nashik,19.9411,73.4011,WARNING,Duplicate coordinates shared across 2 records
+2250,183826,Khairaipali,Trimbak,Nashik,19.9522,73.4211,WARNING,Duplicate coordinates shared across 2 records
+2251,183822,Khambale,Trimbak,Nashik,19.9548,73.6321,WARNING,Duplicate coordinates shared across 2 records
+2252,183823,Kharoli,Trimbak,Nashik,19.9111,73.4411,WARNING,Duplicate coordinates shared across 2 records
+2253,183824,Kharset,Trimbak,Nashik,20.176,73.3945,WARNING,Duplicate coordinates shared across 2 records
+2254,183825,Kharwal,Trimbak,Nashik,20.0623,73.4352,WARNING,Duplicate coordinates shared across 2 records
+2255,183827,Kone,Trimbak,Nashik,19.9511,73.5111,WARNING,Duplicate coordinates shared across 4 records
+2256,183828,Kotambi (H),Trimbak,Nashik,19.9811,73.4211,WARNING,Duplicate coordinates shared across 6 records
+2257,183829,Mahadeonagar,Trimbak,Nashik,19.9211,73.4811,WARNING,Duplicate coordinates shared across 2 records
+2258,183830,Malegaon,Trimbak,Nashik,19.9411,73.5511,WARNING,Duplicate coordinates shared across 4 records
+2259,183831,Met Chandryachi,Trimbak,Nashik,20.0111,73.4511,WARNING,Duplicate coordinates shared across 4 records
+2260,183832,Metgharkilla,Trimbak,Nashik,20.0211,73.4711,WARNING,Duplicate coordinates shared across 2 records
+2261,183833,Mulegaon,Trimbak,Nashik,19.9023,73.6092,WARNING,Duplicate coordinates shared across 2 records
+2262,183834,Mulwad,Trimbak,Nashik,19.9422,73.4511,WARNING,Duplicate coordinates shared across 2 records
+2263,183835,Murambi,Trimbak,Nashik,19.8509,73.6435,WARNING,Duplicate coordinates shared across 3 records
+2264,183836,Nandgaon (K),Trimbak,Nashik,19.9411,73.4111,WARNING,Duplicate coordinates shared across 2 records
+2265,183837,Nirgude,Trimbak,Nashik,19.9754,73.8417,WARNING,Duplicate coordinates shared across 2 records
+2266,183838,Ozarkhed,Trimbak,Nashik,19.9111,73.4211,WARNING,Duplicate coordinates shared across 2 records
+2267,183839,Pahine,Trimbak,Nashik,19.8993,73.5527,WARNING,Duplicate coordinates shared across 2 records
+2268,183840,Pegalwadi (N),Trimbak,Nashik,19.9393,73.5537,WARNING,Duplicate coordinates shared across 4 records
+2269,183841,Pegalwadi (T),Trimbak,Nashik,19.9393,73.5537,WARNING,Duplicate coordinates shared across 4 records
+2270,183842,Pimplad (T),Trimbak,Nashik,19.9648,73.5284,WARNING,Duplicate coordinates shared across 3 records
+2271,183843,Pimpri (T),Trimbak,Nashik,19.9411,73.5111,WARNING,Duplicate coordinates shared across 2 records
+2272,183844,Raite,Trimbak,Nashik,19.9311,73.5222,WARNING,Duplicate coordinates shared across 2 records
+2273,183845,Rohile,Trimbak,Nashik,20.0527,73.5533,WARNING,Duplicate coordinates shared across 2 records
+2274,183846,Samundi,Trimbak,Nashik,19.8788,73.5025,WARNING,Duplicate coordinates shared across 2 records
+2275,183847,Sapatpali,Trimbak,Nashik,19.9122,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2276,183848,Sapgaon,Trimbak,Nashik,19.9411,73.5511,WARNING,Duplicate coordinates shared across 4 records
+2277,183849,Sapte,Trimbak,Nashik,19.9111,73.5822,WARNING,Duplicate coordinates shared across 2 records
+2278,183850,Saraste,Trimbak,Nashik,20.123,73.5022,WARNING,Duplicate coordinates shared across 2 records
+2279,183851,Shirasgaon (H),Trimbak,Nashik,19.9511,73.4811,WARNING,Duplicate coordinates shared across 4 records
+2280,183852,Shirasgaon (T),Trimbak,Nashik,19.9511,73.4811,WARNING,Duplicate coordinates shared across 4 records
+2281,183853,Shivajinagar,Trimbak,Nashik,20.0111,73.4511,WARNING,Duplicate coordinates shared across 4 records
+2282,183854,Somnathnagar,Trimbak,Nashik,19.9211,73.4111,WARNING,Duplicate coordinates shared across 2 records
+2283,183855,Takedeogaon,Trimbak,Nashik,20.0311,73.4511,WARNING,Duplicate coordinates shared across 2 records
+2284,183857,Takeharsh,Trimbak,Nashik,20.0211,73.4211,WARNING,Duplicate coordinates shared across 2 records
+2285,183856,Talegaon (T),Trimbak,Nashik,19.9477,73.647,WARNING,Duplicate coordinates shared across 2 records
+2286,183858,Talwade (T),Trimbak,Nashik,19.9611,73.5122,WARNING,Duplicate coordinates shared across 2 records
+2287,183859,Thanapada,Trimbak,Nashik,20.1266,73.3998,WARNING,Duplicate coordinates shared across 2 records
+2288,183860,Torangan (H),Trimbak,Nashik,19.999,73.4332,WARNING,Duplicate coordinates shared across 4 records
+2289,183861,Torangan (T),Trimbak,Nashik,19.999,73.4332,WARNING,Duplicate coordinates shared across 4 records
+2290,183862,Vadholi,Trimbak,Nashik,19.9377,73.61,WARNING,Duplicate coordinates shared across 2 records
+2291,183863,Vaghera,Trimbak,Nashik,20.0327,73.4791,WARNING,Duplicate coordinates shared across 2 records
+2292,183864,Varasvihar,Trimbak,Nashik,19.9511,73.5111,WARNING,Duplicate coordinates shared across 4 records
+2293,183865,Vaviharsh,Trimbak,Nashik,19.9811,73.4211,WARNING,Duplicate coordinates shared across 6 records
+2294,183867,Vaygholpada,Trimbak,Nashik,19.9611,73.4211,WARNING,Duplicate coordinates shared across 4 records
+2295,183866,Vele,Trimbak,Nashik,20.0954,73.5481,WARNING,Duplicate coordinates shared across 2 records
+2296,183868,Velunje,Trimbak,Nashik,19.9122,73.5511,WARNING,Duplicate coordinates shared across 2 records
+2297,238131,Vijaynagar,Trimbak,Nashik,19.9311,73.4511,WARNING,Duplicate coordinates shared across 4 records
+2298,183869,Zarwad Bk,Trimbak,Nashik,19.9811,73.4211,WARNING,Duplicate coordinates shared across 6 records
+2299,183870,Zarwad Khd,Trimbak,Nashik,19.9722,73.4111,WARNING,Duplicate coordinates shared across 2 records
+2300,183871,Adgaon Chothava,Yeola,Nashik,20.1511,74.4511,WARNING,Duplicate coordinates shared across 2 records
+2301,183872,Adgaon Repal,Yeola,Nashik,20.1411,74.4811,VALID,Passed all geographic and bounding box checks
+2302,183873,Adsuregaon,Yeola,Nashik,20.1111,74.4522,WARNING,Duplicate coordinates shared across 3 records
+2303,183874,Agangaon,Yeola,Nashik,20.1311,74.4611,VALID,Passed all geographic and bounding box checks
+2304,183874,Aherwadi,Yeola,Nashik,20.0911,74.4822,VALID,Passed all geographic and bounding box checks
+2305,183875,Ambegaon,Yeola,Nashik,20.1522,74.4911,VALID,Passed all geographic and bounding box checks
+2306,183876,Andersul,Yeola,Nashik,20.2111,74.5211,VALID,Passed all geographic and bounding box checks
+2307,183878,Angulgaon,Yeola,Nashik,20.0811,74.4522,VALID,Passed all geographic and bounding box checks
+2308,183879,Ankai,Yeola,Nashik,20.1836,74.4547,VALID,Passed all geographic and bounding box checks
+2309,183880,Ankute,Yeola,Nashik,20.1211,74.5122,VALID,Passed all geographic and bounding box checks
+2310,183881,Babhulgaon Kh,Yeola,Nashik,20.0511,74.4111,WARNING,Duplicate coordinates shared across 4 records
+2311,183882,Balapur,Yeola,Nashik,20.1311,74.5511,VALID,Passed all geographic and bounding box checks
+2312,183883,Balhegaon,Yeola,Nashik,20.1378,74.8993,VALID,Passed all geographic and bounding box checks
+2313,183884,Bharam,Yeola,Nashik,20.0577,74.6773,VALID,Passed all geographic and bounding box checks
+2314,183885,Bhatgaon,Yeola,Nashik,20.1211,74.5511,VALID,Passed all geographic and bounding box checks
+2315,183886,Bhulegaon,Yeola,Nashik,20.1511,74.6111,VALID,Passed all geographic and bounding box checks
+2316,183887,Bokte,Yeola,Nashik,20.0111,74.4211,VALID,Passed all geographic and bounding box checks
+2317,183888,Chandgaon,Yeola,Nashik,19.956,74.7037,VALID,Passed all geographic and bounding box checks
+2318,183890,Chinchodi Bk.,Yeola,Nashik,20.1011,74.4511,VALID,Passed all geographic and bounding box checks
+2319,183889,Chinchodi Ku,Yeola,Nashik,20.0911,74.4511,VALID,Passed all geographic and bounding box checks
+2320,183891,Deolane,Yeola,Nashik,20.1511,74.4522,WARNING,Duplicate coordinates shared across 7 records
+2321,183892,Deothan,Yeola,Nashik,20.1211,74.4911,VALID,Passed all geographic and bounding box checks
+2322,183893,Deshmane Bk,Yeola,Nashik,20.0578,74.3041,VALID,Passed all geographic and bounding box checks
+2323,259714,Devargaon,Yeola,Nashik,20.1111,74.4111,VALID,Passed all geographic and bounding box checks
+2324,183894,Dhamangaon,Yeola,Nashik,20.1811,74.5822,VALID,Passed all geographic and bounding box checks
+2325,183895,Dhamode,Yeola,Nashik,20.0311,74.4811,VALID,Passed all geographic and bounding box checks
+2326,183896,Dhulgaon,Yeola,Nashik,20.1211,74.6111,VALID,Passed all geographic and bounding box checks
+2327,183897,Dongargaon,Yeola,Nashik,20.1111,74.5522,WARNING,Duplicate coordinates shared across 4 records
+2328,183898,Dugalgaon,Yeola,Nashik,20.1411,74.6211,VALID,Passed all geographic and bounding box checks
+2329,183899,Erandgaon Bk.,Yeola,Nashik,20.1211,74.4211,WARNING,Duplicate coordinates shared across 2 records
+2330,183900,Erandgaon Kh,Yeola,Nashik,20.1111,74.4211,WARNING,Duplicate coordinates shared across 3 records
+2331,183901,Ganeshpur,Yeola,Nashik,20.1511,74.5822,VALID,Passed all geographic and bounding box checks
+2332,183902,Garkhede,Yeola,Nashik,20.1311,74.6522,VALID,Passed all geographic and bounding box checks
+2333,183903,Gavandgaon,Yeola,Nashik,20.0511,74.4111,WARNING,Duplicate coordinates shared across 4 records
+2334,183904,Gujarkhede,Yeola,Nashik,20.1111,74.6522,WARNING,Duplicate coordinates shared across 5 records
+2335,183905,Jalgaon Neur,Yeola,Nashik,20.1811,74.6111,WARNING,Duplicate coordinates shared across 3 records
+2336,183906,Jaualke,Yeola,Nashik,20.0811,74.5522,VALID,Passed all geographic and bounding box checks
+2337,183907,Kanadi,Yeola,Nashik,20.1211,74.6822,WARNING,Duplicate coordinates shared across 5 records
+2338,183908,Katarni,Yeola,Nashik,20.1111,74.5522,WARNING,Duplicate coordinates shared across 4 records
+2339,183909,Khairgavhan,Yeola,Nashik,20.1511,74.4522,WARNING,Duplicate coordinates shared across 7 records
+2340,183910,Khamgaon,Yeola,Nashik,20.1311,74.4111,VALID,Passed all geographic and bounding box checks
+2341,183911,Kharwandi,Yeola,Nashik,20.1211,74.4111,WARNING,Duplicate coordinates shared across 5 records
+2342,183912,Khirdisathe,Yeola,Nashik,20.1111,74.4522,WARNING,Duplicate coordinates shared across 3 records
+2343,183913,Kolam Bk,Yeola,Nashik,20.1011,74.5522,VALID,Passed all geographic and bounding box checks
+2344,183914,Kolgaon,Yeola,Nashik,20.1411,74.4211,VALID,Passed all geographic and bounding box checks
+2345,183915,Kotamgaon Bk,Yeola,Nashik,20.1311,74.4211,VALID,Passed all geographic and bounding box checks
+2346,183916,Kotomgaon Kh,Yeola,Nashik,20.1211,74.4211,WARNING,Duplicate coordinates shared across 2 records
+2347,183917,Kusmadi,Yeola,Nashik,20.1423,74.5049,VALID,Passed all geographic and bounding box checks
+2348,183918,Kusur,Yeola,Nashik,20.1515,74.4809,VALID,Passed all geographic and bounding box checks
+2349,300409,Lauki Shiras,Yeola,Nashik,20.0511,74.4111,WARNING,Duplicate coordinates shared across 4 records
+2350,183919,Mahalkheda (Patoda),Yeola,Nashik,20.1111,74.3643,VALID,Passed all geographic and bounding box checks
+2351,183920,Mamdapur,Yeola,Nashik,20.1369,74.6557,VALID,Passed all geographic and bounding box checks
+2352,183921,Manori Bk.,Yeola,Nashik,20.1811,74.6111,WARNING,Duplicate coordinates shared across 3 records
+2353,183922,Matulthan,Yeola,Nashik,20.1211,74.6822,WARNING,Duplicate coordinates shared across 5 records
+2354,183923,Mukhed,Yeola,Nashik,20.0091,74.3224,WARNING,Duplicate coordinates shared across 2 records
+2355,183924,Murmi,Yeola,Nashik,20.1111,74.5522,WARNING,Duplicate coordinates shared across 4 records
+2356,183925,Nagarsul,Yeola,Nashik,20.1004,74.5496,VALID,Passed all geographic and bounding box checks
+2357,183926,Nagde,Yeola,Nashik,20.1511,74.6822,VALID,Passed all geographic and bounding box checks
+2358,183929,Naigavhan,Yeola,Nashik,20.1111,74.6522,WARNING,Duplicate coordinates shared across 5 records
+2359,183927,Nandesar,Yeola,Nashik,20.1211,74.6822,WARNING,Duplicate coordinates shared across 5 records
+2360,183928,Nandur,Yeola,Nashik,20.1111,74.4211,WARNING,Duplicate coordinates shared across 3 records
+2361,183930,Nevurgaon,Yeola,Nashik,20.1811,74.6522,VALID,Passed all geographic and bounding box checks
+2362,183931,Nilkhede,Yeola,Nashik,20.1211,74.6822,WARNING,Duplicate coordinates shared across 5 records
+2363,183932,Nimgaon Madh,Yeola,Nashik,19.9905,74.4238,WARNING,Duplicate coordinates shared across 2 records
+2364,183933,Panhalsathe,Yeola,Nashik,20.1511,74.4522,WARNING,Duplicate coordinates shared across 7 records
+2365,183934,Panzarwadi,Yeola,Nashik,20.1211,74.4111,WARNING,Duplicate coordinates shared across 5 records
+2366,183935,Paregaon,Yeola,Nashik,20.1111,74.4211,WARNING,Duplicate coordinates shared across 3 records
+2367,183936,Patoda,Yeola,Nashik,20.1187,74.3643,VALID,Passed all geographic and bounding box checks
+2368,183937,Pimpalgaon Jalal,Yeola,Nashik,20.1811,74.6111,WARNING,Duplicate coordinates shared across 3 records
+2369,183938,Pimpalgaon Lep,Yeola,Nashik,20.1211,74.6822,WARNING,Duplicate coordinates shared across 5 records
+2370,183939,Pimpalkhute Bk.,Yeola,Nashik,20.1511,74.4522,WARNING,Duplicate coordinates shared across 7 records
+2371,183940,Pimpri,Yeola,Nashik,20.1011,74.4011,VALID,Passed all geographic and bounding box checks
+2372,183941,Purangaon,Yeola,Nashik,20.1211,74.4111,WARNING,Duplicate coordinates shared across 5 records
+2373,183942,Rahadi,Yeola,Nashik,20.0964,74.7212,VALID,Passed all geographic and bounding box checks
+2374,183943,Rajapur,Yeola,Nashik,20.1211,74.5522,WARNING,Duplicate coordinates shared across 2 records
+2375,183944,Rendale,Yeola,Nashik,20.1111,74.5522,WARNING,Duplicate coordinates shared across 4 records
+2376,183945,Satali,Yeola,Nashik,20.1511,74.4522,WARNING,Duplicate coordinates shared across 7 records
+2377,183946,Satare,Yeola,Nashik,20.1211,74.4111,WARNING,Duplicate coordinates shared across 5 records
+2378,183947,Satyagaon,Yeola,Nashik,20.1111,74.6522,WARNING,Duplicate coordinates shared across 5 records
+2379,183948,Savargaon,Yeola,Nashik,20.1111,74.4522,WARNING,Duplicate coordinates shared across 3 records
+2380,183949,Saygaon,Yeola,Nashik,20.1211,74.6211,VALID,Passed all geographic and bounding box checks
+2381,183950,Shirasgaon (Lauki),Yeola,Nashik,20.1511,74.4522,WARNING,Duplicate coordinates shared across 7 records
+2382,183951,Somthandesh,Yeola,Nashik,20.1111,74.6522,WARNING,Duplicate coordinates shared across 5 records
+2383,183952,Suregaon Rasta,Yeola,Nashik,20.0511,74.4111,WARNING,Duplicate coordinates shared across 4 records
+2384,183953,Talwade,Yeola,Nashik,20.1211,74.5522,WARNING,Duplicate coordinates shared across 2 records
+2385,183954,Thangaon,Yeola,Nashik,20.1111,74.6111,VALID,Passed all geographic and bounding box checks
+2386,183955,Undirwadi,Yeola,Nashik,20.1211,74.4111,WARNING,Duplicate coordinates shared across 5 records
+2387,183956,Vaghale,Yeola,Nashik,20.1111,74.6522,WARNING,Duplicate coordinates shared across 5 records
+2388,183957,Vikharni,Yeola,Nashik,20.1511,74.4522,WARNING,Duplicate coordinates shared across 7 records

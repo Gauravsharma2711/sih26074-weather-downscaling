@@ -1,0 +1,1389 @@
+panchayat_id,panchayat_name,block_name,panchayat_latitude,panchayat_longitude,elevation_m,validation_status,validation_reason
+1001,Ajmer Saundane,Baglan,20.6385,74.1201,585.0,VALID,Passed physical elevation terrain checks
+1002,Akhatwade,Baglan,20.6908,74.2045,595.0,VALID,Passed physical elevation terrain checks
+1003,Aliyabad,Baglan,20.7734,73.9955,612.0,VALID,Passed physical elevation terrain checks
+1004,Ambapur,Baglan,20.7289,74.3392,570.0,VALID,Passed physical elevation terrain checks
+1005,Ambasan,Baglan,20.7121,74.3659,565.0,VALID,Passed physical elevation terrain checks
+1006,Anandpur,Baglan,20.5891,74.3122,555.0,VALID,Passed physical elevation terrain checks
+1007,Antapur,Baglan,20.7812,74.2544,590.0,VALID,Passed physical elevation terrain checks
+1008,Arai,Baglan,20.6695,74.1712,610.0,VALID,Passed physical elevation terrain checks
+1009,Askheda,Baglan,20.7431,74.3188,575.0,VALID,Passed physical elevation terrain checks
+1010,Aundane,Baglan,20.6402,74.1355,605.0,VALID,Passed physical elevation terrain checks
+1011,Aundanepada,Baglan,20.6415,74.1388,605.0,VALID,Passed physical elevation terrain checks
+1012,Avhati,Baglan,20.6816,74.159,620.0,VALID,Passed physical elevation terrain checks
+1013,Babulne,Baglan,20.7092,74.1811,615.0,VALID,Passed physical elevation terrain checks
+1014,Bhadane,Baglan,20.8851,74.3621,550.0,VALID,Passed physical elevation terrain checks
+1015,Bhakshi,Baglan,20.6391,74.1082,630.0,VALID,Passed physical elevation terrain checks
+1016,Bhavanagar,Baglan,20.6522,74.1544,615.0,VALID,Passed physical elevation terrain checks
+1017,Bhawade,Baglan,20.7086,74.0048,640.0,VALID,Passed physical elevation terrain checks
+1018,Bhildar,Baglan,20.6833,74.1455,625.0,VALID,Passed physical elevation terrain checks
+1019,Bhilwad,Baglan,20.6895,74.0541,650.0,VALID,Passed physical elevation terrain checks
+1020,Bhimkhet,Baglan,20.7102,73.9855,660.0,VALID,Passed physical elevation terrain checks
+1021,Bijorse,Baglan,20.7511,74.1998,600.0,VALID,Passed physical elevation terrain checks
+1022,Bijote,Baglan,20.7802,74.0988,635.0,VALID,Passed physical elevation terrain checks
+1023,Bodhari,Baglan,20.7921,74.1255,625.0,VALID,Passed physical elevation terrain checks
+1024,Bordaivat,Baglan,20.7322,74.2211,595.0,VALID,Passed physical elevation terrain checks
+1025,Borhate Digar,Baglan,20.825,74.0244,650.0,VALID,Passed physical elevation terrain checks
+1026,Brahamangaon,Baglan,20.6455,74.2811,575.0,VALID,Passed physical elevation terrain checks
+1027,Brahamangaon,Baglan,20.6455,74.2811,575.0,VALID,Passed physical elevation terrain checks
+1028,Bundhate,Baglan,20.7611,74.2422,590.0,VALID,Passed physical elevation terrain checks
+1029,Chaphyachapada,Baglan,20.8122,74.0011,665.0,VALID,Passed physical elevation terrain checks
+1030,Chaugaon,Baglan,20.8211,74.2633,580.0,VALID,Passed physical elevation terrain checks
+1031,Chaundhane,Baglan,20.7355,74.1122,630.0,VALID,Passed physical elevation terrain checks
+1032,Chirai,Baglan,20.8118,74.3519,545.0,VALID,Passed physical elevation terrain checks
+1033,Daharane,Baglan,20.6588,74.1844,610.0,VALID,Passed physical elevation terrain checks
+1034,Dahindule,Baglan,20.7911,74.1922,605.0,VALID,Passed physical elevation terrain checks
+1035,Dangsoundane,Baglan,20.7122,73.9455,670.0,VALID,Passed physical elevation terrain checks
+1036,Daregaon,Baglan,20.7011,74.2955,575.0,VALID,Passed physical elevation terrain checks
+1037,Daswel,Baglan,20.7588,74.3211,560.0,VALID,Passed physical elevation terrain checks
+1038,Deolane,Baglan,20.6311,74.3068,565.0,VALID,Passed physical elevation terrain checks
+1039,Devthan Digar,Baglan,20.7411,74.1522,620.0,VALID,Passed physical elevation terrain checks
+1040,Dhandri,Baglan,20.7122,74.1411,625.0,VALID,Passed physical elevation terrain checks
+1041,Dholbare,Baglan,20.7355,74.0822,645.0,VALID,Passed physical elevation terrain checks
+1042,Dongrej,Baglan,20.8422,74.1588,615.0,VALID,Passed physical elevation terrain checks
+1043,Dyane,Baglan,20.7541,74.2869,580.0,VALID,Passed physical elevation terrain checks
+1044,Ejamane,Baglan,20.7811,74.0122,655.0,VALID,Passed physical elevation terrain checks
+1045,Golwad,Baglan,20.8111,73.9916,675.0,VALID,Passed physical elevation terrain checks
+1046,Gorane,Baglan,20.6722,74.1351,625.0,VALID,Passed physical elevation terrain checks
+1047,Jad,Baglan,20.7917,73.9933,665.0,VALID,Passed physical elevation terrain checks
+1048,Jaikheda,Baglan,20.7921,74.2092,595.0,VALID,Passed physical elevation terrain checks
+1049,Jakhod,Baglan,20.7811,74.2422,590.0,VALID,Passed physical elevation terrain checks
+1050,Jamoti,Baglan,20.8011,74.0322,655.0,VALID,Passed physical elevation terrain checks
+1051,Joran,Baglan,20.8351,73.9522,690.0,VALID,Passed physical elevation terrain checks
+1052,Junenirpur,Baglan,20.7622,74.3011,570.0,VALID,Passed physical elevation terrain checks
+1053,Junishemli,Baglan,20.7255,73.9111,685.0,VALID,Passed physical elevation terrain checks
+1054,Kakadgaon,Baglan,20.6388,74.2544,585.0,VALID,Passed physical elevation terrain checks
+1055,Kandhane,Baglan,20.6256,74.1066,625.0,VALID,Passed physical elevation terrain checks
+1056,Kapaleshwar,Baglan,20.8522,74.0811,640.0,VALID,Passed physical elevation terrain checks
+1057,Karanjad,Baglan,20.8411,74.1022,630.0,VALID,Passed physical elevation terrain checks
+1058,Karanjkhede,Baglan,20.6088,74.2855,570.0,VALID,Passed physical elevation terrain checks
+1059,Karhe,Baglan,20.6511,74.3211,560.0,VALID,Passed physical elevation terrain checks
+1060,Katerwel,Baglan,20.7122,74.0622,645.0,VALID,Passed physical elevation terrain checks
+1061,Kelzar,Baglan,20.7688,73.9655,680.0,VALID,Passed physical elevation terrain checks
+1062,Kersane,Baglan,20.696,74.1032,635.0,VALID,Passed physical elevation terrain checks
+1063,Khalche Tembe,Baglan,20.7822,74.3155,565.0,VALID,Passed physical elevation terrain checks
+1064,Khamlon,Baglan,20.7322,74.0155,660.0,VALID,Passed physical elevation terrain checks
+1065,Khamtane,Baglan,20.6016,74.1624,615.0,VALID,Passed physical elevation terrain checks
+1066,Khirmani,Baglan,20.8011,74.0722,645.0,VALID,Passed physical elevation terrain checks
+1067,Kikwari Bu.,Baglan,20.6055,74.2311,585.0,VALID,Passed physical elevation terrain checks
+1068,Kikwari Kh.,Baglan,20.6122,74.2422,585.0,VALID,Passed physical elevation terrain checks
+1069,Kolipada,Baglan,20.7211,73.9211,680.0,VALID,Passed physical elevation terrain checks
+1070,Kotbel,Baglan,20.7822,73.9311,690.0,VALID,Passed physical elevation terrain checks
+1071,Kupkheda,Baglan,20.6211,74.2155,595.0,VALID,Passed physical elevation terrain checks
+1072,Ladud,Baglan,20.7355,74.0522,650.0,VALID,Passed physical elevation terrain checks
+1073,Lakhamapur,Baglan,20.6551,74.2322,590.0,VALID,Passed physical elevation terrain checks
+1074,Mahad,Baglan,20.6911,74.1122,630.0,VALID,Passed physical elevation terrain checks
+1075,Malegaon,Baglan,20.5576,74.5246,520.0,VALID,Passed physical elevation terrain checks
+1076,Malegaon,Baglan,20.5576,74.5246,520.0,VALID,Passed physical elevation terrain checks
+1077,Malegaon,Baglan,20.5576,74.5246,520.0,VALID,Passed physical elevation terrain checks
+1078,Maliwada,Baglan,20.6822,74.1855,610.0,VALID,Passed physical elevation terrain checks
+1079,Manjawad,Baglan,20.6522,74.0811,645.0,VALID,Passed physical elevation terrain checks
+1080,Manur,Baglan,20.7067,73.8827,710.0,VALID,Passed physical elevation terrain checks
+1081,Morane Sahebrao,Baglan,20.6722,74.1522,620.0,VALID,Passed physical elevation terrain checks
+1082,Morenagaon,Baglan,20.6655,74.1411,625.0,VALID,Passed physical elevation terrain checks
+1083,Morkure,Baglan,20.7411,74.1155,635.0,VALID,Passed physical elevation terrain checks
+1084,Mulane,Baglan,20.6322,74.2711,580.0,VALID,Passed physical elevation terrain checks
+1085,Mulher,Baglan,20.7822,74.0634,655.0,VALID,Passed physical elevation terrain checks
+1086,Mungase,Baglan,20.6211,74.2255,590.0,VALID,Passed physical elevation terrain checks
+1087,Nalkes,Baglan,20.7711,74.0255,665.0,VALID,Passed physical elevation terrain checks
+1088,Nampur,Baglan,20.7295,74.3109,570.0,VALID,Passed physical elevation terrain checks
+1089,Nandin,Baglan,20.851,74.2223,595.0,VALID,Passed physical elevation terrain checks
+1090,Navegaon,Baglan,20.7011,74.2822,575.0,VALID,Passed physical elevation terrain checks
+1091,Navenirpur,Baglan,20.7511,74.2922,575.0,VALID,Passed physical elevation terrain checks
+1092,Navishemli,Baglan,20.7188,73.9055,690.0,VALID,Passed physical elevation terrain checks
+1093,Nikwel,Baglan,20.8122,74.1811,610.0,VALID,Passed physical elevation terrain checks
+1094,Nitane,Baglan,20.7451,74.1811,610.0,VALID,Passed physical elevation terrain checks
+1095,Parner,Baglan,20.6911,74.1222,630.0,VALID,Passed physical elevation terrain checks
+1096,Pathave Digar,Baglan,20.7455,74.1622,620.0,VALID,Passed physical elevation terrain checks
+1097,Phophir,Baglan,20.7611,74.1011,645.0,VALID,Passed physical elevation terrain checks
+1098,Pimpaldar,Baglan,20.8022,74.1411,625.0,VALID,Passed physical elevation terrain checks
+1099,Pimpalkote,Baglan,20.7322,73.9655,685.0,VALID,Passed physical elevation terrain checks
+1100,Pingalwade,Baglan,20.6655,74.2011,605.0,VALID,Passed physical elevation terrain checks
+1101,Ramtir,Baglan,20.8122,74.2811,612.0,VALID,Passed physical elevation terrain checks
+1102,Ratir,Baglan,20.7922,74.0511,645.0,VALID,Passed physical elevation terrain checks
+1103,Sakode,Baglan,20.7011,74.2155,595.0,VALID,Passed physical elevation terrain checks
+1104,Salher,Baglan,20.7223,73.9454,710.0,VALID,Passed physical elevation terrain checks
+1105,Salvan,Baglan,20.7522,73.9211,705.0,VALID,Passed physical elevation terrain checks
+1106,Sarade,Baglan,20.6944,74.3355,560.0,VALID,Passed physical elevation terrain checks
+1107,Shevare,Baglan,20.6811,74.1955,605.0,VALID,Passed physical elevation terrain checks
+1108,Shripurwade,Baglan,20.6422,74.3411,560.0,VALID,Passed physical elevation terrain checks
+1109,Sompur,Baglan,20.6311,74.2922,580.0,VALID,Passed physical elevation terrain checks
+1110,Surane,Baglan,20.6425,74.3396,565.0,VALID,Passed physical elevation terrain checks
+1111,Taharabad,Baglan,20.784,74.1387,625.0,VALID,Passed physical elevation terrain checks
+1112,Talwade Bu.,Baglan,20.3976,74.7497,510.0,VALID,Passed physical elevation terrain checks
+1113,Talwade Di.,Baglan,20.3976,74.7497,510.0,VALID,Passed physical elevation terrain checks
+1114,Tandulwadi,Baglan,20.7522,74.2544,590.0,VALID,Passed physical elevation terrain checks
+1115,Tarsali,Baglan,20.8122,74.2211,605.0,VALID,Passed physical elevation terrain checks
+1116,Tatani,Baglan,20.7822,73.8911,745.0,VALID,Passed physical elevation terrain checks
+1117,Tembhe (Vare),Baglan,20.7889,74.3302,570.0,VALID,Passed physical elevation terrain checks
+1118,Thengode,Baglan,20.6511,74.1922,605.0,VALID,Passed physical elevation terrain checks
+1119,Tilwan,Baglan,20.7211,74.2422,590.0,VALID,Passed physical elevation terrain checks
+1120,Tungan Digar,Baglan,20.7411,74.1222,630.0,VALID,Passed physical elevation terrain checks
+1121,Utrane,Baglan,20.7643,74.2882,585.0,VALID,Passed physical elevation terrain checks
+1122,Vattar,Baglan,20.6822,74.2211,600.0,VALID,Passed physical elevation terrain checks
+1123,Vinchure,Baglan,20.5911,74.1822,615.0,VALID,Passed physical elevation terrain checks
+1124,Virgaon,Baglan,20.6679,74.1424,620.0,VALID,Passed physical elevation terrain checks
+1125,Visapur,Baglan,20.6122,74.2655,585.0,VALID,Passed physical elevation terrain checks
+1126,Vonoli,Baglan,20.7822,74.1122,635.0,VALID,Passed physical elevation terrain checks
+1127,Wadipisol,Baglan,20.7911,74.0855,640.0,VALID,Passed physical elevation terrain checks
+1128,Waghale,Baglan,20.6211,74.3011,580.0,VALID,Passed physical elevation terrain checks
+1129,Waghambe,Baglan,20.743,73.9635,685.0,VALID,Passed physical elevation terrain checks
+1130,Wathode,Baglan,20.6811,74.2522,590.0,VALID,Passed physical elevation terrain checks
+1131,Wayagaon,Baglan,20.7111,74.2322,595.0,VALID,Passed physical elevation terrain checks
+1132,Yashwantnagar,Baglan,20.7211,74.1811,615.0,VALID,Passed physical elevation terrain checks
+1133,Adgon,Chandwad,20.3522,74.0155,660.0,VALID,Passed physical elevation terrain checks
+1134,Ahirkhede,Chandwad,20.4122,74.0511,655.0,VALID,Passed physical elevation terrain checks
+1135,Asarkhede,Chandwad,20.3811,73.9822,680.0,VALID,Passed physical elevation terrain checks
+1136,Bahaduri,Chandwad,20.2811,74.1011,640.0,VALID,Passed physical elevation terrain checks
+1137,Bhadane,Chandwad,20.3211,74.1422,625.0,VALID,Passed physical elevation terrain checks
+1138,Bhatgaon,Chandwad,20.3122,74.1811,615.0,VALID,Passed physical elevation terrain checks
+1139,Bhayale,Chandwad,20.3455,74.0622,650.0,VALID,Passed physical elevation terrain checks
+1140,Bhoyegaon,Chandwad,20.3911,74.1222,635.0,VALID,Passed physical elevation terrain checks
+1141,Bhutyane,Chandwad,20.3722,73.9511,690.0,VALID,Passed physical elevation terrain checks
+1142,Bopane,Chandwad,20.3622,74.0811,645.0,VALID,Passed physical elevation terrain checks
+1143,Borale,Chandwad,20.3922,74.1522,625.0,VALID,Passed physical elevation terrain checks
+1144,Chikhalamthan,Chandwad,20.2511,74.0522,665.0,VALID,Passed physical elevation terrain checks
+1145,Chinchole,Chandwad,20.3322,74.1111,635.0,VALID,Passed physical elevation terrain checks
+1146,Dahegaon,Chandwad,20.3011,74.0922,640.0,VALID,Passed physical elevation terrain checks
+1147,Dahivad,Chandwad,20.4011,74.2011,620.0,VALID,Passed physical elevation terrain checks
+1148,Dahyane,Chandwad,20.3273,73.99,685.0,VALID,Passed physical elevation terrain checks
+1149,Daregaon,Chandwad,20.3511,74.1322,630.0,VALID,Passed physical elevation terrain checks
+1150,Devargaon,Chandwad,20.2922,74.0411,670.0,VALID,Passed physical elevation terrain checks
+1151,Dhodambe,Chandwad,20.3316,74.0596,665.0,VALID,Passed physical elevation terrain checks
+1152,Dhondgavhan,Chandwad,20.4042,74.2251,615.0,VALID,Passed physical elevation terrain checks
+1153,Dighwat,Chandwad,20.4181,74.3412,595.0,VALID,Passed physical elevation terrain checks
+1154,Dongaon,Chandwad,20.3582,74.3125,590.0,VALID,Passed physical elevation terrain checks
+1155,Dongargaon,Chandwad,20.3122,74.2855,605.0,VALID,Passed physical elevation terrain checks
+1156,Dudh Kheda,Chandwad,20.3411,74.1522,630.0,VALID,Passed physical elevation terrain checks
+1157,Dugaon,Chandwad,20.2815,74.1855,625.0,VALID,Passed physical elevation terrain checks
+1158,Gangave,Chandwad,20.2911,74.2211,615.0,VALID,Passed physical elevation terrain checks
+1159,Ganur,Chandwad,20.3222,74.2011,615.0,VALID,Passed physical elevation terrain checks
+1160,Goharan,Chandwad,20.3011,74.1422,635.0,VALID,Passed physical elevation terrain checks
+1161,Harnul,Chandwad,20.3422,74.2911,605.0,VALID,Passed physical elevation terrain checks
+1162,Hatti,Chandwad,20.3522,74.2155,625.0,VALID,Passed physical elevation terrain checks
+1163,Hirapur,Chandwad,20.2192,74.1977,675.0,VALID,Passed physical elevation terrain checks
+1164,Hiwarkhed,Chandwad,20.3811,74.3222,590.0,VALID,Passed physical elevation terrain checks
+1165,Jopul,Chandwad,20.1994,73.9064,715.0,VALID,Passed physical elevation terrain checks
+1166,Kaji Sangvi,Chandwad,20.3322,74.1811,625.0,VALID,Passed physical elevation terrain checks
+1167,Kalamdare,Chandwad,20.3111,74.0522,670.0,VALID,Passed physical elevation terrain checks
+1168,Kalkhode,Chandwad,20.2522,74.0811,660.0,VALID,Passed physical elevation terrain checks
+1169,Kanadgaon,Chandwad,20.3922,74.2422,620.0,VALID,Passed physical elevation terrain checks
+1170,Kanmanda,Chandwad,20.4011,74.3122,600.0,VALID,Passed physical elevation terrain checks
+1171,Katarwadi,Chandwad,20.3622,74.2611,615.0,VALID,Passed physical elevation terrain checks
+1172,Khadak Jam,Chandwad,20.3411,74.1122,650.0,VALID,Passed physical elevation terrain checks
+1173,Khadakoze,Chandwad,20.3555,74.2011,625.0,VALID,Passed physical elevation terrain checks
+1174,Kheldari,Chandwad,20.4011,74.3311,605.0,VALID,Passed physical elevation terrain checks
+1175,Kokankheda,Chandwad,20.3016,74.3374,605.0,VALID,Passed physical elevation terrain checks
+1176,Kundalgaon,Chandwad,20.3122,74.3522,605.0,VALID,Passed physical elevation terrain checks
+1177,Malsane,Chandwad,20.3222,74.1911,630.0,VALID,Passed physical elevation terrain checks
+1178,Mangrul,Chandwad,20.3111,74.1222,645.0,VALID,Passed physical elevation terrain checks
+1179,Mesankhede,Chandwad,20.3588,74.2822,610.0,VALID,Passed physical elevation terrain checks
+1180,Nandurtek,Chandwad,20.3622,74.1011,655.0,VALID,Passed physical elevation terrain checks
+1181,Nanhave,Chandwad,20.3011,74.0511,680.0,VALID,Passed physical elevation terrain checks
+1182,Narayangaon,Chandwad,20.3711,74.1522,640.0,VALID,Passed physical elevation terrain checks
+1183,Nimbale,Chandwad,20.3511,74.1111,655.0,VALID,Passed physical elevation terrain checks
+1184,Nimgavhan,Chandwad,20.3211,74.1611,640.0,VALID,Passed physical elevation terrain checks
+1185,Nimon,Chandwad,20.2822,74.1422,650.0,VALID,Passed physical elevation terrain checks
+1186,Panhale,Chandwad,20.3922,74.2211,625.0,VALID,Passed physical elevation terrain checks
+1187,Paregaon,Chandwad,20.3379,73.9679,710.0,VALID,Passed physical elevation terrain checks
+1188,Parsul,Chandwad,20.265,74.1845,655.0,VALID,Passed physical elevation terrain checks
+1189,Pate,Chandwad,20.3211,74.2011,625.0,VALID,Passed physical elevation terrain checks
+1190,Patharshep,Chandwad,20.3455,74.1811,635.0,VALID,Passed physical elevation terrain checks
+1191,Pimpalnar,Chandwad,20.3688,74.2311,620.0,VALID,Passed physical elevation terrain checks
+1192,Pimplad,Chandwad,20.3811,74.0522,675.0,VALID,Passed physical elevation terrain checks
+1193,Puri,Chandwad,20.3122,74.1111,650.0,VALID,Passed physical elevation terrain checks
+1194,Rahud,Chandwad,20.4011,74.1522,645.0,VALID,Passed physical elevation terrain checks
+1195,Rajderwadi,Chandwad,20.4222,74.3111,610.0,VALID,Passed physical elevation terrain checks
+1196,Raypur,Chandwad,20.3588,74.2811,610.0,VALID,Passed physical elevation terrain checks
+1197,Redgaon Kh.,Chandwad,20.3011,74.1222,650.0,VALID,Passed physical elevation terrain checks
+1198,Salsane,Chandwad,20.3411,74.0511,680.0,VALID,Passed physical elevation terrain checks
+1199,Shelu,Chandwad,20.22,74.1682,690.0,VALID,Passed physical elevation terrain checks
+1200,Shinde,Chandwad,20.3013,74.3383,605.0,VALID,Passed physical elevation terrain checks
+1201,Shingave,Chandwad,20.0338,74.0404,615.0,VALID,Passed physical elevation terrain checks
+1202,Shirsane,Chandwad,20.3111,74.1522,625.0,VALID,Passed physical elevation terrain checks
+1203,Shirur,Chandwad,20.3411,74.1111,640.0,VALID,Passed physical elevation terrain checks
+1204,Shivare,Chandwad,20.0597,74.1457,610.0,VALID,Passed physical elevation terrain checks
+1205,Sogras,Chandwad,20.3211,74.1011,655.0,VALID,Passed physical elevation terrain checks
+1206,Sonisangvi,Chandwad,20.3111,74.0522,670.0,VALID,Passed physical elevation terrain checks
+1207,Sutarkheda,Chandwad,20.3522,74.2611,620.0,VALID,Passed physical elevation terrain checks
+1208,Talegoan Rohi,Chandwad,20.3322,74.2422,618.0,VALID,Passed physical elevation terrain checks
+1209,Talwade,Chandwad,20.3922,74.1811,635.0,VALID,Passed physical elevation terrain checks
+1210,Tisgaon,Chandwad,20.3111,74.1522,645.0,VALID,Passed physical elevation terrain checks
+1211,Urdhul,Chandwad,20.3211,74.1111,655.0,VALID,Passed physical elevation terrain checks
+1212,Uswad,Chandwad,20.3368,74.3197,595.0,VALID,Passed physical elevation terrain checks
+1213,Vadalibhoi,Chandwad,20.2841,74.1072,650.0,VALID,Passed physical elevation terrain checks
+1214,Vadbare,Chandwad,20.3011,74.1422,645.0,VALID,Passed physical elevation terrain checks
+1215,Vadgaonpada,Chandwad,20.3555,74.2011,625.0,VALID,Passed physical elevation terrain checks
+1216,Vadner Bhairav,Chandwad,20.2522,74.0811,655.0,VALID,Passed physical elevation terrain checks
+1217,Vitave,Chandwad,20.3922,74.2422,620.0,VALID,Passed physical elevation terrain checks
+1218,Wad,Chandwad,20.3411,74.1122,650.0,VALID,Passed physical elevation terrain checks
+1219,Waghdard,Chandwad,20.3555,74.2011,625.0,VALID,Passed physical elevation terrain checks
+1220,Wahegaon,Chandwad,20.3122,74.1522,640.0,VALID,Passed physical elevation terrain checks
+1221,Waki Bk.,Chandwad,20.3211,74.1111,650.0,VALID,Passed physical elevation terrain checks
+1222,Waki Kd.,Chandwad,20.3322,74.1222,645.0,VALID,Passed physical elevation terrain checks
+1223,Bhaur,Deola,20.4522,74.2155,630.0,VALID,Passed physical elevation terrain checks
+1224,Chinchave,Deola,20.7929,74.4644,580.0,VALID,Passed physical elevation terrain checks
+1225,Dahiwad,Deola,20.4311,74.3,615.0,VALID,Passed physical elevation terrain checks
+1226,Deopurpa,Deola,20.4811,74.2422,620.0,VALID,Passed physical elevation terrain checks
+1227,Dongargaon,Deola,20.4611,74.1122,655.0,VALID,Passed physical elevation terrain checks
+1228,Fule Malwadi,Deola,20.4722,74.2011,625.0,VALID,Passed physical elevation terrain checks
+1229,Fulenagar,Deola,20.4522,74.0811,665.0,VALID,Passed physical elevation terrain checks
+1230,Girnare,Deola,20.4911,74.1522,645.0,VALID,Passed physical elevation terrain checks
+1231,Gunjalnagar,Deola,20.4811,74.2211,625.0,VALID,Passed physical elevation terrain checks
+1232,Kankapur,Deola,20.4411,74.1811,640.0,VALID,Passed physical elevation terrain checks
+1233,Kapashi,Deola,20.4611,74.2911,605.0,VALID,Passed physical elevation terrain checks
+1234,Khadaktale,Deola,20.4711,74.1222,655.0,VALID,Passed physical elevation terrain checks
+1235,Khalap,Deola,20.4222,74.3311,610.0,VALID,Passed physical elevation terrain checks
+1236,Khamkheda,Deola,20.4911,74.3522,595.0,VALID,Passed physical elevation terrain checks
+1237,Kharde (W),Deola,20.4811,74.2811,615.0,VALID,Passed physical elevation terrain checks
+1238,Khuntewadi,Deola,20.4555,74.1122,655.0,VALID,Passed physical elevation terrain checks
+1239,Kumbharde,Deola,20.4411,74.0511,670.0,VALID,Passed physical elevation terrain checks
+1240,Lohoner,Deola,20.514,74.1982,630.0,VALID,Passed physical elevation terrain checks
+1241,Mahalpatre,Deola,20.5011,74.1422,650.0,VALID,Passed physical elevation terrain checks
+1242,Malwadi,Deola,20.4711,74.1522,645.0,VALID,Passed physical elevation terrain checks
+1243,Matane,Deola,20.4611,74.1111,660.0,VALID,Passed physical elevation terrain checks
+1244,Meshi,Deola,20.4726,74.2989,605.0,VALID,Passed physical elevation terrain checks
+1245,M.Fulenagar,Deola,20.4811,74.2011,630.0,VALID,Passed physical elevation terrain checks
+1246,Nimbola,Deola,20.4911,74.1811,640.0,VALID,Passed physical elevation terrain checks
+1247,Pimpalgaon,Deola,20.4822,74.1511,650.0,VALID,Passed physical elevation terrain checks
+1248,Rameshwar,Deola,20.4711,74.3122,605.0,VALID,Passed physical elevation terrain checks
+1249,Sangavi,Deola,20.4611,74.2811,610.0,VALID,Passed physical elevation terrain checks
+1250,Satwaiwadi,Deola,20.4511,74.1111,665.0,VALID,Passed physical elevation terrain checks
+1251,Savki (Lo),Deola,20.5111,74.1922,635.0,VALID,Passed physical elevation terrain checks
+1252,Sheri (Lo),Deola,20.5211,74.2011,630.0,VALID,Passed physical elevation terrain checks
+1253,Shrirampur,Deola,20.4811,74.2122,628.0,VALID,Passed physical elevation terrain checks
+1254,Subhashnagar,Deola,20.4711,74.2422,622.0,VALID,Passed physical elevation terrain checks
+1255,Tisgaon,Deola,20.4911,74.3111,605.0,VALID,Passed physical elevation terrain checks
+1256,Umarane,Deola,20.4588,74.3411,600.0,VALID,Passed physical elevation terrain checks
+1257,Varhale,Deola,20.5011,74.2811,610.0,VALID,Passed physical elevation terrain checks
+1258,Varwandi,Deola,20.4711,74.1422,655.0,VALID,Passed physical elevation terrain checks
+1259,Vasol,Deola,20.4411,74.3311,605.0,VALID,Passed physical elevation terrain checks
+1260,Vijaynager,Deola,20.4611,74.2011,632.0,VALID,Passed physical elevation terrain checks
+1261,Vithewadi,Deola,20.4522,74.1811,638.0,VALID,Passed physical elevation terrain checks
+1262,Wajgaon ('L),Deola,20.5111,74.1911,635.0,VALID,Passed physical elevation terrain checks
+1263,Wakhari,Deola,20.4711,74.1111,660.0,VALID,Passed physical elevation terrain checks
+1264,Warshi,Deola,20.4911,74.1222,655.0,VALID,Passed physical elevation terrain checks
+1265,Ahiwantwadi,Dindori,20.2311,73.8522,645.0,VALID,Passed physical elevation terrain checks
+1266,Akrale,Dindori,20.1522,73.8211,634.0,VALID,Passed physical elevation terrain checks
+1267,Ambad,Dindori,20.1811,73.8122,640.0,VALID,Passed physical elevation terrain checks
+1268,Ambaner,Dindori,20.2111,73.8822,630.0,VALID,Passed physical elevation terrain checks
+1269,Ambedindori,Dindori,20.2011,73.9122,625.0,VALID,Passed physical elevation terrain checks
+1270,Ambegani,Dindori,20.1822,73.8411,638.0,VALID,Passed physical elevation terrain checks
+1271,Ambewani,Dindori,20.1711,73.8011,645.0,VALID,Passed physical elevation terrain checks
+1272,Ashewadi,Dindori,20.1311,73.8222,650.0,VALID,Passed physical elevation terrain checks
+1273,Awankhed,Dindori,20.2522,73.8111,640.0,VALID,Passed physical elevation terrain checks
+1274,Badgichap,Dindori,20.2811,73.8411,645.0,VALID,Passed physical elevation terrain checks
+1275,Bhanwad,Dindori,20.2422,73.8811,635.0,VALID,Passed physical elevation terrain checks
+1276,Bhatode,Dindori,20.1911,73.8522,642.0,VALID,Passed physical elevation terrain checks
+1277,Bopegaon,Dindori,20.1611,73.8911,630.0,VALID,Passed physical elevation terrain checks
+1278,Chachadgaon,Dindori,20.2111,73.8011,655.0,VALID,Passed physical elevation terrain checks
+1279,Chandikapur,Dindori,20.2322,73.8411,648.0,VALID,Passed physical elevation terrain checks
+1280,Charose,Dindori,20.2211,73.8222,645.0,VALID,Passed physical elevation terrain checks
+1281,Chausale,Dindori,20.4117,73.7866,665.0,VALID,Passed physical elevation terrain checks
+1282,Chinchakhed,Dindori,20.1511,73.9111,625.0,VALID,Passed physical elevation terrain checks
+1283,Dahegaon,Dindori,20.1811,73.8511,645.0,VALID,Passed physical elevation terrain checks
+1284,Dahivi,Dindori,20.3302,73.8873,640.0,VALID,Passed physical elevation terrain checks
+1285,Dehare,Dindori,20.2411,73.8911,635.0,VALID,Passed physical elevation terrain checks
+1286,Deoghar,Dindori,20.2111,73.8211,645.0,VALID,Passed physical elevation terrain checks
+1287,Deopada,Dindori,20.2022,73.8111,648.0,VALID,Passed physical elevation terrain checks
+1288,Deopur,Dindori,20.1822,73.8822,635.0,VALID,Passed physical elevation terrain checks
+1289,Deosane,Dindori,20.1911,73.8311,640.0,VALID,Passed physical elevation terrain checks
+1290,Deothan,Dindori,20.2211,73.8511,640.0,VALID,Passed physical elevation terrain checks
+1291,Dhagur,Dindori,20.1311,73.8011,665.0,VALID,Passed physical elevation terrain checks
+1292,Dhakambe,Dindori,20.1211,73.8211,660.0,VALID,Passed physical elevation terrain checks
+1293,Dhaur,Dindori,20.2411,73.8511,645.0,VALID,Passed physical elevation terrain checks
+1294,Dhondalpara,Dindori,20.2511,73.8811,635.0,VALID,Passed physical elevation terrain checks
+1295,Gandole,Dindori,20.3805,73.5922,720.0,VALID,Passed physical elevation terrain checks
+1296,Gawalwadi,Dindori,20.0924,73.7518,680.0,VALID,Passed physical elevation terrain checks
+1297,Golshi,Dindori,20.2111,73.8111,655.0,VALID,Passed physical elevation terrain checks
+1298,Gondegon,Dindori,20.1811,73.9111,620.0,VALID,Passed physical elevation terrain checks
+1299,Hastedum,Dindori,20.1922,73.8511,645.0,VALID,Passed physical elevation terrain checks
+1300,Hatnore,Dindori,20.2311,73.8811,635.0,VALID,Passed physical elevation terrain checks
+1301,Bharvir Kh.,Igatpuri,19.7422,73.7411,625.0,VALID,Passed physical elevation terrain checks
+1302,Bhavali Bk,Igatpuri,19.6522,73.5111,680.0,VALID,Passed physical elevation terrain checks
+1303,Bhavali Kh,Igatpuri,19.6488,73.5222,695.0,VALID,Passed physical elevation terrain checks
+1304,Borli,Igatpuri,19.6431,73.5718,660.0,VALID,Passed physical elevation terrain checks
+1305,Bortembha,Igatpuri,19.6322,73.5411,710.0,VALID,Passed physical elevation terrain checks
+1306,Chinchalekhaire,Igatpuri,19.7111,73.4811,655.0,VALID,Passed physical elevation terrain checks
+1307,Daundat,Igatpuri,19.7811,73.6522,615.0,VALID,Passed physical elevation terrain checks
+1308,Deole,Igatpuri,19.7211,73.6011,630.0,VALID,Passed physical elevation terrain checks
+1309,Dhamangaon,Igatpuri,19.7611,73.7111,620.0,VALID,Passed physical elevation terrain checks
+1310,Dhamani,Igatpuri,19.6811,73.5822,665.0,VALID,Passed physical elevation terrain checks
+1311,Dhanorli,Igatpuri,19.7011,73.6511,618.0,VALID,Passed physical elevation terrain checks
+1312,Dhargaon,Igatpuri,19.7122,73.6222,622.0,VALID,Passed physical elevation terrain checks
+1313,Fangulgavhan,Igatpuri,19.7522,73.5511,610.0,VALID,Passed physical elevation terrain checks
+1314,Garudeshwar,Igatpuri,19.7222,73.6122,630.0,VALID,Passed physical elevation terrain checks
+1315,Ghoti Bk,Igatpuri,19.7167,73.6244,615.0,VALID,Passed physical elevation terrain checks
+1316,Ghoti Kh,Igatpuri,19.7167,73.6244,615.0,VALID,Passed physical elevation terrain checks
+1317,Gondedumala,Igatpuri,19.8275,73.6814,605.0,VALID,Passed physical elevation terrain checks
+1318,Indore,Igatpuri,19.6342,73.7072,640.0,VALID,Passed physical elevation terrain checks
+1319,Janori,Igatpuri,19.8054,73.6973,612.0,VALID,Passed physical elevation terrain checks
+1320,Kaluste,Igatpuri,19.6621,73.6392,645.0,VALID,Passed physical elevation terrain checks
+1321,Kanchangaon,Igatpuri,19.6911,73.5111,670.0,VALID,Passed physical elevation terrain checks
+1322,Karhole,Igatpuri,19.7989,73.5803,615.0,VALID,Passed physical elevation terrain checks
+1323,Kawanai,Igatpuri,19.781,73.617,628.0,VALID,Passed physical elevation terrain checks
+1324,Khadked,Igatpuri,19.6711,73.5511,680.0,VALID,Passed physical elevation terrain checks
+1325,Khairgaon,Igatpuri,19.7092,73.6618,605.0,VALID,Passed physical elevation terrain checks
+1326,Khambale,Igatpuri,19.7331,73.6372,618.0,VALID,Passed physical elevation terrain checks
+1327,Khed,Igatpuri,19.6615,73.7063,635.0,VALID,Passed physical elevation terrain checks
+1328,Korapgaon,Igatpuri,19.6822,73.6122,655.0,VALID,Passed physical elevation terrain checks
+1329,Krishnanagar,Igatpuri,19.7522,73.7011,612.0,VALID,Passed physical elevation terrain checks
+1330,Kurhegaon,Igatpuri,19.8264,73.6963,608.0,VALID,Passed physical elevation terrain checks
+1331,Kurnoli,Igatpuri,19.6711,73.6011,660.0,VALID,Passed physical elevation terrain checks
+1332,Kurungwadi,Igatpuri,19.6219,73.6318,690.0,VALID,Passed physical elevation terrain checks
+1333,Kushegaon,Igatpuri,19.8645,73.5754,595.0,VALID,Passed physical elevation terrain checks
+1334,Laxminagar,Igatpuri,19.7322,73.6522,612.0,VALID,Passed physical elevation terrain checks
+1335,Malunje,Igatpuri,19.7911,73.7011,605.0,VALID,Passed physical elevation terrain checks
+1336,Manikkhamb,Igatpuri,19.7211,73.5511,635.0,VALID,Passed physical elevation terrain checks
+1337,Manjargaon,Igatpuri,19.6522,73.6734,650.0,VALID,Passed physical elevation terrain checks
+1338,Manvedhe,Igatpuri,19.6622,73.6111,675.0,VALID,Passed physical elevation terrain checks
+1339,Maydara,Igatpuri,19.6411,73.5211,720.0,VALID,Passed physical elevation terrain checks
+1340,Mhasurli,Igatpuri,19.8324,73.5362,615.0,VALID,Passed physical elevation terrain checks
+1341,Modale,Igatpuri,19.8527,73.6115,590.0,VALID,Passed physical elevation terrain checks
+1342,Mogre,Igatpuri,19.7811,73.5522,630.0,VALID,Passed physical elevation terrain checks
+1343,Mukane,Igatpuri,19.8022,73.7111,605.0,VALID,Passed physical elevation terrain checks
+1344,Mundhegaon,Igatpuri,19.7511,73.6511,625.0,VALID,Passed physical elevation terrain checks
+1345,Murambi,Igatpuri,19.8509,73.6435,595.0,VALID,Passed physical elevation terrain checks
+1346,Nagosali,Igatpuri,19.8026,73.5347,625.0,VALID,Passed physical elevation terrain checks
+1347,Nandgaon Bk,Igatpuri,19.6747,73.5693,685.0,VALID,Passed physical elevation terrain checks
+1348,Nandgaon Sado,Igatpuri,19.6747,73.5693,685.0,VALID,Passed physical elevation terrain checks
+1349,Nandurvaidya,Igatpuri,19.8206,73.7318,602.0,VALID,Passed physical elevation terrain checks
+1350,Ninavi,Igatpuri,19.7511,73.5822,645.0,VALID,Passed physical elevation terrain checks
+1351,Ondali,Igatpuri,19.6455,73.7122,635.0,VALID,Passed physical elevation terrain checks
+1352,Padali (D),Igatpuri,19.7015,73.9585,590.0,VALID,Passed physical elevation terrain checks
+1353,Pimpalgaon Bhatata,Igatpuri,19.8242,73.5355,622.0,VALID,Passed physical elevation terrain checks
+1354,Pimpalgaon Dukra,Igatpuri,19.7915,73.6822,615.0,VALID,Passed physical elevation terrain checks
+1355,Pimpalgaon More,Igatpuri,19.8601,73.6744,605.0,VALID,Passed physical elevation terrain checks
+1356,Pimpalgaon Ghadga,Igatpuri,19.7822,73.6211,635.0,VALID,Passed physical elevation terrain checks
+1357,Pimpri-Sadrddino,Igatpuri,19.6744,73.6122,670.0,VALID,Passed physical elevation terrain checks
+1358,Rayambe,Igatpuri,19.7969,73.5925,615.0,VALID,Passed physical elevation terrain checks
+1359,Sakur,Igatpuri,19.6211,73.6822,665.0,VALID,Passed physical elevation terrain checks
+1360,Samnera,Igatpuri,19.7122,73.6544,618.0,VALID,Passed physical elevation terrain checks
+1361,Sanjegaon,Igatpuri,19.824,73.6119,612.0,VALID,Passed physical elevation terrain checks
+1362,Shenit,Igatpuri,19.7544,73.5822,635.0,VALID,Passed physical elevation terrain checks
+1363,Shenwad Bk,Igatpuri,19.6953,73.6458,620.0,VALID,Passed physical elevation terrain checks
+1364,Shenwad Kh,Igatpuri,19.6953,73.6458,620.0,VALID,Passed physical elevation terrain checks
+1365,Shevagedang,Igatpuri,19.7122,73.5211,685.0,VALID,Passed physical elevation terrain checks
+1366,Shirsate,Igatpuri,19.7211,73.5544,650.0,VALID,Passed physical elevation terrain checks
+1367,Somaj,Igatpuri,19.8122,73.5822,615.0,VALID,Passed physical elevation terrain checks
+1368,Sonoshi,Igatpuri,19.8544,73.6522,598.0,VALID,Passed physical elevation terrain checks
+1369,Taked Bk,Igatpuri,19.6322,73.8111,635.0,VALID,Passed physical elevation terrain checks
+1370,Taked Kh.,Igatpuri,19.6388,73.8222,630.0,VALID,Passed physical elevation terrain checks
+1371,Takeghoti,Igatpuri,19.7044,73.6122,625.0,VALID,Passed physical elevation terrain checks
+1372,Talogha,Igatpuri,19.7211,73.6822,612.0,VALID,Passed physical elevation terrain checks
+1373,Taloshi,Igatpuri,19.6822,73.7111,630.0,VALID,Passed physical elevation terrain checks
+1374,Titoli,Igatpuri,19.7122,73.6422,618.0,VALID,Passed physical elevation terrain checks
+1375,Tringalwadi,Igatpuri,19.737,73.5358,665.0,VALID,Passed physical elevation terrain checks
+1376,Ubhade,Igatpuri,19.7422,73.5844,635.0,VALID,Passed physical elevation terrain checks
+1377,Umberkon,Igatpuri,19.8244,73.7022,605.0,VALID,Passed physical elevation terrain checks
+1378,Vaki,Igatpuri,19.6544,73.7822,645.0,VALID,Passed physical elevation terrain checks
+1379,Vasali,Igatpuri,19.6822,73.6544,622.0,VALID,Passed physical elevation terrain checks
+1380,Wadiwarhe,Igatpuri,19.8605,73.6753,605.0,VALID,Passed physical elevation terrain checks
+1381,Waghere,Igatpuri,19.8422,73.6922,600.0,VALID,Passed physical elevation terrain checks
+1382,Walvihir,Igatpuri,19.7544,73.6122,625.0,VALID,Passed physical elevation terrain checks
+1383,Abhona,Kalwan,20.4791,73.9251,580.0,VALID,Passed physical elevation terrain checks
+1384,Athambe,Kalwan,20.4407,73.9638,595.0,VALID,Passed physical elevation terrain checks
+1385,Bagadu,Kalwan,20.4511,73.8822,615.0,VALID,Passed physical elevation terrain checks
+1386,Bapkheda,Kalwan,20.4822,73.9511,575.0,VALID,Passed physical elevation terrain checks
+1387,Bhadwan,Kalwan,20.4711,73.9822,570.0,VALID,Passed physical elevation terrain checks
+1388,Bhagurdi,Kalwan,20.5122,73.8244,640.0,VALID,Passed physical elevation terrain checks
+1389,Bhaitane (D),Kalwan,20.5511,73.9111,590.0,VALID,Passed physical elevation terrain checks
+1390,Bhandane Ha,Kalwan,20.5669,73.8294,625.0,VALID,Passed physical elevation terrain checks
+1391,Bhendi,Kalwan,20.4122,73.9522,590.0,VALID,Passed physical elevation terrain checks
+1392,Bhusani,Kalwan,20.4322,73.8111,650.0,VALID,Passed physical elevation terrain checks
+1393,Bilwadi,Kalwan,20.5422,73.8911,605.0,VALID,Passed physical elevation terrain checks
+1394,Bordaivat,Kalwan,20.5111,74.0522,555.0,VALID,Passed physical elevation terrain checks
+1395,Chankapur,Kalwan,20.5128,73.8922,612.0,VALID,Passed physical elevation terrain checks
+1396,Dahyane Digar,Kalwan,20.4922,73.8544,630.0,VALID,Passed physical elevation terrain checks
+1397,Dalwat,Kalwan,20.5416,73.8261,645.0,VALID,Passed physical elevation terrain checks
+1398,Darebhangi,Kalwan,20.5611,73.8111,655.0,VALID,Passed physical elevation terrain checks
+1399,Deovalivani,Kalwan,20.5011,73.9211,585.0,VALID,Passed physical elevation terrain checks
+1400,Desarane,Kalwan,20.5822,73.9111,605.0,VALID,Passed physical elevation terrain checks
+1401,Desgaon,Kalwan,20.5211,73.9511,612.0,VALID,Passed physical elevation terrain checks
+1402,Dharde Diger,Kalwan,20.5444,73.8822,612.0,VALID,Passed physical elevation terrain checks
+1403,Ganore,Kalwan,20.4411,74.0111,612.0,VALID,Passed physical elevation terrain checks
+1404,Gobapur,Kalwan,20.4363,73.9358,612.0,VALID,Passed physical elevation terrain checks
+1405,Golakhal,Kalwan,20.5122,73.9422,612.0,VALID,Passed physical elevation terrain checks
+1406,Gopalkhadi,Kalwan,20.5822,73.8511,612.0,VALID,Passed physical elevation terrain checks
+1407,Gosarane,Kalwan,20.5011,73.9822,612.0,VALID,Passed physical elevation terrain checks
+1408,Hingave,Kalwan,20.4911,73.9011,612.0,VALID,Passed physical elevation terrain checks
+1409,Jaidar,Kalwan,20.5922,73.8906,612.0,VALID,Passed physical elevation terrain checks
+1410,Jaipur,Kalwan,20.5622,73.8211,612.0,VALID,Passed physical elevation terrain checks
+1411,Jamale Vani,Kalwan,20.5311,73.9222,612.0,VALID,Passed physical elevation terrain checks
+1412,Juni Bej,Kalwan,20.4611,74.0511,612.0,VALID,Passed physical elevation terrain checks
+1413,Kakane,Kalwan,20.4422,73.9411,612.0,VALID,Passed physical elevation terrain checks
+1414,Kalmathe (Pa),Kalwan,20.4522,73.9622,612.0,VALID,Passed physical elevation terrain checks
+1415,Kalwan (Kd),Kalwan,20.4909,74.0241,612.0,VALID,Passed physical elevation terrain checks
+1416,Kanashi (K),Kalwan,20.5811,73.8222,612.0,VALID,Passed physical elevation terrain checks
+1417,Karambhel (K),Kalwan,20.5911,73.8422,612.0,VALID,Passed physical elevation terrain checks
+1418,Kathare Diger,Kalwan,20.6122,73.8811,612.0,VALID,Passed physical elevation terrain checks
+1419,Khadakvan,Kalwan,20.4711,73.9011,612.0,VALID,Passed physical elevation terrain checks
+1420,Khadki,Kalwan,20.4122,73.9822,612.0,VALID,Passed physical elevation terrain checks
+1421,Kharde Diger,Kalwan,20.5522,73.8111,612.0,VALID,Passed physical elevation terrain checks
+1422,Khedgaon,Kalwan,20.4811,73.9222,612.0,VALID,Passed physical elevation terrain checks
+1423,Khirad,Kalwan,20.4538,73.7964,612.0,VALID,Passed physical elevation terrain checks
+1424,Kosurde,Kalwan,20.5211,73.9011,612.0,VALID,Passed physical elevation terrain checks
+1425,Koswan,Kalwan,20.5611,73.8544,612.0,VALID,Passed physical elevation terrain checks
+1426,Kundane (K),Kalwan,20.5122,74.0111,612.0,VALID,Passed physical elevation terrain checks
+1427,Kundane (O),Kalwan,20.5122,74.0111,612.0,VALID,Passed physical elevation terrain checks
+1428,Lingama,Kalwan,20.5411,73.9422,612.0,VALID,Passed physical elevation terrain checks
+1429,Malgaon (Kh),Kalwan,20.4711,73.8922,612.0,VALID,Passed physical elevation terrain checks
+1430,Manur,Kalwan,20.4827,74.0167,612.0,VALID,Passed physical elevation terrain checks
+1431,Mehedar,Kalwan,20.5311,74.0522,612.0,VALID,Passed physical elevation terrain checks
+1432,Mohandari,Kalwan,20.4422,73.8959,612.0,VALID,Passed physical elevation terrain checks
+1433,Mohmukh,Kalwan,20.4922,73.9811,612.0,VALID,Passed physical elevation terrain checks
+1434,Mokhbhangi,Kalwan,20.5626,74.015,612.0,VALID,Passed physical elevation terrain checks
+1435,Mulanevani,Kalwan,20.4422,73.9622,612.0,VALID,Passed physical elevation terrain checks
+1436,Nakoda,Kalwan,20.5511,73.8811,612.0,VALID,Passed physical elevation terrain checks
+1437,Nalid,Kalwan,20.5111,74.0111,612.0,VALID,Passed physical elevation terrain checks
+1438,Nanduri,Kalwan,20.4173,73.9056,612.0,VALID,Passed physical elevation terrain checks
+1439,Narul,Kalwan,20.4811,73.9511,612.0,VALID,Passed physical elevation terrain checks
+1440,Navi Bej,Kalwan,20.5143,74.0747,612.0,VALID,Passed physical elevation terrain checks
+1441,Nivane,Kalwan,20.5311,73.9111,612.0,VALID,Passed physical elevation terrain checks
+1442,Ojhar,Kalwan,20.5111,73.8811,612.0,VALID,Passed physical elevation terrain checks
+1443,Otur,Kalwan,20.4176,74.0044,612.0,VALID,Passed physical elevation terrain checks
+1444,Palasdar,Kalwan,20.5822,73.8411,612.0,VALID,Passed physical elevation terrain checks
+1445,Pale (Bk),Kalwan,20.4911,73.9011,612.0,VALID,Passed physical elevation terrain checks
+1446,Pale (Kd),Kalwan,20.4955,73.9122,612.0,VALID,Passed physical elevation terrain checks
+1447,Patvihir,Kalwan,20.5611,73.8122,612.0,VALID,Passed physical elevation terrain checks
+1448,Pilkos,Kalwan,20.4711,73.9422,612.0,VALID,Passed physical elevation terrain checks
+1449,Pimpale (Bk),Kalwan,20.5111,74.0111,612.0,VALID,Passed physical elevation terrain checks
+1450,Punadnagar,Kalwan,20.5311,73.9222,612.0,VALID,Passed physical elevation terrain checks
+1451,Ravalji,Kalwan,20.4511,74.0522,612.0,VALID,Passed physical elevation terrain checks
+1452,Sakore,Kalwan,20.4473,73.9883,612.0,VALID,Passed physical elevation terrain checks
+1453,Saptashrungi Gad,Kalwan,20.3922,73.9111,612.0,VALID,Passed physical elevation terrain checks
+1454,Sarledigar,Kalwan,20.5822,73.8511,612.0,VALID,Passed physical elevation terrain checks
+1455,Savakipale,Kalwan,20.4122,73.9811,612.0,VALID,Passed physical elevation terrain checks
+1456,Shingashi,Kalwan,20.5511,73.8111,612.0,VALID,Passed physical elevation terrain checks
+1457,Shirasmani,Kalwan,20.4911,73.9222,612.0,VALID,Passed physical elevation terrain checks
+1458,Sukapur,Kalwan,20.5211,73.9011,612.0,VALID,Passed physical elevation terrain checks
+1459,Sule,Kalwan,20.5611,73.8544,612.0,VALID,Passed physical elevation terrain checks
+1460,Supale Digar,Kalwan,20.5122,74.0111,612.0,VALID,Passed physical elevation terrain checks
+1461,Tatani,Kalwan,20.5411,73.9422,612.0,VALID,Passed physical elevation terrain checks
+1462,Tirhal (Kh),Kalwan,20.4711,73.8922,612.0,VALID,Passed physical elevation terrain checks
+1463,Vadale (Ha),Kalwan,20.5311,74.0522,612.0,VALID,Passed physical elevation terrain checks
+1464,Vadalevani,Kalwan,20.4922,73.9811,612.0,VALID,Passed physical elevation terrain checks
+1465,Verule,Kalwan,20.4422,73.9622,612.0,VALID,Passed physical elevation terrain checks
+1466,Virshet,Kalwan,20.5511,73.8811,612.0,VALID,Passed physical elevation terrain checks
+1467,Visapur,Kalwan,20.5111,74.0111,612.0,VALID,Passed physical elevation terrain checks
+1468,Wadi (Bk),Kalwan,20.4811,73.9511,612.0,VALID,Passed physical elevation terrain checks
+1469,Aghar (Bk),Malegaon,20.5622,74.3211,435.0,VALID,Passed physical elevation terrain checks
+1470,Aghar (Kd),Malegaon,20.5722,74.3311,435.0,VALID,Passed physical elevation terrain checks
+1471,Ajande,Malegaon,20.5422,74.4111,435.0,VALID,Passed physical elevation terrain checks
+1472,Ajang,Malegaon,20.6352,74.4521,435.0,VALID,Passed physical elevation terrain checks
+1473,Astane,Malegaon,20.6834,74.6421,435.0,VALID,Passed physical elevation terrain checks
+1474,Belgaon,Malegaon,20.6122,74.3522,435.0,VALID,Passed physical elevation terrain checks
+1475,Bhardenagar,Malegaon,20.5822,74.5211,435.0,VALID,Passed physical elevation terrain checks
+1476,Bhilkot,Malegaon,20.6522,74.4822,435.0,VALID,Passed physical elevation terrain checks
+1477,Chandanpuri,Malegaon,20.5111,74.4422,435.0,VALID,Passed physical elevation terrain checks
+1478,Chaukatpade,Malegaon,20.6822,74.5511,435.0,VALID,Passed physical elevation terrain checks
+1479,Chikhalohol,Malegaon,20.6011,74.6111,435.0,VALID,Passed physical elevation terrain checks
+1480,Chinchagavan,Malegaon,20.6211,74.4122,435.0,VALID,Passed physical elevation terrain checks
+1481,Chinchawad,Malegaon,20.5911,74.3822,435.0,VALID,Passed physical elevation terrain checks
+1482,Chinchwe (Ga),Malegaon,20.6511,74.5511,435.0,VALID,Passed physical elevation terrain checks
+1483,Chondhi,Malegaon,20.5411,74.3111,435.0,VALID,Passed physical elevation terrain checks
+1484,Dabali,Malegaon,20.5722,74.3822,435.0,VALID,Passed physical elevation terrain checks
+1485,Dabhadi,Malegaon,20.5506,74.4559,435.0,VALID,Passed physical elevation terrain checks
+1486,Dahidi,Malegaon,20.6111,74.5211,435.0,VALID,Passed physical elevation terrain checks
+1487,Dahiwal,Malegaon,20.5811,74.6522,435.0,VALID,Passed physical elevation terrain checks
+1488,Dapure,Malegaon,20.6322,74.4511,435.0,VALID,Passed physical elevation terrain checks
+1489,Dasane,Malegaon,20.5841,74.5714,435.0,VALID,Passed physical elevation terrain checks
+1490,Deoghat,Malegaon,20.5893,74.7811,435.0,VALID,Passed physical elevation terrain checks
+1491,Devarpade,Malegaon,20.5922,74.4211,435.0,VALID,Passed physical elevation terrain checks
+1492,Dhavaleshwar,Malegaon,20.6511,74.5822,435.0,VALID,Passed physical elevation terrain checks
+1493,Dongrale,Malegaon,20.7851,74.5724,435.0,VALID,Passed physical elevation terrain checks
+1494,Dundhe,Malegaon,20.5411,74.3411,435.0,VALID,Passed physical elevation terrain checks
+1495,Erandgaon,Malegaon,20.5722,74.4522,435.0,VALID,Passed physical elevation terrain checks
+1496,Galne,Malegaon,20.6111,74.5111,435.0,VALID,Passed physical elevation terrain checks
+1497,Garbad,Malegaon,20.5922,74.6211,435.0,VALID,Passed physical elevation terrain checks
+1498,Garegaon,Malegaon,20.738,74.4175,435.0,VALID,Passed physical elevation terrain checks
+1499,Ghanegaon,Malegaon,20.6311,74.5511,435.0,VALID,Passed physical elevation terrain checks
+1500,Gilane,Malegaon,20.6311,74.5511,435.0,VALID,Passed physical elevation terrain checks
+1501,Ghodegaon,Malegaon,20.5511,74.4822,438.0,VALID,Passed physical elevation terrain checks
+1502,Gigaon,Malegaon,20.6122,74.6255,445.0,VALID,Passed physical elevation terrain checks
+1503,Gilane,Malegaon,20.4522,74.5211,452.0,VALID,Passed physical elevation terrain checks
+1504,Gugulwad,Malegaon,20.5822,74.3411,465.0,VALID,Passed physical elevation terrain checks
+1505,Hatane,Malegaon,20.6422,74.5511,440.0,VALID,Passed physical elevation terrain checks
+1506,Hiswal,Malegaon,20.6334,74.7932,450.0,VALID,Passed physical elevation terrain checks
+1507,Jalgaon (Ga),Malegaon,20.6211,74.6322,442.0,VALID,Passed physical elevation terrain checks
+1508,Jalgaon (Ni),Malegaon,20.5511,74.3911,460.0,VALID,Passed physical elevation terrain checks
+1509,Jalku,Malegaon,20.6511,74.4522,448.0,VALID,Passed physical elevation terrain checks
+1510,Jatpade,Malegaon,20.4911,74.4822,445.0,VALID,Passed physical elevation terrain checks
+1511,Jeur,Malegaon,20.5822,74.6111,440.0,VALID,Passed physical elevation terrain checks
+1512,Jwardi (Bk),Malegaon,20.5422,74.3211,462.0,VALID,Passed physical elevation terrain checks
+1513,Kajwade,Malegaon,20.7822,74.4001,468.0,VALID,Passed physical elevation terrain checks
+1514,Kalwadi,Malegaon,20.5518,74.7497,455.0,VALID,Passed physical elevation terrain checks
+1515,Kandhane,Malegaon,20.6256,74.1066,605.0,VALID,Passed physical elevation terrain checks
+1516,Kankrale,Malegaon,20.6853,74.4927,442.0,VALID,Passed physical elevation terrain checks
+1517,Karanj Gavhan,Malegaon,20.5122,74.3822,472.0,VALID,Passed physical elevation terrain checks
+1518,Kashti,Malegaon,20.6223,74.483,448.0,VALID,Passed physical elevation terrain checks
+1519,Kaulane (Ga),Malegaon,20.4811,74.4211,465.0,VALID,Passed physical elevation terrain checks
+1520,Kaulane (Ni),Malegaon,20.5611,74.4111,462.0,VALID,Passed physical elevation terrain checks
+1521,Khadaki,Malegaon,20.5411,74.4422,448.0,VALID,Passed physical elevation terrain checks
+1522,Khakurdi,Malegaon,20.6853,74.4177,450.0,VALID,Passed physical elevation terrain checks
+1523,Khalane,Malegaon,20.6111,74.5822,435.0,VALID,Passed physical elevation terrain checks
+1524,Khayade,Malegaon,20.6211,74.4111,458.0,VALID,Passed physical elevation terrain checks
+1525,Kothare (Bk),Malegaon,20.6511,74.6011,432.0,VALID,Passed physical elevation terrain checks
+1526,Kukane,Malegaon,20.6533,74.5159,435.0,VALID,Passed physical elevation terrain checks
+1527,Lakhani,Malegaon,20.7021,74.6444,428.0,VALID,Passed physical elevation terrain checks
+1528,Lendane,Malegaon,20.5722,74.5422,436.0,VALID,Passed physical elevation terrain checks
+1529,Lonwade,Malegaon,20.5511,74.3111,468.0,VALID,Passed physical elevation terrain checks
+1530,Lulle,Malegaon,20.4611,74.5211,450.0,VALID,Passed physical elevation terrain checks
+1531,Malgaon,Malegaon,20.5911,74.5822,435.0,VALID,Passed physical elevation terrain checks
+1532,Malhangaon,Malegaon,20.5822,74.4522,455.0,VALID,Passed physical elevation terrain checks
+1533,Manjre,Malegaon,20.5611,74.3811,465.0,VALID,Passed physical elevation terrain checks
+1534,Manke,Malegaon,20.5522,74.6111,435.0,VALID,Passed physical elevation terrain checks
+1535,Mathurpada,Malegaon,20.5411,74.4922,445.0,VALID,Passed physical elevation terrain checks
+1536,Mehune,Malegaon,20.6011,74.3411,482.0,VALID,Passed physical elevation terrain checks
+1537,Mohpada,Malegaon,20.5211,74.4211,460.0,VALID,Passed physical elevation terrain checks
+1538,Mungse,Malegaon,20.7335,74.1067,605.0,VALID,Passed physical elevation terrain checks
+1539,Nagaon (Di),Malegaon,20.5811,74.4422,460.0,VALID,Passed physical elevation terrain checks
+1540,Nagzari,Malegaon,20.8143,74.5382,425.0,VALID,Passed physical elevation terrain checks
+1541,Nale,Malegaon,20.5511,74.6522,435.0,VALID,Passed physical elevation terrain checks
+1542,Nandgaon (Bk),Malegaon,20.3079,74.6572,465.0,VALID,Passed physical elevation terrain checks
+1543,Nardane,Malegaon,20.5611,74.4822,445.0,VALID,Passed physical elevation terrain checks
+1544,Nilgawhan,Malegaon,20.5922,74.5511,438.0,VALID,Passed physical elevation terrain checks
+1545,Nimbayati,Malegaon,20.5111,74.3211,472.0,VALID,Passed physical elevation terrain checks
+1546,Nimgaon,Malegaon,20.4387,74.5589,455.0,VALID,Passed physical elevation terrain checks
+1547,Nimgaon (Kh),Malegaon,20.5811,74.5111,435.0,VALID,Passed physical elevation terrain checks
+1548,Nimgile,Malegaon,20.5522,74.3822,465.0,VALID,Passed physical elevation terrain checks
+1549,Nimshewadi,Malegaon,20.6111,74.4522,458.0,VALID,Passed physical elevation terrain checks
+1550,Padalde,Malegaon,20.6011,74.4911,448.0,VALID,Passed physical elevation terrain checks
+1551,Palasdare,Malegaon,20.5822,74.4122,465.0,VALID,Passed physical elevation terrain checks
+1552,Pandhrun,Malegaon,20.5411,74.3511,470.0,VALID,Passed physical elevation terrain checks
+1553,Patane,Malegaon,20.5211,74.4822,448.0,VALID,Passed physical elevation terrain checks
+1554,Patharde,Malegaon,20.5511,74.3111,472.0,VALID,Passed physical elevation terrain checks
+1555,Pimpalgaon,Malegaon,20.5722,74.4211,465.0,VALID,Passed physical elevation terrain checks
+1556,Pohane,Malegaon,20.7623,74.4217,458.0,VALID,Passed physical elevation terrain checks
+1557,Rajmane,Malegaon,20.5811,74.4822,442.0,VALID,Passed physical elevation terrain checks
+1558,Ravalgaon,Malegaon,20.5922,74.3411,485.0,VALID,Passed physical elevation terrain checks
+1559,Ronzane,Malegaon,20.5411,74.3822,468.0,VALID,Passed physical elevation terrain checks
+1560,Ronze,Malegaon,20.5111,74.4522,452.0,VALID,Passed physical elevation terrain checks
+1561,Sajwal,Malegaon,20.5522,74.3111,475.0,VALID,Passed physical elevation terrain checks
+1562,Sakur,Malegaon,20.5611,74.4122,465.0,VALID,Passed physical elevation terrain checks
+1563,Sakuri (Ni),Malegaon,20.4811,74.5211,450.0,VALID,Passed physical elevation terrain checks
+1564,Satmanne,Malegaon,20.6111,74.6011,435.0,VALID,Passed physical elevation terrain checks
+1565,Saundane,Malegaon,20.5822,74.4522,458.0,VALID,Passed physical elevation terrain checks
+1566,Savatawadi,Malegaon,20.6211,74.4211,462.0,VALID,Passed physical elevation terrain checks
+1567,Savkarwadi,Malegaon,20.5511,74.4822,448.0,VALID,Passed physical elevation terrain checks
+1568,Sawandgaon,Malegaon,20.5722,74.3822,472.0,VALID,Passed physical elevation terrain checks
+1569,Sayne (Kd),Malegaon,20.5911,74.5211,435.0,VALID,Passed physical elevation terrain checks
+1570,Shendurni,Malegaon,20.6111,74.6522,428.0,VALID,Passed physical elevation terrain checks
+1571,Sherul,Malegaon,20.615,74.7595,432.0,VALID,Passed physical elevation terrain checks
+1572,Shirsondi,Malegaon,20.5822,74.4922,450.0,VALID,Passed physical elevation terrain checks
+1573,Sitane,Malegaon,20.5411,74.3411,472.0,VALID,Passed physical elevation terrain checks
+1574,Sonaj,Malegaon,20.5522,74.4522,452.0,VALID,Passed physical elevation terrain checks
+1575,Takali,Malegaon,20.5611,74.3811,470.0,VALID,Passed physical elevation terrain checks
+1576,Talwade,Malegaon,20.3977,74.7498,465.0,VALID,Passed physical elevation terrain checks
+1577,Tehare,Malegaon,20.5122,74.4111,458.0,VALID,Passed physical elevation terrain checks
+1578,Tingri,Malegaon,20.4811,74.5511,445.0,VALID,Passed physical elevation terrain checks
+1579,Tokade,Malegaon,20.6211,74.5822,435.0,VALID,Passed physical elevation terrain checks
+1580,Umbarde,Malegaon,20.5922,74.4211,468.0,VALID,Passed physical elevation terrain checks
+1581,Vadel,Malegaon,20.6389,74.457,448.0,VALID,Passed physical elevation terrain checks
+1582,Vadgaon,Malegaon,20.5511,74.3111,475.0,VALID,Passed physical elevation terrain checks
+1583,Vadner,Malegaon,20.5611,74.4922,445.0,VALID,Passed physical elevation terrain checks
+1584,Vajirkhede,Malegaon,20.5411,74.3411,472.0,VALID,Passed physical elevation terrain checks
+1585,Valwade,Malegaon,20.5822,74.4522,458.0,VALID,Passed physical elevation terrain checks
+1586,Valwadi,Malegaon,20.6111,74.5211,442.0,VALID,Passed physical elevation terrain checks
+1587,Vanpat,Malegaon,20.5922,74.6211,435.0,VALID,Passed physical elevation terrain checks
+1588,Varahane,Malegaon,20.5411,74.3822,468.0,VALID,Passed physical elevation terrain checks
+1589,Virane,Malegaon,20.7441,74.46,448.0,VALID,Passed physical elevation terrain checks
+1590,Wake,Malegaon,20.5511,74.4111,462.0,VALID,Passed physical elevation terrain checks
+1591,Yesgaon (Bk),Malegaon,20.6111,74.5511,435.0,VALID,Passed physical elevation terrain checks
+1592,Yesgaon (Kd),Malegaon,20.6211,74.5611,438.0,VALID,Passed physical elevation terrain checks
+1593,Zadi,Malegaon,20.5822,74.4822,448.0,VALID,Passed physical elevation terrain checks
+1594,Zodage,Malegaon,20.5922,74.3411,485.0,VALID,Passed physical elevation terrain checks
+1595,Amode,Nandgaon,20.5036,74.7726,465.0,VALID,Passed physical elevation terrain checks
+1596,Anakwade,Nandgaon,20.4122,74.5811,480.0,VALID,Passed physical elevation terrain checks
+1597,Astgaon,Nandgaon,20.3168,74.4887,512.0,VALID,Passed physical elevation terrain checks
+1598,Babhulwadi,Nandgaon,20.3511,74.6122,495.0,VALID,Passed physical elevation terrain checks
+1599,Bangaon Bk.,Nandgaon,20.3822,74.5511,505.0,VALID,Passed physical elevation terrain checks
+1600,Bangaon Kh.,Nandgaon,20.3911,74.5422,508.0,VALID,Passed physical elevation terrain checks
+1601,Bejgaon,Nandgaon,20.3111,74.4422,520.0,VALID,Passed physical elevation terrain checks
+1602,Bhalur,Nandgaon,20.4011,74.6211,520.0,VALID,Passed physical elevation terrain checks
+1603,Bhardi,Nandgaon,20.3522,74.5844,520.0,VALID,Passed physical elevation terrain checks
+1604,Bhauri,Nandgaon,20.3811,74.6011,520.0,VALID,Passed physical elevation terrain checks
+1605,Birole,Nandgaon,20.3211,74.5211,520.0,VALID,Passed physical elevation terrain checks
+1606,Bolthan,Nandgaon,20.1921,74.9086,520.0,VALID,Passed physical elevation terrain checks
+1607,Borale,Nandgaon,20.3511,74.5822,520.0,VALID,Passed physical elevation terrain checks
+1608,Boygaon,Nandgaon,20.3411,74.5511,520.0,VALID,Passed physical elevation terrain checks
+1609,Chandore,Nandgaon,20.3822,74.6111,520.0,VALID,Passed physical elevation terrain checks
+1610,Chinchvihir,Nandgaon,20.3622,74.6311,520.0,VALID,Passed physical elevation terrain checks
+1611,Dahegaon,Nandgaon,20.4111,74.5211,520.0,VALID,Passed physical elevation terrain checks
+1612,Darhel,Nandgaon,20.3811,74.5811,520.0,VALID,Passed physical elevation terrain checks
+1613,Dhaner,Nandgaon,20.3222,74.5422,520.0,VALID,Passed physical elevation terrain checks
+1614,Dheku Kd.,Nandgaon,20.3511,74.5911,520.0,VALID,Passed physical elevation terrain checks
+1615,Dhotane Bk.,Nandgaon,20.3922,74.6011,520.0,VALID,Passed physical elevation terrain checks
+1616,Dhotane Kh.,Nandgaon,20.3955,74.6122,520.0,VALID,Passed physical elevation terrain checks
+1617,Ekawai,Nandgaon,20.4011,74.5511,520.0,VALID,Passed physical elevation terrain checks
+1618,Fulenagar,Nandgaon,20.3822,74.5844,520.0,VALID,Passed physical elevation terrain checks
+1619,Gangadhari,Nandgaon,20.3111,74.4822,520.0,VALID,Passed physical elevation terrain checks
+1620,Girnanagar,Nandgaon,20.3411,74.5111,520.0,VALID,Passed physical elevation terrain checks
+1621,Gondegaon,Nandgaon,20.3511,74.5511,520.0,VALID,Passed physical elevation terrain checks
+1622,Higane Dehare,Nandgaon,20.3211,74.4522,520.0,VALID,Passed physical elevation terrain checks
+1623,Hinganwadi,Nandgaon,20.3811,74.5211,520.0,VALID,Passed physical elevation terrain checks
+1624,Hirenagar,Nandgaon,20.3911,74.5811,520.0,VALID,Passed physical elevation terrain checks
+1625,Hiswal Bk.,Nandgaon,20.6334,74.7932,520.0,VALID,Passed physical elevation terrain checks
+1626,Hiswal Kh.,Nandgaon,20.6211,74.7811,520.0,VALID,Passed physical elevation terrain checks
+1627,Jalgaon Bk.,Nandgaon,20.2511,74.8822,520.0,VALID,Passed physical elevation terrain checks
+1628,Jalgaon Kh.,Nandgaon,20.2588,74.8911,520.0,VALID,Passed physical elevation terrain checks
+1629,Jamdhri,Nandgaon,20.3111,74.5511,520.0,VALID,Passed physical elevation terrain checks
+1630,Jategaon,Nandgaon,20.229,74.8736,520.0,VALID,Passed physical elevation terrain checks
+1631,Jawalki,Nandgaon,20.3411,74.6111,520.0,VALID,Passed physical elevation terrain checks
+1632,Kalamdari,Nandgaon,20.3511,74.5822,520.0,VALID,Passed physical elevation terrain checks
+1633,Karhi,Nandgaon,20.3822,74.5211,520.0,VALID,Passed physical elevation terrain checks
+1634,Kasabkheda,Nandgaon,20.3911,74.5511,520.0,VALID,Passed physical elevation terrain checks
+1635,Kasari,Nandgaon,20.3111,74.5111,520.0,VALID,Passed physical elevation terrain checks
+1636,Khadgaon,Nandgaon,20.3411,74.5811,520.0,VALID,Passed physical elevation terrain checks
+1637,Khirdi Patode,Nandgaon,20.3511,74.6122,520.0,VALID,Passed physical elevation terrain checks
+1638,Kondhar,Nandgaon,20.3822,74.5844,520.0,VALID,Passed physical elevation terrain checks
+1639,Krantinagar,Nandgaon,20.3911,74.6011,520.0,VALID,Passed physical elevation terrain checks
+1640,Kusumtel,Nandgaon,20.3111,74.4522,520.0,VALID,Passed physical elevation terrain checks
+1641,Laxminagar,Nandgaon,20.3411,74.5211,520.0,VALID,Passed physical elevation terrain checks
+1642,Lodhare,Nandgaon,20.2541,74.92,520.0,VALID,Passed physical elevation terrain checks
+1643,Lohshingve,Nandgaon,20.3511,74.5511,520.0,VALID,Passed physical elevation terrain checks
+1644,Malegaon (K),Nandgaon,20.5576,74.5247,520.0,VALID,Passed physical elevation terrain checks
+1645,Malgaon,Nandgaon,20.4566,74.6404,520.0,VALID,Passed physical elevation terrain checks
+1646,Malharwadi,Nandgaon,20.3811,74.5822,520.0,VALID,Passed physical elevation terrain checks
+1647,Mandwad,Nandgaon,20.3911,74.6111,520.0,VALID,Passed physical elevation terrain checks
+1648,Manglane,Nandgaon,20.3111,74.4822,520.0,VALID,Passed physical elevation terrain checks
+1649,Manikpunj,Nandgaon,20.3411,74.5111,520.0,VALID,Passed physical elevation terrain checks
+1650,Mohegaon,Nandgaon,20.3511,74.5511,520.0,VALID,Passed physical elevation terrain checks
+1651,Morzar,Nandgaon,20.3811,74.5844,520.0,VALID,Passed physical elevation terrain checks
+1652,Muldongri,Nandgaon,20.3911,74.6011,520.0,VALID,Passed physical elevation terrain checks
+1653,Nagapur,Nandgaon,20.3111,74.4522,520.0,VALID,Passed physical elevation terrain checks
+1654,Nandur,Nandgaon,20.3211,74.4822,520.0,VALID,Passed physical elevation terrain checks
+1655,Navsari,Nandgaon,20.3411,74.5111,520.0,VALID,Passed physical elevation terrain checks
+1656,Naydongri,Nandgaon,20.35,74.8322,520.0,VALID,Passed physical elevation terrain checks
+1657,New Panzan,Nandgaon,20.3511,74.5511,520.0,VALID,Passed physical elevation terrain checks
+1658,Palashi,Nandgaon,20.3811,74.5844,520.0,VALID,Passed physical elevation terrain checks
+1659,Panewadi,Nandgaon,20.3911,74.6011,520.0,VALID,Passed physical elevation terrain checks
+1660,Panzandev,Nandgaon,20.3111,74.4522,520.0,VALID,Passed physical elevation terrain checks
+1661,Pardhadi,Nandgaon,20.3411,74.5211,520.0,VALID,Passed physical elevation terrain checks
+1662,Pimparkhed,Nandgaon,20.3086,74.7829,520.0,VALID,Passed physical elevation terrain checks
+1663,Pimprale,Nandgaon,20.3511,74.5511,520.0,VALID,Passed physical elevation terrain checks
+1664,Pimprihaveli,Nandgaon,20.3811,74.5822,520.0,VALID,Passed physical elevation terrain checks
+1665,Pokhari Patode,Nandgaon,20.3911,74.6111,520.0,VALID,Passed physical elevation terrain checks
+1666,Rankheda,Nandgaon,20.3111,74.4822,520.0,VALID,Passed physical elevation terrain checks
+1667,Rohile (Bk),Nandgaon,20.3411,74.5111,520.0,VALID,Passed physical elevation terrain checks
+1668,Sakora,Nandgaon,20.3511,74.5511,520.0,VALID,Passed physical elevation terrain checks
+1669,Satane,Nandgaon,20.3811,74.5844,520.0,VALID,Passed physical elevation terrain checks
+1670,Sawargaon,Nandgaon,20.377,74.7941,520.0,VALID,Passed physical elevation terrain checks
+1671,Shashrinagar,Nandgaon,20.3911,74.6011,520.0,VALID,Passed physical elevation terrain checks
+1672,Shriramnagar,Nandgaon,20.3111,74.4522,520.0,VALID,Passed physical elevation terrain checks
+1673,Soyegaon,Nandgaon,20.3411,74.5211,520.0,VALID,Passed physical elevation terrain checks
+1674,Takali Bk.,Nandgaon,20.3511,74.5511,520.0,VALID,Passed physical elevation terrain checks
+1675,Takali Kh.,Nandgaon,20.3622,74.5611,520.0,VALID,Passed physical elevation terrain checks
+1676,Talwade,Nandgaon,20.3977,74.7498,520.0,VALID,Passed physical elevation terrain checks
+1677,Tandulwadi,Nandgaon,20.3811,74.5822,520.0,VALID,Passed physical elevation terrain checks
+1678,Vahelgaon,Nandgaon,20.3911,74.6111,520.0,VALID,Passed physical elevation terrain checks
+1679,Vanjarwadi,Nandgaon,20.3111,74.4822,520.0,VALID,Passed physical elevation terrain checks
+1680,Wadali Bk.,Nandgaon,20.3411,74.5111,520.0,VALID,Passed physical elevation terrain checks
+1681,Wadali Kh.,Nandgaon,20.3511,74.5211,520.0,VALID,Passed physical elevation terrain checks
+1682,Wakhari,Nandgaon,20.3811,74.5844,520.0,VALID,Passed physical elevation terrain checks
+1683,Ambebahula,Nashik,19.9122,73.7111,600.0,VALID,Passed physical elevation terrain checks
+1684,Belatgavhan,Nashik,19.9311,73.7544,600.0,VALID,Passed physical elevation terrain checks
+1685,Belgaon Dhaga,Nashik,19.9678,73.6889,600.0,VALID,Passed physical elevation terrain checks
+1686,Chandgiri,Nashik,19.9822,73.8544,600.0,VALID,Passed physical elevation terrain checks
+1687,Chandshi,Nashik,20.0284,73.7429,600.0,VALID,Passed physical elevation terrain checks
+1688,Dahegaon,Nashik,19.9511,73.9111,600.0,VALID,Passed physical elevation terrain checks
+1689,Dari,Nashik,20.0522,73.7111,600.0,VALID,Passed physical elevation terrain checks
+1690,Devargaon,Nashik,20.0111,73.6522,600.0,VALID,Passed physical elevation terrain checks
+1691,Dhondegaon,Nashik,20.0822,73.6811,600.0,VALID,Passed physical elevation terrain checks
+1692,Donwade,Nashik,20.0311,73.6922,600.0,VALID,Passed physical elevation terrain checks
+1693,Dudgaon,Nashik,20.0911,73.7511,600.0,VALID,Passed physical elevation terrain checks
+1694,Dugaon,Nashik,20.073,73.6857,600.0,VALID,Passed physical elevation terrain checks
+1695,Eklahare,Nashik,19.9722,73.8811,600.0,VALID,Passed physical elevation terrain checks
+1696,Ganeshgaon N.,Nashik,20.0111,73.6122,600.0,VALID,Passed physical elevation terrain checks
+1697,Ganeshgaon T.,Nashik,19.9811,73.6811,600.0,VALID,Passed physical elevation terrain checks
+1698,Gangamhalungi,Nashik,20.0511,73.6522,600.0,VALID,Passed physical elevation terrain checks
+1699,Gangavarhe,Nashik,20.0119,73.6734,600.0,VALID,Passed physical elevation terrain checks
+1700,Gaulane,Nashik,19.9061,73.7408,600.0,VALID,Passed physical elevation terrain checks
+1701,Girnare,Nashik,20.0737,73.6612,605.0,VALID,Passed physical elevation terrain checks
+1702,Govardhan,Nashik,19.9972,73.6841,595.0,VALID,Passed physical elevation terrain checks
+1703,Hinganwedhe,Nashik,19.9231,73.6934,602.0,VALID,Passed physical elevation terrain checks
+1704,Indira Nagar,Nashik,19.9734,73.7812,590.0,VALID,Passed physical elevation terrain checks
+1705,Jakhori,Nashik,20.0152,73.9143,585.0,VALID,Passed physical elevation terrain checks
+1706,Jalalpur,Nashik,20.0381,73.7431,612.0,VALID,Passed physical elevation terrain checks
+1707,Jategaon,Nashik,19.9237,73.6484,615.0,VALID,Passed physical elevation terrain checks
+1708,Kalavi,Nashik,20.1042,73.6451,622.0,VALID,Passed physical elevation terrain checks
+1709,Kotamgaon,Nashik,20.1474,74.2051,570.0,VALID,Passed physical elevation terrain checks
+1710,Ladchi,Nashik,20.0831,73.6952,618.0,VALID,Passed physical elevation terrain checks
+1711,Lahvit,Nashik,19.8514,73.815,590.0,VALID,Passed physical elevation terrain checks
+1712,Lakhalgaon,Nashik,19.9986,73.9213,582.0,VALID,Passed physical elevation terrain checks
+1713,Lohshingve,Nashik,19.9821,73.9242,582.0,VALID,Passed physical elevation terrain checks
+1714,Madsangvi,Nashik,20.0241,73.9213,580.0,VALID,Passed physical elevation terrain checks
+1715,Mahadeopur,Nashik,19.9832,73.7121,610.0,VALID,Passed physical elevation terrain checks
+1716,Mahirawani,Nashik,20.0112,73.6732,615.0,VALID,Passed physical elevation terrain checks
+1717,Matori,Nashik,20.0531,73.7742,602.0,VALID,Passed physical elevation terrain checks
+1718,Mohagaon,Nashik,20.0142,73.6531,618.0,VALID,Passed physical elevation terrain checks
+1719,Mungsara,Nashik,20.0821,73.6832,625.0,VALID,Passed physical elevation terrain checks
+1720,Nagalwadi,Nashik,20.0952,73.6241,630.0,VALID,Passed physical elevation terrain checks
+1721,Naikwadi,Nashik,20.1066,73.6424,622.0,VALID,Passed physical elevation terrain checks
+1722,Nanegaon,Nashik,19.9312,73.7541,598.0,VALID,Passed physical elevation terrain checks
+1723,Odha,Nashik,20.0177,73.9132,585.0,VALID,Passed physical elevation terrain checks
+1724,Ozerkhede,Nashik,20.2581,73.9542,575.0,VALID,Passed physical elevation terrain checks
+1725,Palse,Nashik,19.9231,73.8542,588.0,VALID,Passed physical elevation terrain checks
+1726,Pimpalgaon,Nashik,19.7098,73.6877,625.0,VALID,Passed physical elevation terrain checks
+1727,Pimplad N.,Nashik,19.9648,73.5284,645.0,VALID,Passed physical elevation terrain checks
+1728,Pimpri Sayyad,Nashik,20.0412,73.8821,590.0,VALID,Passed physical elevation terrain checks
+1729,Rahuri,Nashik,19.9142,73.8111,595.0,VALID,Passed physical elevation terrain checks
+1730,Raigadnagar,Nashik,20.1062,73.6431,625.0,VALID,Passed physical elevation terrain checks
+1731,Rajewadi,Nashik,20.0321,73.7442,610.0,VALID,Passed physical elevation terrain checks
+1732,Rajur Bahula,Nashik,19.9061,73.7422,615.0,VALID,Passed physical elevation terrain checks
+1733,Sadgaon,Nashik,20.0953,73.6249,630.0,VALID,Passed physical elevation terrain checks
+1734,Samangaon,Nashik,19.9672,73.8831,585.0,VALID,Passed physical elevation terrain checks
+1735,Sansari,Nashik,19.9062,73.8383,588.0,VALID,Passed physical elevation terrain checks
+1736,Sarul,Nashik,19.9021,73.8342,590.0,VALID,Passed physical elevation terrain checks
+1737,Shewge Darna,Nashik,19.9122,73.8911,585.0,VALID,Passed physical elevation terrain checks
+1738,Shilapur,Nashik,19.9963,73.8994,582.0,VALID,Passed physical elevation terrain checks
+1739,Shinde,Nashik,19.9167,73.8983,585.0,VALID,Passed physical elevation terrain checks
+1740,Shivagaon,Nashik,20.0521,73.7132,612.0,VALID,Passed physical elevation terrain checks
+1741,Subhashnagar,Nashik,20.0341,74.0112,570.0,VALID,Passed physical elevation terrain checks
+1742,Talegaon Anjaneri,Nashik,19.9421,73.5732,645.0,VALID,Passed physical elevation terrain checks
+1743,Tridshet,Nashik,19.9982,73.6821,598.0,VALID,Passed physical elevation terrain checks
+1744,Vadgaon,Nashik,20.0131,73.7542,605.0,VALID,Passed physical elevation terrain checks
+1745,Vanjarwadi,Nashik,20.0241,73.8511,592.0,VALID,Passed physical elevation terrain checks
+1746,Vilholi,Nashik,19.9163,73.7178,608.0,VALID,Passed physical elevation terrain checks
+1747,Ahergaon,Niphad,20.1621,74.2042,575.0,VALID,Passed physical elevation terrain checks
+1748,Antwerli,Niphad,20.0631,73.9542,582.0,VALID,Passed physical elevation terrain checks
+1749,Aurangpur,Niphad,20.0812,74.2821,565.0,VALID,Passed physical elevation terrain checks
+1750,Berwadi (Ramnagar),Niphad,20.1412,74.2531,568.0,VALID,Passed physical elevation terrain checks
+1751,Bharvas,Niphad,19.9912,74.1432,578.0,VALID,Passed physical elevation terrain checks
+1752,Bhed,Niphad,20.0142,74.0931,580.0,VALID,Passed physical elevation terrain checks
+1753,Bhendali,Niphad,19.9717,74.0612,585.0,VALID,Passed physical elevation terrain checks
+1754,Bhuse,Niphad,19.9998,74.094,580.0,VALID,Passed physical elevation terrain checks
+1755,Bokadadare,Niphad,20.0152,74.1532,575.0,VALID,Passed physical elevation terrain checks
+1756,Bramhangaon (Vanas),Niphad,20.1571,74.1424,570.0,VALID,Passed physical elevation terrain checks
+1757,Bramhangaon Vinchor,Niphad,20.1541,74.2342,565.0,VALID,Passed physical elevation terrain checks
+1758,Chandori,Niphad,20.0233,73.9991,585.0,VALID,Passed physical elevation terrain checks
+1759,Chappadgaon,Niphad,20.0231,74.2211,562.0,VALID,Passed physical elevation terrain checks
+1760,Chatori,Niphad,20.0212,74.0411,585.0,VALID,Passed physical elevation terrain checks
+1761,Chitegaon,Niphad,19.9721,73.9532,590.0,VALID,Passed physical elevation terrain checks
+1762,Darana Sangvi,Niphad,20.0131,73.9142,588.0,VALID,Passed physical elevation terrain checks
+1763,Datyan,Niphad,20.1312,74.2811,565.0,VALID,Passed physical elevation terrain checks
+1764,Dawachwadi,Niphad,20.0412,74.2422,568.0,VALID,Passed physical elevation terrain checks
+1765,Deogaon,Niphad,20.0276,74.2615,565.0,VALID,Passed physical elevation terrain checks
+1766,Deopur,Niphad,20.1812,74.1132,570.0,VALID,Passed physical elevation terrain checks
+1767,Dharangaon Khadak,Niphad,20.1531,74.1211,570.0,VALID,Passed physical elevation terrain checks
+1768,Dharangaon Veer,Niphad,20.0241,74.2412,565.0,VALID,Passed physical elevation terrain checks
+1769,Dindori,Niphad,20.0305,74.1476,575.0,VALID,Passed physical elevation terrain checks
+1770,DIXI,Niphad,20.0412,73.9621,588.0,VALID,Passed physical elevation terrain checks
+1771,Dongargaon,Niphad,20.1342,74.0531,575.0,VALID,Passed physical elevation terrain checks
+1772,Gajarwadi,Niphad,20.0414,74.1658,572.0,VALID,Passed physical elevation terrain checks
+1773,Godegaon,Niphad,20.1211,74.3121,560.0,VALID,Passed physical elevation terrain checks
+1774,Gondegaon,Niphad,20.0342,74.1921,568.0,VALID,Passed physical elevation terrain checks
+1775,Gorthan,Niphad,20.0811,74.0842,580.0,VALID,Passed physical elevation terrain checks
+1776,Grampanchayat Varhedarana,Niphad,20.0321,73.9431,590.0,VALID,Passed physical elevation terrain checks
+1777,Hanumannagar,Niphad,20.1412,74.3021,562.0,VALID,Passed physical elevation terrain checks
+1778,Jalgaon,Niphad,20.0648,74.112,580.0,VALID,Passed physical elevation terrain checks
+1779,Jiwahle,Niphad,20.0521,74.2412,568.0,VALID,Passed physical elevation terrain checks
+1780,Kanlad,Niphad,19.9663,74.2731,560.0,VALID,Passed physical elevation terrain checks
+1781,Karanjgaon,Niphad,20.016,74.0739,582.0,VALID,Passed physical elevation terrain checks
+1782,Karanj Kd.,Niphad,20.0812,74.0812,580.0,VALID,Passed physical elevation terrain checks
+1783,Karsul,Niphad,20.1415,74.0302,578.0,VALID,Passed physical elevation terrain checks
+1784,Kathargaon,Niphad,20.0385,74.1158,575.0,VALID,Passed physical elevation terrain checks
+1785,Khadakmalegaon,Niphad,20.1612,74.1611,572.0,VALID,Passed physical elevation terrain checks
+1786,Khangaon Tadi,Niphad,19.9912,74.1242,580.0,VALID,Passed physical elevation terrain checks
+1787,Khede,Niphad,20.1112,74.0431,582.0,VALID,Passed physical elevation terrain checks
+1788,Khedle Zunge,Niphad,20.0531,74.3211,560.0,VALID,Passed physical elevation terrain checks
+1789,Kherwadi (Narayangaon),Niphad,20.0421,74.0111,588.0,VALID,Passed physical elevation terrain checks
+1790,Kokangaon,Niphad,20.0811,73.9721,590.0,VALID,Passed physical elevation terrain checks
+1791,Kolgaon,Niphad,20.1412,74.1131,572.0,VALID,Passed physical elevation terrain checks
+1792,Kolwadi (Shriramnagar),Niphad,20.0321,74.1431,578.0,VALID,Passed physical elevation terrain checks
+1793,Kotamgaon,Niphad,20.1474,74.2051,570.0,VALID,Passed physical elevation terrain checks
+1794,Kothure,Niphad,20.0461,74.0753,582.0,VALID,Passed physical elevation terrain checks
+1795,K.Sukane,Niphad,20.0821,74.0321,585.0,VALID,Passed physical elevation terrain checks
+1796,Kumbhari,Niphad,20.1111,74.2842,565.0,VALID,Passed physical elevation terrain checks
+1797,Kundewadi,Niphad,20.1311,74.1142,575.0,VALID,Passed physical elevation terrain checks
+1798,Kundewadi,Niphad,20.1311,74.1142,575.0,VALID,Passed physical elevation terrain checks
+1799,Kundewadi,Niphad,20.1311,74.1142,575.0,VALID,Passed physical elevation terrain checks
+1800,Kundewadi,Niphad,20.1311,74.1142,575.0,VALID,Passed physical elevation terrain checks
+1801,Kurudgaon,Niphad,20.0449,74.0946,585.0,VALID,Passed physical elevation terrain checks
+1802,Lalpadi,Niphad,20.0611,74.1422,578.0,VALID,Passed physical elevation terrain checks
+1803,Lasalgaon,Niphad,20.1426,74.2377,570.0,VALID,Passed physical elevation terrain checks
+1804,Lonwadee,Niphad,20.0421,74.1411,575.0,VALID,Passed physical elevation terrain checks
+1805,Mahajanpur,Niphad,20.1541,74.1611,572.0,VALID,Passed physical elevation terrain checks
+1806,Mahalsakore,Niphad,20.0411,74.2142,568.0,VALID,Passed physical elevation terrain checks
+1807,Manjargaon,Niphad,19.9977,74.1163,582.0,VALID,Passed physical elevation terrain checks
+1808,Maralgoi Bk,Niphad,20.1611,74.1121,575.0,VALID,Passed physical elevation terrain checks
+1809,Maralgoi Kd,Niphad,20.1542,74.1121,575.0,VALID,Passed physical elevation terrain checks
+1810,M.Sukane,Niphad,20.0811,74.0342,580.0,VALID,Passed physical elevation terrain checks
+1811,Mukhed,Niphad,20.0091,74.3224,562.0,VALID,Passed physical elevation terrain checks
+1812,Naitale,Niphad,20.0689,74.1664,570.0,VALID,Passed physical elevation terrain checks
+1813,Nandgaon,Niphad,20.3094,74.6597,520.0,VALID,Passed physical elevation terrain checks
+1814,Nandurdi,Niphad,20.1242,74.1841,572.0,VALID,Passed physical elevation terrain checks
+1815,Nandur Kd,Niphad,20.0128,74.1542,575.0,VALID,Passed physical elevation terrain checks
+1816,Nandur M.,Niphad,20.0128,74.1542,575.0,VALID,Passed physical elevation terrain checks
+1817,Narayan T.,Niphad,19.99,73.7827,600.0,VALID,Passed physical elevation terrain checks
+1818,Nimgaon V.,Niphad,19.9905,74.4238,450.0,VALID,Passed physical elevation terrain checks
+1819,Oney,Niphad,20.1511,74.2521,565.0,VALID,Passed physical elevation terrain checks
+1820,Pachore Bk,Niphad,20.1812,74.2111,568.0,VALID,Passed physical elevation terrain checks
+1821,Pachore Kd,Niphad,20.1711,74.2042,570.0,VALID,Passed physical elevation terrain checks
+1822,Pachore Vani,Niphad,19.1911,74.2142,565.0,VALID,Passed physical elevation terrain checks
+1823,Palkhed,Niphad,20.1531,73.9221,590.0,VALID,Passed physical elevation terrain checks
+1824,Panchakeshor,Niphad,20.0412,73.9932,585.0,VALID,Passed physical elevation terrain checks
+1825,Pimpalgaon Najik,Niphad,20.1411,74.1842,572.0,VALID,Passed physical elevation terrain checks
+1826,Pimpalgaon Nipani,Niphad,20.1621,74.1541,575.0,VALID,Passed physical elevation terrain checks
+1827,Pimplas,Niphad,20.0811,74.1121,580.0,VALID,Passed physical elevation terrain checks
+1828,Pimpri,Niphad,20.0969,74.0633,582.0,VALID,Passed physical elevation terrain checks
+1829,Ranwad,Niphad,20.1242,74.1911,570.0,VALID,Passed physical elevation terrain checks
+1830,Rasalpur,Niphad,20.0411,74.2321,565.0,VALID,Passed physical elevation terrain checks
+1831,Raulas,Niphad,20.0969,74.0633,582.0,VALID,Passed physical elevation terrain checks
+1832,Redgaon,Niphad,20.1432,74.1521,575.0,VALID,Passed physical elevation terrain checks
+1833,Rui,Niphad,20.0212,74.2337,562.0,VALID,Passed physical elevation terrain checks
+1834,Saikheda,Niphad,20.0161,74.009,585.0,VALID,Passed physical elevation terrain checks
+1835,Sakore,Niphad,20.1481,73.9426,595.0,VALID,Passed physical elevation terrain checks
+1836,Sarole Kd.,Niphad,20.0121,74.0132,585.0,VALID,Passed physical elevation terrain checks
+1837,Sarole Thadi,Niphad,20.0231,74.0241,582.0,VALID,Passed physical elevation terrain checks
+1838,Savargaon,Niphad,20.0117,73.6779,615.0,VALID,Passed physical elevation terrain checks
+1839,Shimpi Takli,Niphad,20.1111,74.2011,570.0,VALID,Passed physical elevation terrain checks
+1840,Shingve,Niphad,20.1412,74.1011,585.0,VALID,Passed physical elevation terrain checks
+1841,Shirasgaon,Niphad,20.0898,73.3945,690.0,VALID,Passed physical elevation terrain checks
+1842,Shirvare,Niphad,20.1012,74.2811,560.0,VALID,Passed physical elevation terrain checks
+1843,Shirwade Vani,Niphad,20.0811,74.0521,585.0,VALID,Passed physical elevation terrain checks
+1844,Shirwade Wakad,Niphad,20.0911,74.2142,568.0,VALID,Passed physical elevation terrain checks
+1845,Shivadi,Niphad,20.1112,74.1142,580.0,VALID,Passed physical elevation terrain checks
+1846,Sonewadi Bk,Niphad,20.1042,74.1358,575.0,VALID,Passed physical elevation terrain checks
+1847,Sonewadi Kd,Niphad,20.1042,74.1358,575.0,VALID,Passed physical elevation terrain checks
+1848,Songaon,Niphad,20.1241,74.0811,585.0,VALID,Passed physical elevation terrain checks
+1849,Subhasnagar,Niphad,20.0431,74.0811,582.0,VALID,Passed physical elevation terrain checks
+1850,Sundarpur,Niphad,20.0811,74.3121,560.0,VALID,Passed physical elevation terrain checks
+1851,Takali Vinchor,Niphad,20.1541,74.2521,565.0,VALID,Passed physical elevation terrain checks
+1852,Talwade,Niphad,20.3976,74.7497,510.0,VALID,Passed physical elevation terrain checks
+1853,Tamaswadi,Niphad,20.1711,74.1611,570.0,VALID,Passed physical elevation terrain checks
+1854,Tarukhedle,Niphad,20.0521,74.3311,560.0,VALID,Passed physical elevation terrain checks
+1855,Thergaon,Niphad,20.1112,74.3121,560.0,VALID,Passed physical elevation terrain checks
+1856,Thetale,Niphad,20.0611,74.0242,585.0,VALID,Passed physical elevation terrain checks
+1857,Ugaon,Niphad,20.1234,74.1396,578.0,VALID,Passed physical elevation terrain checks
+1858,Umberkhed,Niphad,20.1555,73.9688,590.0,VALID,Passed physical elevation terrain checks
+1859,Vahegaon,Niphad,20.1231,74.1141,582.0,VALID,Passed physical elevation terrain checks
+1860,Vakad,Niphad,20.1012,74.2211,568.0,VALID,Passed physical elevation terrain checks
+1861,Vanasgaon,Niphad,20.0431,74.2842,560.0,VALID,Passed physical elevation terrain checks
+1862,Vdali Najik,Niphad,20.1541,74.1841,570.0,VALID,Passed physical elevation terrain checks
+1863,Velapur,Niphad,20.0211,74.3121,560.0,VALID,Passed physical elevation terrain checks
+1864,Vinchur,Niphad,20.1053,74.2252,565.0,VALID,Passed physical elevation terrain checks
+1865,Vishnunagar,Niphad,20.0411,74.2411,565.0,VALID,Passed physical elevation terrain checks
+1866,Wavi,Niphad,19.8039,74.2489,560.0,VALID,Passed physical elevation terrain checks
+1867,Aad (B),Peth,20.2111,73.5411,680.0,VALID,Passed physical elevation terrain checks
+1868,Adgaon (B),Peth,20.0251,73.413,710.0,VALID,Passed physical elevation terrain checks
+1869,Ambe,Peth,20.3776,73.5084,690.0,VALID,Passed physical elevation terrain checks
+1870,Amloan,Peth,20.3122,73.5111,695.0,VALID,Passed physical elevation terrain checks
+1871,Andhrute,Peth,20.2411,73.5242,685.0,VALID,Passed physical elevation terrain checks
+1872,Asarbari,Peth,20.1811,73.4922,720.0,VALID,Passed physical elevation terrain checks
+1873,Badgi,Peth,20.2511,73.5822,665.0,VALID,Passed physical elevation terrain checks
+1874,Bhaygaon,Peth,20.1993,73.5837,670.0,VALID,Passed physical elevation terrain checks
+1875,Bhuvan,Peth,20.2811,73.5042,690.0,VALID,Passed physical elevation terrain checks
+1876,Borvat,Peth,20.3011,73.5511,685.0,VALID,Passed physical elevation terrain checks
+1877,Cholmukh,Peth,20.3142,73.5821,670.0,VALID,Passed physical elevation terrain checks
+1878,Deogaon,Peth,20.2111,73.5242,690.0,VALID,Passed physical elevation terrain checks
+1879,Devichamal,Peth,20.3211,73.5642,675.0,VALID,Passed physical elevation terrain checks
+1880,Dhanpada,Peth,20.2911,73.5911,665.0,VALID,Passed physical elevation terrain checks
+1881,Dhondmal,Peth,20.2111,73.5111,710.0,VALID,Passed physical elevation terrain checks
+1882,Dolharmal,Peth,20.1911,73.4911,725.0,VALID,Passed physical elevation terrain checks
+1883,Donawade,Peth,20.3411,73.5411,690.0,VALID,Passed physical elevation terrain checks
+1884,Ekdare,Peth,20.2111,73.5111,710.0,VALID,Passed physical elevation terrain checks
+1885,Gangodbari,Peth,20.2411,73.5222,690.0,VALID,Passed physical elevation terrain checks
+1886,Gavandha,Peth,20.2811,73.5411,685.0,VALID,Passed physical elevation terrain checks
+1887,Ghanshet,Peth,20.3122,73.5522,680.0,VALID,Passed physical elevation terrain checks
+1888,Gonde,Peth,20.3211,73.5111,700.0,VALID,Passed physical elevation terrain checks
+1889,Hanumannager,Peth,20.3511,73.5422,685.0,VALID,Passed physical elevation terrain checks
+1890,Hanumantpada,Peth,20.2111,73.4911,730.0,VALID,Passed physical elevation terrain checks
+1891,Harangaon,Peth,20.2411,73.5111,700.0,VALID,Passed physical elevation terrain checks
+1892,Hatrundi,Peth,20.2811,73.5842,665.0,VALID,Passed physical elevation terrain checks
+1893,Jale,Peth,20.2838,73.5038,695.0,VALID,Passed physical elevation terrain checks
+1894,Jambhulmal,Peth,20.3122,73.5411,685.0,VALID,Passed physical elevation terrain checks
+1895,Jambvihir,Peth,20.3411,73.5111,705.0,VALID,Passed physical elevation terrain checks
+1896,Jogmodi,Peth,20.3264,73.5681,672.0,VALID,Passed physical elevation terrain checks
+1897,Junothi,Peth,20.2111,73.4922,730.0,VALID,Passed physical elevation terrain checks
+1898,Kahandolpada,Peth,20.2411,73.5411,690.0,VALID,Passed physical elevation terrain checks
+1899,Kalambari,Peth,20.2811,73.5642,680.0,VALID,Passed physical elevation terrain checks
+1900,Kapurne,Peth,20.3122,73.5111,700.0,VALID,Passed physical elevation terrain checks
+1901,Karanjali,Peth,20.2467,73.5845,680.0,VALID,Passed physical elevation terrain checks
+1902,Karanjkhed,Peth,20.2541,73.5822,685.0,VALID,Passed physical elevation terrain checks
+1903,Kayre,Peth,20.2811,73.5411,700.0,VALID,Passed physical elevation terrain checks
+1904,Kharpadi,Peth,20.1857,73.4305,715.0,VALID,Passed physical elevation terrain checks
+1905,Khirkide,Peth,20.3122,73.5511,690.0,VALID,Passed physical elevation terrain checks
+1906,Khokartale,Peth,20.2411,73.5242,690.0,VALID,Passed physical elevation terrain checks
+1907,Kohor,Peth,20.1789,73.5919,670.0,VALID,Passed physical elevation terrain checks
+1908,Kopurli (B),Peth,20.3144,73.5499,685.0,VALID,Passed physical elevation terrain checks
+1909,Kopurli (Kh),Peth,20.3144,73.5499,685.0,VALID,Passed physical elevation terrain checks
+1910,Kotambi,Peth,20.1811,73.4922,725.0,VALID,Passed physical elevation terrain checks
+1911,Kulwandi,Peth,20.1382,73.5361,695.0,VALID,Passed physical elevation terrain checks
+1912,Kumbhale,Peth,20.2511,73.5822,685.0,VALID,Passed physical elevation terrain checks
+1913,Kumbharbari,Peth,20.3122,73.5111,705.0,VALID,Passed physical elevation terrain checks
+1914,Lingawane,Peth,20.2411,73.5242,690.0,VALID,Passed physical elevation terrain checks
+1915,Malegaon,Peth,20.2511,73.5822,685.0,VALID,Passed physical elevation terrain checks
+1916,Mangone,Peth,20.2811,73.5411,700.0,VALID,Passed physical elevation terrain checks
+1917,Mankapur,Peth,20.3122,73.5511,690.0,VALID,Passed physical elevation terrain checks
+1918,Mhasgan,Peth,20.2111,73.5242,690.0,VALID,Passed physical elevation terrain checks
+1919,Nachalondhi,Peth,20.3142,73.5821,680.0,VALID,Passed physical elevation terrain checks
+1920,Nirgude,Peth,20.2111,73.5242,690.0,VALID,Passed physical elevation terrain checks
+1921,Pahuchibari,Peth,20.2511,73.5822,685.0,VALID,Passed physical elevation terrain checks
+1922,Pate,Peth,20.2811,73.5411,700.0,VALID,Passed physical elevation terrain checks
+1923,Pimpalwati,Peth,20.3122,73.5511,690.0,VALID,Passed physical elevation terrain checks
+1924,Rajbari,Peth,20.3411,73.5111,705.0,VALID,Passed physical elevation terrain checks
+1925,Ranvihir,Peth,20.2111,73.5111,710.0,VALID,Passed physical elevation terrain checks
+1926,Ruipetha,Peth,20.3122,73.5411,690.0,VALID,Passed physical elevation terrain checks
+1927,Savalghat,Peth,20.1911,73.4911,725.0,VALID,Passed physical elevation terrain checks
+1928,Shevkhandi,Peth,20.3411,73.5411,695.0,VALID,Passed physical elevation terrain checks
+1929,Shinde,Peth,20.2111,73.5111,710.0,VALID,Passed physical elevation terrain checks
+1930,Shingadari,Peth,20.2411,73.5222,690.0,VALID,Passed physical elevation terrain checks
+1931,Shivshet,Peth,20.2811,73.5411,700.0,VALID,Passed physical elevation terrain checks
+1932,Surgane,Peth,20.3187,73.5144,710.0,VALID,Passed physical elevation terrain checks
+1933,Tirde,Peth,20.3122,73.5522,680.0,VALID,Passed physical elevation terrain checks
+1934,Tondwal,Peth,20.3211,73.5111,700.0,VALID,Passed physical elevation terrain checks
+1935,Umbarpada (Kh),Peth,20.3511,73.5422,690.0,VALID,Passed physical elevation terrain checks
+1936,Umberdahad,Peth,20.2111,73.4911,730.0,VALID,Passed physical elevation terrain checks
+1937,Umbrad,Peth,20.2411,73.5111,700.0,VALID,Passed physical elevation terrain checks
+1938,Usthale,Peth,20.2811,73.5842,665.0,VALID,Passed physical elevation terrain checks
+1939,Wangani,Peth,20.2411,73.5222,690.0,VALID,Passed physical elevation terrain checks
+1940,Adwadi,Sinnar,19.8511,74.0242,612.0,VALID,Passed physical elevation terrain checks
+1941,Agaskhind,Sinnar,19.9421,74.0411,610.0,VALID,Passed physical elevation terrain checks
+1942,Ashapur,Sinnar,19.8822,74.0111,615.0,VALID,Passed physical elevation terrain checks
+1943,Atkawade,Sinnar,19.8211,73.9542,630.0,VALID,Passed physical elevation terrain checks
+1944,Aundhewadi,Sinnar,19.765,73.8446,645.0,VALID,Passed physical elevation terrain checks
+1945,Baragaon Pimpri,Sinnar,19.9057,74.0567,605.0,VALID,Passed physical elevation terrain checks
+1946,Belu,Sinnar,19.9211,74.0842,600.0,VALID,Passed physical elevation terrain checks
+1947,Bharatpur,Sinnar,19.8412,74.1432,595.0,VALID,Passed physical elevation terrain checks
+1948,Bhatwadi,Sinnar,19.8112,74.2531,585.0,VALID,Passed physical elevation terrain checks
+1949,Bhokani,Sinnar,19.7912,74.1132,605.0,VALID,Passed physical elevation terrain checks
+1950,Borkhind,Sinnar,19.7909,73.8611,640.0,VALID,Passed physical elevation terrain checks
+1951,Bramhanwade,Sinnar,19.9239,73.9295,620.0,VALID,Passed physical elevation terrain checks
+1952,Chandrapur Kh.,Sinnar,19.8541,74.2342,585.0,VALID,Passed physical elevation terrain checks
+1953,Chapadgaon,Sinnar,20.0127,74.0911,595.0,VALID,Passed physical elevation terrain checks
+1954,Chass,Sinnar,19.7178,74.1338,615.0,VALID,Passed physical elevation terrain checks
+1955,Chincholi,Sinnar,19.8976,73.9094,625.0,VALID,Passed physical elevation terrain checks
+1956,Chondhi,Sinnar,19.8212,74.2211,585.0,VALID,Passed physical elevation terrain checks
+1957,Dahiwadi,Sinnar,19.8212,74.0411,605.0,VALID,Passed physical elevation terrain checks
+1958,Dapur,Sinnar,19.7405,74.0538,612.0,VALID,Passed physical elevation terrain checks
+1959,Datali,Sinnar,19.8131,73.9142,635.0,VALID,Passed physical elevation terrain checks
+1960,Dattanagar (Dapur),Sinnar,19.7412,74.0511,612.0,VALID,Passed physical elevation terrain checks
+1961,Deopur,Sinnar,19.8312,74.2811,585.0,VALID,Passed physical elevation terrain checks
+1962,Deshwandi,Sinnar,19.8412,74.2422,588.0,VALID,Passed physical elevation terrain checks
+1963,Dharangaon,Sinnar,19.8276,74.2615,585.0,VALID,Passed physical elevation terrain checks
+1964,Dhondbar,Sinnar,19.7595,73.8773,655.0,VALID,Passed physical elevation terrain checks
+1965,Dhondvirnagar,Sinnar,19.8181,74.1132,605.0,VALID,Passed physical elevation terrain checks
+1966,Dhulwad,Sinnar,19.7209,74.0141,625.0,VALID,Passed physical elevation terrain checks
+1967,Dodi Bk.,Sinnar,19.7531,74.1211,612.0,VALID,Passed physical elevation terrain checks
+1968,Dodi Kh.,Sinnar,19.7541,74.1242,612.0,VALID,Passed physical elevation terrain checks
+1969,Dubere,Sinnar,19.7813,73.9747,630.0,VALID,Passed physical elevation terrain checks
+1970,Duberewadi (Krushnanagar),Sinnar,19.7812,73.9621,635.0,VALID,Passed physical elevation terrain checks
+1971,Dusingpur,Sinnar,19.8412,73.9621,625.0,VALID,Passed physical elevation terrain checks
+1972,Fulenagar,Sinnar,19.8134,74.0531,612.0,VALID,Passed physical elevation terrain checks
+1973,Ghorwad,Sinnar,19.8414,74.1658,592.0,VALID,Passed physical elevation terrain checks
+1974,Ghotewadi,Sinnar,19.8211,74.3121,580.0,VALID,Passed physical elevation terrain checks
+1975,Gonde,Sinnar,19.8342,74.1921,590.0,VALID,Passed physical elevation terrain checks
+1976,Gulwanchi,Sinnar,19.8811,74.0842,600.0,VALID,Passed physical elevation terrain checks
+1977,Harsule,Sinnar,19.8321,73.9431,635.0,VALID,Passed physical elevation terrain checks
+1978,Hivare,Sinnar,19.8412,74.3021,580.0,VALID,Passed physical elevation terrain checks
+1979,Hivargaon,Sinnar,19.8648,74.112,605.0,VALID,Passed physical elevation terrain checks
+1980,Jamgaon,Sinnar,19.8521,74.2412,588.0,VALID,Passed physical elevation terrain checks
+1981,Jaygaon,Sinnar,19.8663,74.2731,585.0,VALID,Passed physical elevation terrain checks
+1982,Jogaltembhi,Sinnar,19.816,74.0739,605.0,VALID,Passed physical elevation terrain checks
+1983,Kankori,Sinnar,19.7566,74.1743,608.0,VALID,Passed physical elevation terrain checks
+1984,Karwadi,Sinnar,19.8111,74.0812,602.0,VALID,Passed physical elevation terrain checks
+1985,Kasarwadi,Sinnar,19.8415,74.0302,612.0,VALID,Passed physical elevation terrain checks
+1986,Ke. Pa. Nagar,Sinnar,19.8385,74.1158,602.0,VALID,Passed physical elevation terrain checks
+1987,Khadangali,Sinnar,19.8612,74.1611,595.0,VALID,Passed physical elevation terrain checks
+1988,Khambale,Sinnar,19.9548,73.9521,622.0,VALID,Passed physical elevation terrain checks
+1989,Khopadi Kh.,Sinnar,19.8112,74.0431,612.0,VALID,Passed physical elevation terrain checks
+1990,Kirtangali,Sinnar,19.8531,74.3211,578.0,VALID,Passed physical elevation terrain checks
+1991,Kolgaonmal,Sinnar,19.8421,74.0111,615.0,VALID,Passed physical elevation terrain checks
+1992,Komalwadi,Sinnar,19.8811,73.9721,628.0,VALID,Passed physical elevation terrain checks
+1993,Konambe,Sinnar,19.778,73.9185,645.0,VALID,Passed physical elevation terrain checks
+1994,Kundewadi,Sinnar,19.8412,74.1131,598.0,VALID,Passed physical elevation terrain checks
+1995,Maldhon,Sinnar,19.8321,74.1431,592.0,VALID,Passed physical elevation terrain checks
+1996,Malegaon,Sinnar,19.8718,73.9767,622.0,VALID,Passed physical elevation terrain checks
+1997,Manegaon,Sinnar,19.8461,74.0753,605.0,VALID,Passed physical elevation terrain checks
+1998,Manori,Sinnar,19.8821,74.0321,612.0,VALID,Passed physical elevation terrain checks
+1999,Marhal Bk.,Sinnar,19.7352,74.1494,615.0,VALID,Passed physical elevation terrain checks
+2000,Marhal Kh.,Sinnar,19.7352,74.1494,615.0,VALID,Passed physical elevation terrain checks
+2001,Mendhi,Sinnar,19.8111,74.2842,605.0,VALID,Passed physical elevation terrain checks
+2002,Mirgaon,Sinnar,19.8311,74.1142,612.0,VALID,Passed physical elevation terrain checks
+2003,Mithsagare,Sinnar,19.8449,74.0946,615.0,VALID,Passed physical elevation terrain checks
+2004,Mohu,Sinnar,19.8611,74.1422,610.0,VALID,Passed physical elevation terrain checks
+2005,Musalgaon,Sinnar,19.8347,74.0536,618.0,VALID,Passed physical elevation terrain checks
+2006,Naigaon,Sinnar,19.8421,74.1411,612.0,VALID,Passed physical elevation terrain checks
+2007,Nalwadi,Sinnar,19.8541,74.1611,608.0,VALID,Passed physical elevation terrain checks
+2008,Nandur Shingote,Sinnar,19.721,74.1351,620.0,VALID,Passed physical elevation terrain checks
+2009,Nimgaon (Deopur),Sinnar,19.8411,74.2142,602.0,VALID,Passed physical elevation terrain checks
+2010,Nimgaon (Sinnar),Sinnar,19.8973,74.1623,615.0,VALID,Passed physical elevation terrain checks
+2011,Nirhale Fattepur,Sinnar,19.8511,74.2321,605.0,VALID,Passed physical elevation terrain checks
+2012,Padali,Sinnar,19.7015,73.9585,625.0,VALID,Passed physical elevation terrain checks
+2013,Panchale,Sinnar,19.876,74.2162,600.0,VALID,Passed physical elevation terrain checks
+2014,Pandhurli,Sinnar,19.83,73.8549,635.0,VALID,Passed physical elevation terrain checks
+2015,Pangari Bk.,Sinnar,19.8432,74.1521,612.0,VALID,Passed physical elevation terrain checks
+2016,Pangari Kh.,Sinnar,19.8212,74.2337,605.0,VALID,Passed physical elevation terrain checks
+2017,Paste,Sinnar,19.8161,74.009,615.0,VALID,Passed physical elevation terrain checks
+2018,Pathare Bk.,Sinnar,19.8481,73.9426,622.0,VALID,Passed physical elevation terrain checks
+2019,Pathare Kh.,Sinnar,19.8121,74.0132,618.0,VALID,Passed physical elevation terrain checks
+2020,Patole,Sinnar,19.8231,74.0241,615.0,VALID,Passed physical elevation terrain checks
+2021,Patpimpri,Sinnar,19.9206,74.0539,595.0,VALID,Passed physical elevation terrain checks
+2022,Phardapur,Sinnar,19.8111,74.2011,605.0,VALID,Passed physical elevation terrain checks
+2023,Pimpale,Sinnar,19.705,74.0044,635.0,VALID,Passed physical elevation terrain checks
+2024,Pimpalgaon,Sinnar,19.8412,74.1011,612.0,VALID,Passed physical elevation terrain checks
+2025,Pimparwadi,Sinnar,19.8411,74.1011,612.0,VALID,Passed physical elevation terrain checks
+2026,Ramnagar,Sinnar,19.8111,74.2811,605.0,VALID,Passed physical elevation terrain checks
+2027,Rampur,Sinnar,19.8012,74.2811,605.0,VALID,Passed physical elevation terrain checks
+2028,Sangavi,Sinnar,19.872,73.9447,625.0,VALID,Passed physical elevation terrain checks
+2029,Saradwadi,Sinnar,19.8011,74.0521,612.0,VALID,Passed physical elevation terrain checks
+2030,Savatamali Nagar,Sinnar,19.8911,74.2142,598.0,VALID,Passed physical elevation terrain checks
+2031,Sayale,Sinnar,19.8112,74.1142,610.0,VALID,Passed physical elevation terrain checks
+2032,Shaha,Sinnar,19.8042,74.1358,605.0,VALID,Passed physical elevation terrain checks
+2033,Shastrinagar,Sinnar,19.8042,74.1358,605.0,VALID,Passed physical elevation terrain checks
+2034,Shivade,Sinnar,19.7988,73.8808,645.0,VALID,Passed physical elevation terrain checks
+2035,Shivaji Nagar (Dapur),Sinnar,19.7241,74.0811,612.0,VALID,Passed physical elevation terrain checks
+2036,Shivajinagar (Kahandalwadi),Sinnar,19.8431,74.0811,602.0,VALID,Passed physical elevation terrain checks
+2037,Shrirampur (Shindewadi),Sinnar,19.8811,74.3121,585.0,VALID,Passed physical elevation terrain checks
+2038,Somthane,Sinnar,19.9549,74.2258,590.0,VALID,Passed physical elevation terrain checks
+2039,Sonambe,Sinnar,19.8541,74.2521,592.0,VALID,Passed physical elevation terrain checks
+2040,Sonari,Sinnar,19.8976,74.7498,570.0,VALID,Passed physical elevation terrain checks
+2041,Sonewadi,Sinnar,19.8711,74.1611,605.0,VALID,Passed physical elevation terrain checks
+2042,Songiri,Sinnar,19.8521,74.3311,580.0,VALID,Passed physical elevation terrain checks
+2043,Sulewadi,Sinnar,19.8112,74.3121,585.0,VALID,Passed physical elevation terrain checks
+2044,Suregaon,Sinnar,19.8611,74.0242,612.0,VALID,Passed physical elevation terrain checks
+2045,Thangaon,Sinnar,19.6949,73.9337,648.0,VALID,Passed physical elevation terrain checks
+2046,Ujjani,Sinnar,19.8234,74.1396,605.0,VALID,Passed physical elevation terrain checks
+2047,Vadangali,Sinnar,19.9343,74.1556,590.0,VALID,Passed physical elevation terrain checks
+2048,Vadgaon (Pingala),Sinnar,19.8555,73.9688,628.0,VALID,Passed physical elevation terrain checks
+2049,Vadgaon (Sinnar),Sinnar,19.8231,74.1141,612.0,VALID,Passed physical elevation terrain checks
+2050,Vadzire,Sinnar,19.8012,74.2211,605.0,VALID,Passed physical elevation terrain checks
+2051,Varegaon,Sinnar,19.8431,74.2842,598.0,VALID,Passed physical elevation terrain checks
+2052,Vinchur Dalavi,Sinnar,19.8541,74.1841,605.0,VALID,Passed physical elevation terrain checks
+2053,Wavi,Sinnar,19.8034,74.249,600.0,VALID,Passed physical elevation terrain checks
+2054,Alangun,Surgana,20.4541,73.5822,612.0,VALID,Passed physical elevation terrain checks
+2055,Ambatha,Surgana,20.4811,73.5411,645.0,VALID,Passed physical elevation terrain checks
+2056,Ambode,Surgana,20.5122,73.5511,635.0,VALID,Passed physical elevation terrain checks
+2057,Barhe,Surgana,20.4344,73.5236,670.0,VALID,Passed physical elevation terrain checks
+2058,Bedase,Surgana,20.4411,73.5242,665.0,VALID,Passed physical elevation terrain checks
+2059,Bhadar,Surgana,20.3511,73.5522,690.0,VALID,Passed physical elevation terrain checks
+2060,Bhavandagad,Surgana,20.5811,73.5919,625.0,VALID,Passed physical elevation terrain checks
+2061,Bhawade,Surgana,20.5144,73.5499,638.0,VALID,Passed physical elevation terrain checks
+2062,Bhormal,Surgana,20.5144,73.5499,638.0,VALID,Passed physical elevation terrain checks
+2063,Biwal,Surgana,20.3811,73.4922,710.0,VALID,Passed physical elevation terrain checks
+2064,Borgaon,Surgana,20.5084,73.7534,580.0,VALID,Passed physical elevation terrain checks
+2065,Bubali,Surgana,20.4511,73.5822,612.0,VALID,Passed physical elevation terrain checks
+2066,Chikadi,Surgana,20.5122,73.5111,655.0,VALID,Passed physical elevation terrain checks
+2067,Chinchpada,Surgana,20.4411,73.5242,670.0,VALID,Passed physical elevation terrain checks
+2068,Dangrale,Surgana,20.4511,73.5822,612.0,VALID,Passed physical elevation terrain checks
+2069,Dolhare,Surgana,20.4811,73.5411,645.0,VALID,Passed physical elevation terrain checks
+2070,Ghodambe,Surgana,20.5122,73.5511,635.0,VALID,Passed physical elevation terrain checks
+2071,Gondune,Surgana,20.4111,73.5242,680.0,VALID,Passed physical elevation terrain checks
+2072,Harantekdi,Surgana,20.5142,73.5821,615.0,VALID,Passed physical elevation terrain checks
+2073,Haste,Surgana,20.4111,73.5242,680.0,VALID,Passed physical elevation terrain checks
+2074,Hatgad,Surgana,20.5391,73.757,560.0,VALID,Passed physical elevation terrain checks
+2075,Hatrundi,Surgana,20.4511,73.5822,612.0,VALID,Passed physical elevation terrain checks
+2076,Hatti,Surgana,20.4811,73.5411,645.0,VALID,Passed physical elevation terrain checks
+2077,Hemadpada,Surgana,20.5122,73.5511,635.0,VALID,Passed physical elevation terrain checks
+2078,Jahule,Surgana,20.4411,73.5111,690.0,VALID,Passed physical elevation terrain checks
+2079,Kalamne,Surgana,20.5411,73.5411,625.0,VALID,Passed physical elevation terrain checks
+2080,Karanjul Su,Surgana,20.4111,73.5111,710.0,VALID,Passed physical elevation terrain checks
+2081,Kathipada,Surgana,20.5122,73.5411,635.0,VALID,Passed physical elevation terrain checks
+2082,Khirdi,Surgana,20.3785,73.424,720.0,VALID,Passed physical elevation terrain checks
+2083,Khobalama,Surgana,20.4111,73.5222,680.0,VALID,Passed physical elevation terrain checks
+2084,Khokari,Surgana,20.4811,73.5411,645.0,VALID,Passed physical elevation terrain checks
+2085,Khuntvihir,Surgana,20.5122,73.5144,650.0,VALID,Passed physical elevation terrain checks
+2086,Kothula,Surgana,20.5122,73.5522,635.0,VALID,Passed physical elevation terrain checks
+2087,Kukudmundha,Surgana,20.5211,73.5111,660.0,VALID,Passed physical elevation terrain checks
+2088,Kukudne,Surgana,20.6541,73.4459,612.0,VALID,Passed physical elevation terrain checks
+2089,Ladgaon,Surgana,20.5511,73.5422,620.0,VALID,Passed physical elevation terrain checks
+2090,Malegaon,Surgana,20.5111,73.6111,605.0,VALID,Passed physical elevation terrain checks
+2091,Malgawhan,Surgana,20.4411,73.5111,690.0,VALID,Passed physical elevation terrain checks
+2092,Mandha,Surgana,20.5811,73.5842,625.0,VALID,Passed physical elevation terrain checks
+2093,Mangadhe,Surgana,20.5838,73.5038,618.0,VALID,Passed physical elevation terrain checks
+2094,Mani,Surgana,20.4991,73.6056,612.0,VALID,Passed physical elevation terrain checks
+2095,Mankhed,Surgana,20.4362,73.5964,655.0,VALID,Passed physical elevation terrain checks
+2096,Mhaishadak,Surgana,20.5264,73.5681,622.0,VALID,Passed physical elevation terrain checks
+2097,Mohpada,Surgana,20.3042,73.5407,745.0,VALID,Passed physical elevation terrain checks
+2098,Nagshevadi,Surgana,20.4111,73.4922,710.0,VALID,Passed physical elevation terrain checks
+2099,Palsan,Surgana,20.5016,73.5393,645.0,VALID,Passed physical elevation terrain checks
+2100,Pohali,Surgana,20.4411,73.5411,665.0,VALID,Passed physical elevation terrain checks
+2101,Pratapgad,Surgana,20.4811,73.5642,605.0,VALID,Passed physical elevation terrain checks
+2102,Ragatvihir,Surgana,20.3541,73.5012,680.0,VALID,Passed physical elevation terrain checks
+2103,Rahude,Surgana,20.3212,73.4854,695.0,VALID,Passed physical elevation terrain checks
+2104,Rasha,Surgana,20.3811,73.5122,685.0,VALID,Passed physical elevation terrain checks
+2105,Rokadpada,Surgana,20.4122,73.5411,670.0,VALID,Passed physical elevation terrain checks
+2106,Rongane,Surgana,20.3755,73.5388,682.0,VALID,Passed physical elevation terrain checks
+2107,Sajole,Surgana,20.3822,73.5451,675.0,VALID,Passed physical elevation terrain checks
+2108,Sarad,Surgana,20.4011,73.5122,690.0,VALID,Passed physical elevation terrain checks
+2109,Shinde,Surgana,20.4411,73.5522,665.0,VALID,Passed physical elevation terrain checks
+2110,Thangaon,Surgana,20.4022,73.5042,695.0,VALID,Passed physical elevation terrain checks
+2111,Umberpada(D),Surgana,20.4511,73.5222,660.0,VALID,Passed physical elevation terrain checks
+2112,Umberthan,Surgana,20.5122,73.5411,640.0,VALID,Passed physical elevation terrain checks
+2113,Vaghdhond,Surgana,20.4511,73.5522,655.0,VALID,Passed physical elevation terrain checks
+2114,Varambhe,Trimbak,20.4111,73.5111,685.0,VALID,Passed physical elevation terrain checks
+2115,Alwand,Trimbak,20.0111,73.4522,615.0,VALID,Passed physical elevation terrain checks
+2116,Ambai,Trimbak,19.9733,73.4719,630.0,VALID,Passed physical elevation terrain checks
+2117,Amboli,Trimbak,19.8865,73.65,590.0,VALID,Passed physical elevation terrain checks
+2118,Anjaneri,Trimbak,19.946,73.5868,670.0,VALID,Passed physical elevation terrain checks
+2119,Aswalihirsha,Trimbak,19.9211,73.4822,650.0,VALID,Passed physical elevation terrain checks
+2120,Avhate,Trimbak,19.9822,73.5122,645.0,VALID,Passed physical elevation terrain checks
+2121,Bafanvihir,Trimbak,19.9111,73.4811,640.0,VALID,Passed physical elevation terrain checks
+2122,Bbhootmokhada,Trimbak,19.8911,73.5122,625.0,VALID,Passed physical elevation terrain checks
+2123,Berval,Trimbak,19.9211,73.4411,612.0,VALID,Passed physical elevation terrain checks
+2124,Beze,Trimbak,19.9411,73.5122,620.0,VALID,Passed physical elevation terrain checks
+2125,Bhagohol,Trimbak,19.9511,73.4211,605.0,VALID,Passed physical elevation terrain checks
+2126,Bramhanwade,Trimbak,19.9811,73.4511,645.0,VALID,Passed physical elevation terrain checks
+2127,Chinchohol,Trimbak,19.9522,73.4811,655.0,VALID,Passed physical elevation terrain checks
+2128,Chinchvad,Trimbak,19.9411,73.4711,630.0,VALID,Passed physical elevation terrain checks
+2129,Dalpatpur,Trimbak,19.9311,73.4511,640.0,VALID,Passed physical elevation terrain checks
+2130,Deodongra,Trimbak,19.9511,73.4111,618.0,VALID,Passed physical elevation terrain checks
+2131,Deodongri,Trimbak,19.9611,73.4211,612.0,VALID,Passed physical elevation terrain checks
+2132,Deola,Trimbak,19.9111,73.4511,635.0,VALID,Passed physical elevation terrain checks
+2133,Devgaon,Trimbak,19.8281,73.4598,665.0,VALID,Passed physical elevation terrain checks
+2134,Dhumodi,Trimbak,19.9122,73.4211,608.0,VALID,Passed physical elevation terrain checks
+2135,Gadvadane,Trimbak,19.9511,73.4011,612.0,VALID,Passed physical elevation terrain checks
+2136,Ganeshgaon (W),Trimbak,19.9222,73.5111,622.0,VALID,Passed physical elevation terrain checks
+2137,Gavatha,Trimbak,19.9811,73.4111,605.0,VALID,Passed physical elevation terrain checks
+2138,Godhadyachapada,Trimbak,20.0211,73.4511,638.0,VALID,Passed physical elevation terrain checks
+2139,Goldari,Trimbak,19.9811,73.4811,655.0,VALID,Passed physical elevation terrain checks
+2140,Harsul,Trimbak,20.1154,73.4533,612.0,VALID,Passed physical elevation terrain checks
+2141,Hatlondhi,Trimbak,19.9911,73.4411,625.0,VALID,Passed physical elevation terrain checks
+2142,Birdi,Trimbak,19.9622,73.4011,602.0,VALID,Passed physical elevation terrain checks
+2143,Holdar Nagar,Trimbak,19.9311,73.4811,645.0,VALID,Passed physical elevation terrain checks
+2144,Jategaon Bk,Trimbak,19.9237,73.6484,590.0,VALID,Passed physical elevation terrain checks
+2145,Jategaon Khd,Trimbak,19.9122,73.6511,588.0,VALID,Passed physical elevation terrain checks
+2146,Kachurli,Trimbak,19.9477,73.4924,642.0,VALID,Passed physical elevation terrain checks
+2147,Kalmuste(H),Trimbak,19.9265,73.461,630.0,VALID,Passed physical elevation terrain checks
+2148,Kalmuste (T),Trimbak,19.9265,73.461,630.0,VALID,Passed physical elevation terrain checks
+2149,Khadakohol,Trimbak,19.9411,73.4011,605.0,VALID,Passed physical elevation terrain checks
+2150,Khairaipali,Trimbak,19.9522,73.4211,608.0,VALID,Passed physical elevation terrain checks
+2151,Khambale,Trimbak,19.9548,73.6321,595.0,VALID,Passed physical elevation terrain checks
+2152,Kharoli,Trimbak,19.9111,73.4411,612.0,VALID,Passed physical elevation terrain checks
+2153,Kharset,Trimbak,20.176,73.3945,625.0,VALID,Passed physical elevation terrain checks
+2154,Kharwal,Trimbak,20.0623,73.4352,638.0,VALID,Passed physical elevation terrain checks
+2155,Kone,Trimbak,19.9511,73.5111,635.0,VALID,Passed physical elevation terrain checks
+2156,Kotambi (H),Trimbak,19.9811,73.4211,612.0,VALID,Passed physical elevation terrain checks
+2157,Mahadeonagar,Trimbak,19.9211,73.4811,642.0,VALID,Passed physical elevation terrain checks
+2158,Malegaon,Trimbak,19.9411,73.5511,625.0,VALID,Passed physical elevation terrain checks
+2159,Met Chandryachi,Trimbak,20.0111,73.4511,630.0,VALID,Passed physical elevation terrain checks
+2160,Metgharkilla,Trimbak,20.0211,73.4711,635.0,VALID,Passed physical elevation terrain checks
+2161,Mulegaon,Trimbak,19.9023,73.6092,615.0,VALID,Passed physical elevation terrain checks
+2162,Mulwad,Trimbak,19.9422,73.4511,625.0,VALID,Passed physical elevation terrain checks
+2163,Murambi,Trimbak,19.8509,73.6435,595.0,VALID,Passed physical elevation terrain checks
+2164,Nandgaon (K),Trimbak,19.9411,73.4111,610.0,VALID,Passed physical elevation terrain checks
+2165,Nirgude,Trimbak,19.9754,73.8417,585.0,VALID,Passed physical elevation terrain checks
+2166,Ozarkhed,Trimbak,19.9111,73.4211,615.0,VALID,Passed physical elevation terrain checks
+2167,Pahine,Trimbak,19.8993,73.5527,630.0,VALID,Passed physical elevation terrain checks
+2168,Pegalwadi (N),Trimbak,19.9393,73.5537,655.0,VALID,Passed physical elevation terrain checks
+2169,Pegalwadi (T),Trimbak,19.9393,73.5537,655.0,VALID,Passed physical elevation terrain checks
+2170,Pimplad (T),Trimbak,19.9648,73.5284,648.0,VALID,Passed physical elevation terrain checks
+2171,Pimpri (T),Trimbak,19.9411,73.5111,645.0,VALID,Passed physical elevation terrain checks
+2172,Raite,Trimbak,19.9311,73.5222,655.0,VALID,Passed physical elevation terrain checks
+2173,Rohile,Trimbak,20.0527,73.5533,610.0,VALID,Passed physical elevation terrain checks
+2174,Samundi,Trimbak,19.8788,73.5025,648.0,VALID,Passed physical elevation terrain checks
+2175,Sapatpali,Trimbak,19.9122,73.5122,655.0,VALID,Passed physical elevation terrain checks
+2176,Sapgaon,Trimbak,19.9411,73.5511,625.0,VALID,Passed physical elevation terrain checks
+2177,Sapte,Trimbak,19.9111,73.5822,605.0,VALID,Passed physical elevation terrain checks
+2178,Saraste,Trimbak,20.123,73.5022,612.0,VALID,Passed physical elevation terrain checks
+2179,Shirasgaon (H),Trimbak,19.9511,73.4811,635.0,VALID,Passed physical elevation terrain checks
+2180,Shirasgaon (T),Trimbak,19.9511,73.4811,635.0,VALID,Passed physical elevation terrain checks
+2181,Shivajinagar,Trimbak,20.0111,73.4511,622.0,VALID,Passed physical elevation terrain checks
+2182,Somnathnagar,Trimbak,19.9211,73.4111,618.0,VALID,Passed physical elevation terrain checks
+2183,Takedeogaon,Trimbak,20.0311,73.4511,628.0,VALID,Passed physical elevation terrain checks
+2184,Takeharsh,Trimbak,20.0211,73.4211,642.0,VALID,Passed physical elevation terrain checks
+2185,Talegaon (T),Trimbak,19.9477,73.647,585.0,VALID,Passed physical elevation terrain checks
+2186,Talwade (T),Trimbak,19.9611,73.5122,638.0,VALID,Passed physical elevation terrain checks
+2187,Thanapada,Trimbak,20.1266,73.3998,612.0,VALID,Passed physical elevation terrain checks
+2188,Torangan (H),Trimbak,19.999,73.4332,618.0,VALID,Passed physical elevation terrain checks
+2189,Torangan (T),Trimbak,19.999,73.4332,618.0,VALID,Passed physical elevation terrain checks
+2190,Vadholi,Trimbak,19.9377,73.61,602.0,VALID,Passed physical elevation terrain checks
+2191,Vaghera,Trimbak,20.0327,73.4791,655.0,VALID,Passed physical elevation terrain checks
+2192,Varasvihar,Trimbak,19.9511,73.5111,635.0,VALID,Passed physical elevation terrain checks
+2193,Vaviharsh,Trimbak,19.9811,73.4211,612.0,VALID,Passed physical elevation terrain checks
+2194,Vaygholpada,Trimbak,19.9611,73.4211,612.0,VALID,Passed physical elevation terrain checks
+2195,Vele,Trimbak,20.0954,73.5481,595.0,VALID,Passed physical elevation terrain checks
+2196,Velunje,Trimbak,19.9122,73.5511,645.0,VALID,Passed physical elevation terrain checks
+2197,Vijaynagar,Trimbak,19.9311,73.4511,635.0,VALID,Passed physical elevation terrain checks
+2198,Zarwad Bk,Trimbak,19.9811,73.4211,612.0,VALID,Passed physical elevation terrain checks
+2199,Zarwad Khd,Trimbak,19.9722,73.4111,612.0,VALID,Passed physical elevation terrain checks
+2200,Adgaon Chothava,Yeola,20.1511,74.4511,530.0,VALID,Passed physical elevation terrain checks
+2201,Pratapgad,Surgana,20.4811,73.5642,605.0,VALID,Passed physical elevation terrain checks
+2202,Ragatvihir,Surgana,20.3541,73.5012,680.0,VALID,Passed physical elevation terrain checks
+2203,Rahude,Surgana,20.3212,73.4854,695.0,VALID,Passed physical elevation terrain checks
+2204,Rasha,Surgana,20.3811,73.5122,685.0,VALID,Passed physical elevation terrain checks
+2205,Rokadpada,Surgana,20.4122,73.5411,670.0,VALID,Passed physical elevation terrain checks
+2206,Rongane,Surgana,20.3755,73.5388,682.0,VALID,Passed physical elevation terrain checks
+2207,Sajole,Surgana,20.3822,73.5451,675.0,VALID,Passed physical elevation terrain checks
+2208,Sarad,Surgana,20.4011,73.5122,690.0,VALID,Passed physical elevation terrain checks
+2209,Shinde,Surgana,20.4411,73.5522,665.0,VALID,Passed physical elevation terrain checks
+2210,Thangaon,Surgana,20.4022,73.5042,695.0,VALID,Passed physical elevation terrain checks
+2211,Umberpada(D),Surgana,20.4511,73.5222,660.0,VALID,Passed physical elevation terrain checks
+2212,Umberthan,Surgana,20.5122,73.5411,640.0,VALID,Passed physical elevation terrain checks
+2213,Vaghdhond,Surgana,20.4511,73.5522,655.0,VALID,Passed physical elevation terrain checks
+2214,Varambhe,Trimbak,20.4111,73.5111,685.0,VALID,Passed physical elevation terrain checks
+2215,Alwand,Trimbak,20.0111,73.4522,615.0,VALID,Passed physical elevation terrain checks
+2216,Ambai,Trimbak,19.9733,73.4719,630.0,VALID,Passed physical elevation terrain checks
+2217,Amboli,Trimbak,19.8865,73.65,590.0,VALID,Passed physical elevation terrain checks
+2218,Anjaneri,Trimbak,19.946,73.5868,670.0,VALID,Passed physical elevation terrain checks
+2219,Aswalihirsha,Trimbak,19.9211,73.4822,650.0,VALID,Passed physical elevation terrain checks
+2220,Avhate,Trimbak,19.9822,73.5122,645.0,VALID,Passed physical elevation terrain checks
+2221,Bafanvihir,Trimbak,19.9111,73.4811,640.0,VALID,Passed physical elevation terrain checks
+2222,Bbhootmokhada,Trimbak,19.8911,73.5122,625.0,VALID,Passed physical elevation terrain checks
+2223,Berval,Trimbak,19.9211,73.4411,612.0,VALID,Passed physical elevation terrain checks
+2224,Beze,Trimbak,19.9411,73.5122,620.0,VALID,Passed physical elevation terrain checks
+2225,Bhagohol,Trimbak,19.9511,73.4211,605.0,VALID,Passed physical elevation terrain checks
+2226,Bramhanwade,Trimbak,19.9811,73.4511,645.0,VALID,Passed physical elevation terrain checks
+2227,Chinchohol,Trimbak,19.9522,73.4811,655.0,VALID,Passed physical elevation terrain checks
+2228,Chinchvad,Trimbak,19.9411,73.4711,630.0,VALID,Passed physical elevation terrain checks
+2229,Dalpatpur,Trimbak,19.9311,73.4511,640.0,VALID,Passed physical elevation terrain checks
+2230,Deodongra,Trimbak,19.9511,73.4111,618.0,VALID,Passed physical elevation terrain checks
+2231,Deodongri,Trimbak,19.9611,73.4211,612.0,VALID,Passed physical elevation terrain checks
+2232,Deola,Trimbak,19.9111,73.4511,635.0,VALID,Passed physical elevation terrain checks
+2233,Devgaon,Trimbak,19.8281,73.4598,665.0,VALID,Passed physical elevation terrain checks
+2234,Dhumodi,Trimbak,19.9122,73.4211,608.0,VALID,Passed physical elevation terrain checks
+2235,Gadvadane,Trimbak,19.9511,73.4011,612.0,VALID,Passed physical elevation terrain checks
+2236,Ganeshgaon (W),Trimbak,19.9222,73.5111,622.0,VALID,Passed physical elevation terrain checks
+2237,Gavatha,Trimbak,19.9811,73.4111,605.0,VALID,Passed physical elevation terrain checks
+2238,Godhadyachapada,Trimbak,20.0211,73.4511,638.0,VALID,Passed physical elevation terrain checks
+2239,Goldari,Trimbak,19.9811,73.4811,655.0,VALID,Passed physical elevation terrain checks
+2240,Harsul,Trimbak,20.1154,73.4533,612.0,VALID,Passed physical elevation terrain checks
+2241,Hatlondhi,Trimbak,19.9911,73.4411,625.0,VALID,Passed physical elevation terrain checks
+2242,Birdi,Trimbak,19.9622,73.4011,602.0,VALID,Passed physical elevation terrain checks
+2243,Holdar Nagar,Trimbak,19.9311,73.4811,645.0,VALID,Passed physical elevation terrain checks
+2244,Jategaon Bk,Trimbak,19.9237,73.6484,590.0,VALID,Passed physical elevation terrain checks
+2245,Jategaon Khd,Trimbak,19.9122,73.6511,588.0,VALID,Passed physical elevation terrain checks
+2246,Kachurli,Trimbak,19.9477,73.4924,642.0,VALID,Passed physical elevation terrain checks
+2247,Kalmuste(H),Trimbak,19.9265,73.461,630.0,VALID,Passed physical elevation terrain checks
+2248,Kalmuste (T),Trimbak,19.9265,73.461,630.0,VALID,Passed physical elevation terrain checks
+2249,Khadakohol,Trimbak,19.9411,73.4011,605.0,VALID,Passed physical elevation terrain checks
+2250,Khairaipali,Trimbak,19.9522,73.4211,608.0,VALID,Passed physical elevation terrain checks
+2251,Khambale,Trimbak,19.9548,73.6321,595.0,VALID,Passed physical elevation terrain checks
+2252,Kharoli,Trimbak,19.9111,73.4411,612.0,VALID,Passed physical elevation terrain checks
+2253,Kharset,Trimbak,20.176,73.3945,625.0,VALID,Passed physical elevation terrain checks
+2254,Kharwal,Trimbak,20.0623,73.4352,638.0,VALID,Passed physical elevation terrain checks
+2255,Kone,Trimbak,19.9511,73.5111,635.0,VALID,Passed physical elevation terrain checks
+2256,Kotambi (H),Trimbak,19.9811,73.4211,612.0,VALID,Passed physical elevation terrain checks
+2257,Mahadeonagar,Trimbak,19.9211,73.4811,642.0,VALID,Passed physical elevation terrain checks
+2258,Malegaon,Trimbak,19.9411,73.5511,625.0,VALID,Passed physical elevation terrain checks
+2259,Met Chandryachi,Trimbak,20.0111,73.4511,630.0,VALID,Passed physical elevation terrain checks
+2260,Metgharkilla,Trimbak,20.0211,73.4711,635.0,VALID,Passed physical elevation terrain checks
+2261,Mulegaon,Trimbak,19.9023,73.6092,615.0,VALID,Passed physical elevation terrain checks
+2262,Mulwad,Trimbak,19.9422,73.4511,625.0,VALID,Passed physical elevation terrain checks
+2263,Murambi,Trimbak,19.8509,73.6435,595.0,VALID,Passed physical elevation terrain checks
+2264,Nandgaon (K),Trimbak,19.9411,73.4111,610.0,VALID,Passed physical elevation terrain checks
+2265,Nirgude,Trimbak,19.9754,73.8417,585.0,VALID,Passed physical elevation terrain checks
+2266,Ozarkhed,Trimbak,19.9111,73.4211,615.0,VALID,Passed physical elevation terrain checks
+2267,Pahine,Trimbak,19.8993,73.5527,630.0,VALID,Passed physical elevation terrain checks
+2268,Pegalwadi (N),Trimbak,19.9393,73.5537,655.0,VALID,Passed physical elevation terrain checks
+2269,Pegalwadi (T),Trimbak,19.9393,73.5537,655.0,VALID,Passed physical elevation terrain checks
+2270,Pimplad (T),Trimbak,19.9648,73.5284,648.0,VALID,Passed physical elevation terrain checks
+2271,Pimpri (T),Trimbak,19.9411,73.5111,645.0,VALID,Passed physical elevation terrain checks
+2272,Raite,Trimbak,19.9311,73.5222,655.0,VALID,Passed physical elevation terrain checks
+2273,Rohile,Trimbak,20.0527,73.5533,610.0,VALID,Passed physical elevation terrain checks
+2274,Samundi,Trimbak,19.8788,73.5025,648.0,VALID,Passed physical elevation terrain checks
+2275,Sapatpali,Trimbak,19.9122,73.5122,655.0,VALID,Passed physical elevation terrain checks
+2276,Sapgaon,Trimbak,19.9411,73.5511,625.0,VALID,Passed physical elevation terrain checks
+2277,Sapte,Trimbak,19.9111,73.5822,605.0,VALID,Passed physical elevation terrain checks
+2278,Saraste,Trimbak,20.123,73.5022,612.0,VALID,Passed physical elevation terrain checks
+2279,Shirasgaon (H),Trimbak,19.9511,73.4811,635.0,VALID,Passed physical elevation terrain checks
+2280,Shirasgaon (T),Trimbak,19.9511,73.4811,635.0,VALID,Passed physical elevation terrain checks
+2281,Shivajinagar,Trimbak,20.0111,73.4511,622.0,VALID,Passed physical elevation terrain checks
+2282,Somnathnagar,Trimbak,19.9211,73.4111,618.0,VALID,Passed physical elevation terrain checks
+2283,Takedeogaon,Trimbak,20.0311,73.4511,628.0,VALID,Passed physical elevation terrain checks
+2284,Takeharsh,Trimbak,20.0211,73.4211,642.0,VALID,Passed physical elevation terrain checks
+2285,Talegaon (T),Trimbak,19.9477,73.647,585.0,VALID,Passed physical elevation terrain checks
+2286,Talwade (T),Trimbak,19.9611,73.5122,638.0,VALID,Passed physical elevation terrain checks
+2287,Thanapada,Trimbak,20.1266,73.3998,612.0,VALID,Passed physical elevation terrain checks
+2288,Torangan (H),Trimbak,19.999,73.4332,618.0,VALID,Passed physical elevation terrain checks
+2289,Torangan (T),Trimbak,19.999,73.4332,618.0,VALID,Passed physical elevation terrain checks
+2290,Vadholi,Trimbak,19.9377,73.61,602.0,VALID,Passed physical elevation terrain checks
+2291,Vaghera,Trimbak,20.0327,73.4791,655.0,VALID,Passed physical elevation terrain checks
+2292,Varasvihar,Trimbak,19.9511,73.5111,635.0,VALID,Passed physical elevation terrain checks
+2293,Vaviharsh,Trimbak,19.9811,73.4211,612.0,VALID,Passed physical elevation terrain checks
+2294,Vaygholpada,Trimbak,19.9611,73.4211,612.0,VALID,Passed physical elevation terrain checks
+2295,Vele,Trimbak,20.0954,73.5481,595.0,VALID,Passed physical elevation terrain checks
+2296,Velunje,Trimbak,19.9122,73.5511,645.0,VALID,Passed physical elevation terrain checks
+2297,Vijaynagar,Trimbak,19.9311,73.4511,635.0,VALID,Passed physical elevation terrain checks
+2298,Zarwad Bk,Trimbak,19.9811,73.4211,612.0,VALID,Passed physical elevation terrain checks
+2299,Zarwad Khd,Trimbak,19.9722,73.4111,612.0,VALID,Passed physical elevation terrain checks
+2300,Adgaon Chothava,Yeola,20.1511,74.4511,530.0,VALID,Passed physical elevation terrain checks
+2301,Adgaon Repal,Yeola,20.1411,74.4811,535.0,VALID,Passed physical elevation terrain checks
+2302,Adsuregaon,Yeola,20.1111,74.4522,538.0,VALID,Passed physical elevation terrain checks
+2303,Agangaon,Yeola,20.1311,74.4611,530.0,VALID,Passed physical elevation terrain checks
+2304,Aherwadi,Yeola,20.0911,74.4822,532.0,VALID,Passed physical elevation terrain checks
+2305,Ambegaon,Yeola,20.1522,74.4911,525.0,VALID,Passed physical elevation terrain checks
+2306,Andersul,Yeola,20.2111,74.5211,540.0,VALID,Passed physical elevation terrain checks
+2307,Angulgaon,Yeola,20.0811,74.4522,542.0,VALID,Passed physical elevation terrain checks
+2308,Ankai,Yeola,20.1836,74.4547,605.0,VALID,Passed physical elevation terrain checks
+2309,Ankute,Yeola,20.1211,74.5122,530.0,VALID,Passed physical elevation terrain checks
+2310,Babhulgaon Kh,Yeola,20.0511,74.4111,545.0,VALID,Passed physical elevation terrain checks
+2311,Balapur,Yeola,20.1311,74.5511,528.0,VALID,Passed physical elevation terrain checks
+2312,Balhegaon,Yeola,20.1378,74.8993,490.0,VALID,Passed physical elevation terrain checks
+2313,Bharam,Yeola,20.0577,74.6773,495.0,VALID,Passed physical elevation terrain checks
+2314,Bhatgaon,Yeola,20.1211,74.5511,530.0,VALID,Passed physical elevation terrain checks
+2315,Bhulegaon,Yeola,20.1511,74.6111,520.0,VALID,Passed physical elevation terrain checks
+2316,Bokte,Yeola,20.0111,74.4211,548.0,VALID,Passed physical elevation terrain checks
+2317,Chandgaon,Yeola,19.956,74.7037,505.0,VALID,Passed physical elevation terrain checks
+2318,Chinchodi Bk.,Yeola,20.1011,74.4511,535.0,VALID,Passed physical elevation terrain checks
+2319,Chinchodi Ku,Yeola,20.0911,74.4511,535.0,VALID,Passed physical elevation terrain checks
+2320,Deolane,Yeola,20.1511,74.4522,530.0,VALID,Passed physical elevation terrain checks
+2321,Deothan,Yeola,20.1211,74.4911,535.0,VALID,Passed physical elevation terrain checks
+2322,Deshmane Bk,Yeola,20.0578,74.3041,560.0,VALID,Passed physical elevation terrain checks
+2323,Devargaon,Yeola,20.1111,74.4111,540.0,VALID,Passed physical elevation terrain checks
+2324,Dhamangaon,Yeola,20.1811,74.5822,525.0,VALID,Passed physical elevation terrain checks
+2325,Dhamode,Yeola,20.0311,74.4811,545.0,VALID,Passed physical elevation terrain checks
+2326,Dhulgaon,Yeola,20.1211,74.6111,515.0,VALID,Passed physical elevation terrain checks
+2327,Dongargaon,Yeola,20.1111,74.5522,528.0,VALID,Passed physical elevation terrain checks
+2328,Dugalgaon,Yeola,20.1411,74.6211,510.0,VALID,Passed physical elevation terrain checks
+2329,Erandgaon Bk.,Yeola,20.1211,74.4211,542.0,VALID,Passed physical elevation terrain checks
+2330,Erandgaon Kh,Yeola,20.1111,74.4211,545.0,VALID,Passed physical elevation terrain checks
+2331,Ganeshpur,Yeola,20.1511,74.5822,520.0,VALID,Passed physical elevation terrain checks
+2332,Garkhede,Yeola,20.1311,74.6522,505.0,VALID,Passed physical elevation terrain checks
+2333,Gavandgaon,Yeola,20.0511,74.4111,555.0,VALID,Passed physical elevation terrain checks
+2334,Gujarkhede,Yeola,20.1111,74.6522,510.0,VALID,Passed physical elevation terrain checks
+2335,Jalgaon Neur,Yeola,20.1811,74.6111,518.0,VALID,Passed physical elevation terrain checks
+2336,Jaualke,Yeola,20.0811,74.5522,530.0,VALID,Passed physical elevation terrain checks
+2337,Kanadi,Yeola,20.1211,74.6822,498.0,VALID,Passed physical elevation terrain checks
+2338,Katarni,Yeola,20.1111,74.5522,528.0,VALID,Passed physical elevation terrain checks
+2339,Khairgavhan,Yeola,20.1511,74.4522,535.0,VALID,Passed physical elevation terrain checks
+2340,Khamgaon,Yeola,20.1311,74.4111,545.0,VALID,Passed physical elevation terrain checks
+2341,Kharwandi,Yeola,20.1211,74.4111,542.0,VALID,Passed physical elevation terrain checks
+2342,Khirdisathe,Yeola,20.1111,74.4522,535.0,VALID,Passed physical elevation terrain checks
+2343,Kolam Bk,Yeola,20.1011,74.5522,532.0,VALID,Passed physical elevation terrain checks
+2344,Kolgaon,Yeola,20.1411,74.4211,545.0,VALID,Passed physical elevation terrain checks
+2345,Kotamgaon Bk,Yeola,20.1311,74.4211,542.0,VALID,Passed physical elevation terrain checks
+2346,Kotomgaon Kh,Yeola,20.1211,74.4211,540.0,VALID,Passed physical elevation terrain checks
+2347,Kusmadi,Yeola,20.1423,74.5049,535.0,VALID,Passed physical elevation terrain checks
+2348,Kusur,Yeola,20.1515,74.4809,532.0,VALID,Passed physical elevation terrain checks
+2349,Lauki Shiras,Yeola,20.0511,74.4111,545.0,VALID,Passed physical elevation terrain checks
+2350,Mahalkheda (Patoda),Yeola,20.1111,74.3643,558.0,VALID,Passed physical elevation terrain checks
+2351,Mamdapur,Yeola,20.1369,74.6557,505.0,VALID,Passed physical elevation terrain checks
+2352,Manori Bk.,Yeola,20.1811,74.6111,518.0,VALID,Passed physical elevation terrain checks
+2353,Matulthan,Yeola,20.1211,74.6822,498.0,VALID,Passed physical elevation terrain checks
+2354,Mukhed,Yeola,20.0091,74.3224,562.0,VALID,Passed physical elevation terrain checks
+2355,Murmi,Yeola,20.1111,74.5522,528.0,VALID,Passed physical elevation terrain checks
+2356,Nagarsul,Yeola,20.1004,74.5496,528.0,VALID,Passed physical elevation terrain checks
+2357,Nagde,Yeola,20.1511,74.6822,498.0,VALID,Passed physical elevation terrain checks
+2358,Naigavhan,Yeola,20.1111,74.6522,505.0,VALID,Passed physical elevation terrain checks
+2359,Nandesar,Yeola,20.1211,74.6822,498.0,VALID,Passed physical elevation terrain checks
+2360,Nandur,Yeola,20.1111,74.4211,542.0,VALID,Passed physical elevation terrain checks
+2361,Nevurgaon,Yeola,20.1811,74.6522,508.0,VALID,Passed physical elevation terrain checks
+2362,Nilkhede,Yeola,20.1211,74.6822,498.0,VALID,Passed physical elevation terrain checks
+2363,Nimgaon Madh,Yeola,19.9905,74.4238,560.0,VALID,Passed physical elevation terrain checks
+2364,Panhalsathe,Yeola,20.1511,74.4522,530.0,VALID,Passed physical elevation terrain checks
+2365,Panzarwadi,Yeola,20.1211,74.4111,542.0,VALID,Passed physical elevation terrain checks
+2366,Paregaon,Yeola,20.1111,74.4211,542.0,VALID,Passed physical elevation terrain checks
+2367,Patoda,Yeola,20.1187,74.3643,558.0,VALID,Passed physical elevation terrain checks
+2368,Pimpalgaon Jalal,Yeola,20.1811,74.6111,515.0,VALID,Passed physical elevation terrain checks
+2369,Pimpalgaon Lep,Yeola,20.1211,74.6822,498.0,VALID,Passed physical elevation terrain checks
+2370,Pimpalkhute Bk.,Yeola,20.1511,74.4522,535.0,VALID,Passed physical elevation terrain checks
+2371,Pimpri,Yeola,20.1011,74.4011,548.0,VALID,Passed physical elevation terrain checks
+2372,Purangaon,Yeola,20.1211,74.4111,542.0,VALID,Passed physical elevation terrain checks
+2373,Rahadi,Yeola,20.0964,74.7212,485.0,VALID,Passed physical elevation terrain checks
+2374,Rajapur,Yeola,20.1211,74.5522,528.0,VALID,Passed physical elevation terrain checks
+2375,Rendale,Yeola,20.1111,74.5522,530.0,VALID,Passed physical elevation terrain checks
+2376,Satali,Yeola,20.1511,74.4522,535.0,VALID,Passed physical elevation terrain checks
+2377,Satare,Yeola,20.1211,74.4111,542.0,VALID,Passed physical elevation terrain checks
+2378,Satyagaon,Yeola,20.1111,74.6522,505.0,VALID,Passed physical elevation terrain checks
+2379,Savargaon,Yeola,20.1111,74.4522,540.0,VALID,Passed physical elevation terrain checks
+2380,Saygaon,Yeola,20.1211,74.6211,512.0,VALID,Passed physical elevation terrain checks
+2381,Shirasgaon (Lauki),Yeola,20.1511,74.4522,535.0,VALID,Passed physical elevation terrain checks
+2382,Somthandesh,Yeola,20.1111,74.6522,505.0,VALID,Passed physical elevation terrain checks
+2383,Suregaon Rasta,Yeola,20.0511,74.4111,552.0,VALID,Passed physical elevation terrain checks
+2384,Talwade,Yeola,20.1211,74.5522,528.0,VALID,Passed physical elevation terrain checks
+2385,Thangaon,Yeola,20.1111,74.6111,512.0,VALID,Passed physical elevation terrain checks
+2386,Undirwadi,Yeola,20.1211,74.4111,542.0,VALID,Passed physical elevation terrain checks
+2387,Vaghale,Yeola,20.1111,74.6522,508.0,VALID,Passed physical elevation terrain checks
+2388,Vikharni,Yeola,20.1511,74.4522,532.0,VALID,Passed physical elevation terrain checks
