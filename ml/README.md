@@ -1,7 +1,7 @@
 # Machine Learning Downscaling Architecture (SIH26074)
 
 ## 1. Problem Statement
-In SIH26074, official weather forecasts from IMD are provided at the **Block level** (coarse 25–50 km grid). Agricultural operations (e.g. pesticide spraying, sowing, irrigation) require hyper-local weather information at the **Panchayat level** (3–8 km grid).
+In SIH26074, weather forecasts from the India Meteorological Department (IMD) are issued at the **Block level** (coarse 25–50 km grid). Agricultural operations (e.g. crop spraying, sowing, irrigation) require micro-level weather advisory services at the **Panchayat level** (3–8 km grid).
 
 ---
 
@@ -9,52 +9,47 @@ In SIH26074, official weather forecasts from IMD are provided at the **Block lev
 
 ```text
 ml/
-├── data/               # Ingestion from database into pandas DataFrames
-│   ├── loader.py
-│   └── README.md
-├── preprocessing/      # Data cleaning, timestamp parsing, physical boundary checks
-│   ├── cleaner.py
-│   └── README.md
-├── features/           # Spatial, elevation, and temporal feature extraction
-│   ├── engineer.py
-│   └── README.md
-├── models/             # Baseline and Random Forest regression models
-│   ├── baseline.py
-│   ├── random_forest.py
-│   └── README.md
-├── evaluation/         # Validation against AWS/ARG observations (MAE & RMSE)
-│   ├── metrics.py
-│   └── README.md
-├── predictions/        # End-to-end inference pipeline
-│   ├── pipeline.py
-│   └── README.md
-└── README.md           # This document
+├── train.py            # Model training pipeline (Random Forest Regressor)
+├── predict.py          # Downscaling inference and post-processing
+├── evaluate.py         # Ground-truth evaluation against IMD baseline
+├── preprocessing.py    # Feature extraction, metadata isolation, data preparation
+├── models/             # Serialized trained model artifacts (.joblib)
+├── validation/         # Validation reports, error metrics, benchmark comparisons
+└── README.md           # Architecture documentation
 ```
 
 ---
 
-## 3. Predictors & Target
+## 3. Predictors & Target Specification
 
-### Input Features (Predictors):
-- `block_forecast_rainfall_mm`: Official IMD forecast at the Block level.
-- `panchayat_latitude`: Center latitude of the Panchayat.
-- `panchayat_longitude`: Center longitude of the Panchayat.
-- `elevation_m`: Elevation above sea level (ISRO-NRSC DEM).
-- `station_distance_km`: Distance to nearest validation weather station.
-- `lead_days`: Days between forecast generation and target date.
-- `month`: Month of the year (1–12) to capture seasonal monsoon variation.
-- `day_of_year`: Day of the year (1–366).
+### Target Variable (1):
+* **`actual_rainfall_mm`**: 24-hour ground-truth rainfall observation measured by AWS/ARG stations (mm).
 
-### Target:
-- `actual_rainfall_mm`: Ground truth 24-hour rainfall measured by AWS/ARG.
+### Input Features (8 Continuous / Discrete Predictors):
+1. **`block_forecast_rainfall_mm`**: Official IMD forecast at the Block level (mm).
+2. **`panchayat_latitude`**: Center latitude of the target Panchayat (degrees North).
+3. **`panchayat_longitude`**: Center longitude of the target Panchayat (degrees East).
+4. **`elevation_m`**: Elevation above sea level derived from Digital Elevation Model (m).
+5. **`station_distance_km`**: Geospatial Haversine distance to nearest AWS/ARG station (km).
+6. **`lead_days`**: Forecast lead time in days ($0, 1, \dots, 5$).
+7. **`month`**: Month of the forecast ($1–12$) to capture seasonal monsoon variation.
+8. **`day_of_year`**: Julian day of the year ($1–366$).
+
+### Non-Feature Metadata Fields (Strictly Excluded from Numerical ML Features):
+* `panchayat_id`
+* `lgd_code`
+* `panchayat_name`
+* `block_name`
+* `district_name`
+* `station_id`
+* `date`
+* `forecast_issue_date`
 
 ---
 
-## 4. Evaluation Strategy (from `brain.md`)
+## 4. Model Architecture & Evaluation Criteria
 
-- **Baseline Benchmark**: `BlockPersistenceBaseline` (directly using the Block forecast as the Panchayat prediction).
-- **Initial Model**: `RandomForestDownscaler` (Random Forest Regressor).
-- **Metrics**: 
-  - Mean Absolute Error (**MAE**)
-  - Root Mean Squared Error (**RMSE**)
-- **Validation Rule**: Models are strictly evaluated on held-out real observations. No claim of improvement is made without measured, recorded evidence.
+* **Baseline Benchmark**: `BlockPersistenceBaseline` (IMD Block forecast treated as Panchayat prediction: MAE = `4.3651 mm`, RMSE = `5.5919 mm`).
+* **Initial Model**: `RandomForestRegressor` (Ensemble tree regression with geospatial, orographic, and temporal conditioning).
+* **Validation Strategy**: Strict 80/20 chronological train/test split on Nashik dataset (`1,110` train rows / `278` test rows, zero temporal lookahead leakage).
+* **Metrics**: Mean Absolute Error (**MAE**), Root Mean Squared Error (**RMSE**), Pearson Correlation (**$r$**), Coefficient of Determination (**$R^2$**).

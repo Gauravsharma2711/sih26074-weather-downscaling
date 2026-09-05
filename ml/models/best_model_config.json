@@ -1,0 +1,30 @@
+{
+  "model_name": "XGBoost Regressor",
+  "model_version": "v1.0.0",
+  "feature_list": [
+    "block_forecast_rainfall_mm",
+    "panchayat_latitude",
+    "panchayat_longitude",
+    "elevation_m",
+    "station_distance_km",
+    "lead_days",
+    "month",
+    "day_of_year"
+  ],
+  "training_date_range": {
+    "start_date": "2026-01-09",
+    "end_date": "2026-05-09"
+  },
+  "training_rows": 1110,
+  "test_date_range": {
+    "start_date": "2026-05-09",
+    "end_date": "2026-09-04"
+  },
+  "test_rows": 278,
+  "baseline_mae": 5.4165,
+  "baseline_rmse": 6.6747,
+  "model_mae": 5.5599,
+  "model_rmse": 8.772,
+  "mae_improvement_percent": -2.65,
+  "rmse_improvement_percent": -31.42
+}

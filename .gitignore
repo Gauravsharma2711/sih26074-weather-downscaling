@@ -85,3 +85,8 @@ Thumbs.db
 # Database & SQLite/Local test DBs
 *.sqlite3
 *.db
+
+# ML Binary Artifacts (regenerable via python ml/train.py)
+*.joblib
+*.pkl
+

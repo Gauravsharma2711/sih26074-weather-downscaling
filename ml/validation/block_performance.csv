@@ -1,0 +1,8 @@
+block_name,test_observations,baseline_mae,model_mae,baseline_rmse,model_rmse,mae_improvement_percentage,rmse_improvement_percentage
+Dindori,36,12.7222,5.7882,12.8073,5.8561,54.5,54.28
+Surgana,29,2.0207,1.0072,2.0216,1.0595,50.16,47.59
+Baglan,100,5.095,2.8559,6.4141,3.1291,43.95,51.22
+Deola,42,4.7929,4.2296,5.1244,6.0713,11.75,-18.48
+Trimbak,24,3.5,6.1633,3.5,6.1856,-76.09,-76.73
+Yeola,25,3.2,10.0003,3.2,10.0251,-212.51,-213.28
+Chandwad,22,5.2,25.2207,5.2,25.2267,-385.01,-385.13

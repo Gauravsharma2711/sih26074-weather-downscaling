@@ -1,0 +1,2 @@
+lead_days,observation_count,baseline_mae,model_mae,baseline_rmse,model_rmse,mae_improvement_percentage,rmse_improvement_percentage
+0,278,5.4165,5.9482,6.6747,8.7379,-9.82,-30.91

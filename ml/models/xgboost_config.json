@@ -1,0 +1,37 @@
+{
+  "model_type": "XGBRegressor",
+  "features": [
+    "block_forecast_rainfall_mm",
+    "panchayat_latitude",
+    "panchayat_longitude",
+    "elevation_m",
+    "station_distance_km",
+    "lead_days",
+    "month",
+    "day_of_year"
+  ],
+  "target": "actual_rainfall_mm",
+  "hyperparameters": {
+    "n_estimators": 300,
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8
+  },
+  "training_date_range": {
+    "start_date": "2026-01-09",
+    "end_date": "2026-05-09"
+  },
+  "training_row_count": 1110,
+  "random_seed": 42,
+  "feature_importances": {
+    "block_forecast_rainfall_mm": 0.617874,
+    "month": 0.145769,
+    "panchayat_longitude": 0.097141,
+    "panchayat_latitude": 0.050573,
+    "elevation_m": 0.046914,
+    "day_of_year": 0.038825,
+    "station_distance_km": 0.002903,
+    "lead_days": 0.0
+  }
+}

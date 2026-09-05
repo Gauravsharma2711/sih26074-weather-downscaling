@@ -1,0 +1,4 @@
+model,mae,rmse,mae_improvement_percent,rmse_improvement_percent
+Original Block Forecast,5.4165,6.6747,0.0,0.0
+Random Forest,5.9482,8.7379,-9.82,-30.91
+XGBoost,5.5599,8.772,-2.65,-31.42
