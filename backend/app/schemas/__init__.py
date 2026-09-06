@@ -8,6 +8,15 @@ from backend.app.schemas.forecast import (
     ForecastGenerateResponse,
     ForecastRetrievalResponse,
 )
+from backend.app.schemas.advisory import (
+    AdvisoryGenerateRequest,
+    AdvisoryResponse,
+    PanchayatAdvisoryRetrievalResponse,
+    OfficerApproveRequest,
+    OfficerRejectRequest,
+)
+
+from backend.app.schemas.farmer import FarmerForecastResponse
 
 __all__ = [
     "PanchayatItem",
@@ -16,4 +25,12 @@ __all__ = [
     "ForecastGenerateRequest",
     "ForecastGenerateResponse",
     "ForecastRetrievalResponse",
+    "AdvisoryGenerateRequest",
+    "AdvisoryResponse",
+    "PanchayatAdvisoryRetrievalResponse",
+    "OfficerApproveRequest",
+    "OfficerRejectRequest",
+    "FarmerForecastResponse",
 ]
+
+
