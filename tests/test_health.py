@@ -62,6 +62,24 @@ def test_panchayat_weather_model_query():
         db.close()
 
 
+def test_block_forecast_model_structure():
+    """
+    Test the BlockForecast SQLAlchemy model structure and attributes.
+    """
+    from backend.app.models.block_forecast import BlockForecast
+    
+    assert BlockForecast.__tablename__ == "block_forecasts"
+    assert hasattr(BlockForecast, "id")
+    assert hasattr(BlockForecast, "district_name")
+    assert hasattr(BlockForecast, "block_name")
+    assert hasattr(BlockForecast, "forecast_issue_date")
+    assert hasattr(BlockForecast, "forecast_date")
+    assert hasattr(BlockForecast, "rainfall_mm")
+    assert hasattr(BlockForecast, "source")
+    assert hasattr(BlockForecast, "source_model")
+    assert hasattr(BlockForecast, "created_at")
+
+
 def test_downscaled_forecasts_model_query():
     """
     Test querying the downscaled_forecasts table using the SQLAlchemy model.

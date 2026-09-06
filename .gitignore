@@ -90,3 +90,7 @@ Thumbs.db
 *.joblib
 *.pkl
 
+# Scratch scripts
+scratch/
+
+
