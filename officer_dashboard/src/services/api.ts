@@ -20,12 +20,13 @@ import {
 } from '../types';
 import { MOCK_PANCHAYATS, INITIAL_MOCK_ADVISORIES } from './mockData';
 
-// Base API URL from Vite environment or default local FastAPI
-const API_BASE_URL =
-  (import.meta as any).env?.VITE_API_BASE_URL || 'http://127.0.0.1:8000/api/v1';
+// Base API URL from Vite environment or fallback default
+const RAW_API_BASE_URL =
+  (import.meta as any).env?.VITE_API_BASE_URL || 'https://gramseva-0etv.onrender.com/api/v1';
+const API_BASE_URL = RAW_API_BASE_URL.replace(/\/+$/, '');
 
-// Default timeout in milliseconds for API operations
-const DEFAULT_TIMEOUT_MS = 6000;
+// Default timeout in milliseconds for API operations (accommodates cloud cold-start latency)
+const DEFAULT_TIMEOUT_MS = 15000;
 
 // In-memory fallback state for resilience during network glitches
 let localAdvisories: AdvisoryItem[] = [...INITIAL_MOCK_ADVISORIES];
