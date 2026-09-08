@@ -1,7 +1,7 @@
 import os
 import re
 import urllib.parse
-from typing import List, Union
+from typing import List, Union, Any
 from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
@@ -26,14 +26,32 @@ class Settings(BaseSettings):
         "http://127.0.0.1:5173",
     ]
 
+    @field_validator("SERVER_PORT", mode="before")
+    @classmethod
+    def assemble_server_port(cls, v: Any) -> int:
+        port_env = os.getenv("PORT")
+        if port_env:
+            try:
+                return int(port_env)
+            except ValueError:
+                pass
+        if v is not None:
+            try:
+                return int(v)
+            except ValueError:
+                pass
+        return 8000
+
     @field_validator("CORS_ORIGINS", mode="before")
     @classmethod
     def assemble_cors_origins(cls, v: Union[str, List[str]]) -> List[str]:
         if isinstance(v, str) and not v.startswith("["):
             return [i.strip() for i in v.split(",") if i.strip()]
-        elif isinstance(v, (list, str)):
+        elif isinstance(v, list):
             return v
-        raise ValueError(v)
+        elif isinstance(v, str):
+            return [v]
+        return ["*"]
 
     @property
     def sync_database_url(self) -> str:

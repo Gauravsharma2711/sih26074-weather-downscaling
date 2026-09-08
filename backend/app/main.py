@@ -1,4 +1,6 @@
-from fastapi import FastAPI, Response, status
+import logging
+from fastapi import FastAPI, Request, Response, status
+from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from backend.app.core.config import settings
 from backend.app.core.logging import setup_logging
@@ -7,6 +9,7 @@ from backend.app.api.v1.router import api_router
 
 # Initialize structured application logging
 setup_logging()
+logger = logging.getLogger(__name__)
 
 app = FastAPI(
     title=settings.PROJECT_NAME,
@@ -34,14 +37,27 @@ def get_v1_redoc():
     from fastapi.openapi.docs import get_redoc_html
     return get_redoc_html(openapi_url="/api/v1/openapi.json", title=f"{settings.PROJECT_NAME} - ReDoc")
 
-# Configure CORS Middleware
-if settings.CORS_ORIGINS:
+# Configure CORS Middleware for deployed web frontends and mobile clients
+origins = settings.CORS_ORIGINS if isinstance(settings.CORS_ORIGINS, list) else [str(settings.CORS_ORIGINS)]
+if origins:
     app.add_middleware(
         CORSMiddleware,
-        allow_origins=settings.CORS_ORIGINS,
-        allow_credentials=True,
+        allow_origins=origins,
+        allow_credentials=True if "*" not in origins else False,
         allow_methods=["*"],
         allow_headers=["*"],
+    )
+
+# Structured unhandled exception handler: logs error server-side, never exposes stack trace or secrets to clients
+@app.exception_handler(Exception)
+async def unhandled_exception_handler(request: Request, exc: Exception):
+    logger.error(
+        f"Unhandled server exception on {request.method} {request.url.path}: {exc}",
+        exc_info=True,
+    )
+    return JSONResponse(
+        status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+        content={"detail": "An internal server error occurred. Please try again later."},
     )
 
 

@@ -1,0 +1,23 @@
+services:
+  # GramSevak FastAPI Backend Service
+  - type: web
+    name: gramsevak-backend
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    plan: starter
+    region: singapore # or oregon / frankfurt
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      - key: ENVIRONMENT
+        value: production
+      - key: DEBUG
+        value: false
+      - key: API_V1_STR
+        value: /api/v1
+      - key: DATABASE_URL
+        sync: false
+      - key: CORS_ORIGINS
+        value: "*"
