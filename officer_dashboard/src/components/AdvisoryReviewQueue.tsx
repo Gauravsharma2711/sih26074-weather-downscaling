@@ -74,156 +74,164 @@ export const AdvisoryReviewQueue: React.FC<AdvisoryReviewQueueProps> = ({
           alignItems: 'center',
           justifyContent: 'space-between',
           flexWrap: 'wrap',
-          gap: '16px',
+          gap: '12px',
+          width: '100%',
         }}
       >
-        {/* Status Tabs */}
-        <div
-          style={{
-            display: 'flex',
-            backgroundColor: 'var(--surface-subtle)',
-            padding: '4px',
-            borderRadius: 'var(--radius-pill)',
-            border: '1px solid var(--ink-300)',
-          }}
-          role="tablist"
-          aria-label="Advisory Review Status Tabs"
-        >
-          {/* DRAFT / Pending Review Tab */}
-          <button
-            onClick={() => setActiveStatus('DRAFT')}
-            role="tab"
-            aria-selected={activeStatus === 'DRAFT'}
+        {/* Status Tabs with Horizontal Scroll Support */}
+        <div style={{ maxWidth: '100%', overflowX: 'auto', paddingBottom: '2px' }}>
+          <div
             style={{
-              padding: '8px 16px',
+              display: 'inline-flex',
+              backgroundColor: 'var(--surface-subtle)',
+              padding: '4px',
               borderRadius: 'var(--radius-pill)',
-              border: 'none',
-              backgroundColor: activeStatus === 'DRAFT' ? 'var(--surface)' : 'transparent',
-              color: activeStatus === 'DRAFT' ? 'var(--warning-600)' : 'var(--ink-700)',
-              fontWeight: activeStatus === 'DRAFT' ? 700 : 500,
-              fontSize: '13px',
-              cursor: 'pointer',
-              display: 'flex',
-              alignItems: 'center',
-              gap: '6px',
-              boxShadow: activeStatus === 'DRAFT' ? 'var(--shadow-subtle)' : 'none',
-              transition: 'all 0.15s ease',
+              border: '1px solid var(--ink-300)',
+              whiteSpace: 'nowrap',
             }}
+            role="tablist"
+            aria-label="Advisory Review Status Tabs"
           >
-            <Clock size={14} />
-            <span>Pending Review</span>
-            <span
+            {/* DRAFT / Pending Review Tab */}
+            <button
+              onClick={() => setActiveStatus('DRAFT')}
+              role="tab"
+              aria-selected={activeStatus === 'DRAFT'}
               style={{
-                backgroundColor: 'var(--warning-100)',
-                color: 'var(--warning-600)',
-                padding: '2px 7px',
+                padding: '6px 14px',
                 borderRadius: 'var(--radius-pill)',
-                fontSize: '11px',
-                fontWeight: 700,
+                border: 'none',
+                backgroundColor: activeStatus === 'DRAFT' ? 'var(--surface)' : 'transparent',
+                color: activeStatus === 'DRAFT' ? 'var(--warning-600)' : 'var(--ink-700)',
+                fontWeight: activeStatus === 'DRAFT' ? 700 : 500,
+                fontSize: '12px',
+                cursor: 'pointer',
+                display: 'flex',
+                alignItems: 'center',
+                gap: '6px',
+                boxShadow: activeStatus === 'DRAFT' ? 'var(--shadow-subtle)' : 'none',
+                transition: 'all 0.15s ease',
+                minHeight: '36px',
               }}
             >
-              {draftCount}
-            </span>
-          </button>
+              <Clock size={13} />
+              <span>Pending Review</span>
+              <span
+                style={{
+                  backgroundColor: 'var(--warning-100)',
+                  color: 'var(--warning-600)',
+                  padding: '1px 6px',
+                  borderRadius: 'var(--radius-pill)',
+                  fontSize: '10px',
+                  fontWeight: 700,
+                }}
+              >
+                {draftCount}
+              </span>
+            </button>
 
-          {/* APPROVED Tab */}
-          <button
-            onClick={() => setActiveStatus('APPROVED')}
-            role="tab"
-            aria-selected={activeStatus === 'APPROVED'}
-            style={{
-              padding: '8px 16px',
-              borderRadius: 'var(--radius-pill)',
-              border: 'none',
-              backgroundColor: activeStatus === 'APPROVED' ? 'var(--surface)' : 'transparent',
-              color: activeStatus === 'APPROVED' ? 'var(--primary-700)' : 'var(--ink-700)',
-              fontWeight: activeStatus === 'APPROVED' ? 700 : 500,
-              fontSize: '13px',
-              cursor: 'pointer',
-              display: 'flex',
-              alignItems: 'center',
-              gap: '6px',
-              boxShadow: activeStatus === 'APPROVED' ? 'var(--shadow-subtle)' : 'none',
-              transition: 'all 0.15s ease',
-            }}
-          >
-            <CheckCircle2 size={14} />
-            <span>Approved</span>
-            <span
+            {/* APPROVED Tab */}
+            <button
+              onClick={() => setActiveStatus('APPROVED')}
+              role="tab"
+              aria-selected={activeStatus === 'APPROVED'}
               style={{
-                backgroundColor: 'var(--primary-100)',
-                color: 'var(--primary-700)',
-                padding: '2px 7px',
+                padding: '6px 14px',
                 borderRadius: 'var(--radius-pill)',
-                fontSize: '11px',
-                fontWeight: 700,
+                border: 'none',
+                backgroundColor: activeStatus === 'APPROVED' ? 'var(--surface)' : 'transparent',
+                color: activeStatus === 'APPROVED' ? 'var(--primary-700)' : 'var(--ink-700)',
+                fontWeight: activeStatus === 'APPROVED' ? 700 : 500,
+                fontSize: '12px',
+                cursor: 'pointer',
+                display: 'flex',
+                alignItems: 'center',
+                gap: '6px',
+                boxShadow: activeStatus === 'APPROVED' ? 'var(--shadow-subtle)' : 'none',
+                transition: 'all 0.15s ease',
+                minHeight: '36px',
               }}
             >
-              {approvedCount}
-            </span>
-          </button>
+              <CheckCircle2 size={13} />
+              <span>Approved</span>
+              <span
+                style={{
+                  backgroundColor: 'var(--primary-100)',
+                  color: 'var(--primary-700)',
+                  padding: '1px 6px',
+                  borderRadius: 'var(--radius-pill)',
+                  fontSize: '10px',
+                  fontWeight: 700,
+                }}
+              >
+                {approvedCount}
+              </span>
+            </button>
 
-          {/* REJECTED Tab */}
-          <button
-            onClick={() => setActiveStatus('REJECTED')}
-            role="tab"
-            aria-selected={activeStatus === 'REJECTED'}
-            style={{
-              padding: '8px 16px',
-              borderRadius: 'var(--radius-pill)',
-              border: 'none',
-              backgroundColor: activeStatus === 'REJECTED' ? 'var(--surface)' : 'transparent',
-              color: activeStatus === 'REJECTED' ? 'var(--danger-600)' : 'var(--ink-700)',
-              fontWeight: activeStatus === 'REJECTED' ? 700 : 500,
-              fontSize: '13px',
-              cursor: 'pointer',
-              display: 'flex',
-              alignItems: 'center',
-              gap: '6px',
-              boxShadow: activeStatus === 'REJECTED' ? 'var(--shadow-subtle)' : 'none',
-              transition: 'all 0.15s ease',
-            }}
-          >
-            <XCircle size={14} />
-            <span>Rejected</span>
-            <span
+            {/* REJECTED Tab */}
+            <button
+              onClick={() => setActiveStatus('REJECTED')}
+              role="tab"
+              aria-selected={activeStatus === 'REJECTED'}
               style={{
-                backgroundColor: 'var(--danger-100)',
-                color: 'var(--danger-600)',
-                padding: '2px 7px',
+                padding: '6px 14px',
                 borderRadius: 'var(--radius-pill)',
-                fontSize: '11px',
-                fontWeight: 700,
+                border: 'none',
+                backgroundColor: activeStatus === 'REJECTED' ? 'var(--surface)' : 'transparent',
+                color: activeStatus === 'REJECTED' ? 'var(--danger-600)' : 'var(--ink-700)',
+                fontWeight: activeStatus === 'REJECTED' ? 700 : 500,
+                fontSize: '12px',
+                cursor: 'pointer',
+                display: 'flex',
+                alignItems: 'center',
+                gap: '6px',
+                boxShadow: activeStatus === 'REJECTED' ? 'var(--shadow-subtle)' : 'none',
+                transition: 'all 0.15s ease',
+                minHeight: '36px',
               }}
             >
-              {rejectedCount}
-            </span>
-          </button>
+              <XCircle size={13} />
+              <span>Rejected</span>
+              <span
+                style={{
+                  backgroundColor: 'var(--danger-100)',
+                  color: 'var(--danger-600)',
+                  padding: '1px 6px',
+                  borderRadius: 'var(--radius-pill)',
+                  fontSize: '10px',
+                  fontWeight: 700,
+                }}
+              >
+                {rejectedCount}
+              </span>
+            </button>
 
-          {/* ALL Tab */}
-          <button
-            onClick={() => setActiveStatus('ALL')}
-            role="tab"
-            aria-selected={activeStatus === 'ALL'}
-            style={{
-              padding: '8px 16px',
-              borderRadius: 'var(--radius-pill)',
-              border: 'none',
-              backgroundColor: activeStatus === 'ALL' ? 'var(--surface)' : 'transparent',
-              color: activeStatus === 'ALL' ? 'var(--ink-900)' : 'var(--ink-700)',
-              fontWeight: activeStatus === 'ALL' ? 700 : 500,
-              fontSize: '13px',
-              cursor: 'pointer',
-              boxShadow: activeStatus === 'ALL' ? 'var(--shadow-subtle)' : 'none',
-              transition: 'all 0.15s ease',
-            }}
-          >
-            <span>All ({advisories.length})</span>
-          </button>
+            {/* ALL Tab */}
+            <button
+              onClick={() => setActiveStatus('ALL')}
+              role="tab"
+              aria-selected={activeStatus === 'ALL'}
+              style={{
+                padding: '6px 14px',
+                borderRadius: 'var(--radius-pill)',
+                border: 'none',
+                backgroundColor: activeStatus === 'ALL' ? 'var(--surface)' : 'transparent',
+                color: activeStatus === 'ALL' ? 'var(--ink-900)' : 'var(--ink-700)',
+                fontWeight: activeStatus === 'ALL' ? 700 : 500,
+                fontSize: '12px',
+                cursor: 'pointer',
+                boxShadow: activeStatus === 'ALL' ? 'var(--shadow-subtle)' : 'none',
+                transition: 'all 0.15s ease',
+                minHeight: '36px',
+              }}
+            >
+              <span>All ({advisories.length})</span>
+            </button>
+          </div>
         </div>
 
         {/* Search Input */}
-        <div style={{ position: 'relative', width: '280px' }}>
+        <div style={{ position: 'relative', flex: 1, minWidth: '200px', maxWidth: '360px' }}>
           <Search
             size={15}
             style={{
@@ -279,18 +287,18 @@ export const AdvisoryReviewQueue: React.FC<AdvisoryReviewQueueProps> = ({
             >
               {/* Top Row: Panchayat info, Forecast Date, Status & Severity Badges */}
               <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '8px' }}>
-                <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-                  <span style={{ fontSize: '16px', fontWeight: 700, color: 'var(--ink-900)' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
+                  <span style={{ fontSize: '15px', fontWeight: 700, color: 'var(--ink-900)' }}>
                     {advisory.panchayat_name} Gram Panchayat
                   </span>
-                  <span style={{ fontSize: '12px', color: 'var(--ink-500)' }}>
-                    ({advisory.block_name || 'Baglan'} Block • ID #{advisory.panchayat_id})
+                  <span style={{ fontSize: '11px', color: 'var(--ink-500)' }}>
+                    ({advisory.block_name || 'Baglan'} Block • #{advisory.panchayat_id})
                   </span>
                 </div>
 
-                <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '12px', color: 'var(--ink-500)' }}>
-                    <Calendar size={14} />
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '4px', fontSize: '11px', color: 'var(--ink-500)' }}>
+                    <Calendar size={13} />
                     <span>Target: <strong>{advisory.forecast_date}</strong></span>
                   </div>
 
@@ -305,38 +313,39 @@ export const AdvisoryReviewQueue: React.FC<AdvisoryReviewQueueProps> = ({
                   display: 'flex',
                   alignItems: 'flex-start',
                   justifyContent: 'space-between',
-                  gap: '20px',
+                  flexWrap: 'wrap',
+                  gap: '14px',
                   backgroundColor: 'var(--surface-subtle)',
-                  padding: '14px 16px',
+                  padding: '12px 14px',
                   borderRadius: 'var(--radius-sm)',
                 }}
               >
-                <div style={{ flex: 1 }}>
+                <div style={{ flex: '1 1 240px', minWidth: 0 }}>
                   <div style={{ fontSize: '14px', fontWeight: 700, color: 'var(--ink-900)' }}>
                     {advisory.advisory_title}
                   </div>
-                  <div style={{ fontSize: '13px', color: 'var(--ink-700)', marginTop: '6px', whiteSpace: 'pre-line', lineHeight: '19px' }}>
+                  <div style={{ fontSize: '13px', color: 'var(--ink-700)', marginTop: '4px', whiteSpace: 'pre-line', lineHeight: '19px' }}>
                     {advisory.advisory_text.split('\n').slice(0, 2).join('\n')}
                     {advisory.advisory_text.split('\n').length > 2 && '...'}
                   </div>
                 </div>
 
                 {/* Downscaled Rainfall Value Tile */}
-                <div style={{ textAlign: 'right', minWidth: '130px' }}>
+                <div style={{ textAlign: 'left', minWidth: '120px', flex: '0 0 auto' }}>
                   <div className="text-label" style={{ fontSize: '10px' }}>Downscaled Rain</div>
-                  <ForecastValue rainfallMm={advisory.rainfall_mm} size="lg" />
+                  <ForecastValue rainfallMm={advisory.rainfall_mm} size="md" />
                   <div style={{ fontSize: '11px', color: 'var(--ink-500)', marginTop: '2px' }}>
-                    Category: <strong>{advisory.rainfall_category}</strong>
+                    {advisory.rainfall_category}
                   </div>
                 </div>
               </div>
 
               {/* Bottom Row: Status Metadata & Action Buttons */}
               <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '10px' }}>
-                <div style={{ fontSize: '12px', color: 'var(--ink-500)' }}>
+                <div style={{ fontSize: '12px', color: 'var(--ink-500)', flex: '1 1 200px' }}>
                   {advisory.status === 'APPROVED' && (
                     <span style={{ display: 'flex', alignItems: 'center', gap: '6px', color: 'var(--primary-700)' }}>
-                      <CheckCircle2 size={14} />
+                      <CheckCircle2 size={14} style={{ flexShrink: 0 }} />
                       <span>
                         Verified by <strong>{advisory.officer_id || 'DR-S-PATIL-AO'}</strong>
                         {advisory.officer_comment && ` — "${advisory.officer_comment}"`}
@@ -346,7 +355,7 @@ export const AdvisoryReviewQueue: React.FC<AdvisoryReviewQueueProps> = ({
 
                   {advisory.status === 'REJECTED' && (
                     <span style={{ display: 'flex', alignItems: 'center', gap: '6px', color: 'var(--danger-600)' }}>
-                      <XCircle size={14} />
+                      <XCircle size={14} style={{ flexShrink: 0 }} />
                       <span>
                         Rejected by <strong>{advisory.officer_id || 'DR-S-PATIL-AO'}</strong>
                         {advisory.officer_comment && ` — "${advisory.officer_comment}"`}
@@ -356,17 +365,17 @@ export const AdvisoryReviewQueue: React.FC<AdvisoryReviewQueueProps> = ({
 
                   {advisory.status === 'DRAFT' && (
                     <span style={{ color: 'var(--warning-600)', fontWeight: 500, display: 'flex', alignItems: 'center', gap: '4px' }}>
-                      <AlertCircle size={14} />
-                      <span>Awaiting extension officer validation before mobile delivery.</span>
+                      <AlertCircle size={14} style={{ flexShrink: 0 }} />
+                      <span>Awaiting officer approval.</span>
                     </span>
                   )}
                 </div>
 
-                <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
                   <button
                     onClick={() => setDetailAdvisory(advisory)}
                     className="btn-secondary"
-                    style={{ padding: '6px 14px', fontSize: '12px' }}
+                    style={{ padding: '8px 14px', fontSize: '12px', minHeight: '36px' }}
                     aria-label={`View full details for ${advisory.panchayat_name}`}
                   >
                     <Eye size={13} />
@@ -378,7 +387,7 @@ export const AdvisoryReviewQueue: React.FC<AdvisoryReviewQueueProps> = ({
                       <button
                         onClick={() => handleOpenApproveModal(advisory)}
                         className="btn-primary"
-                        style={{ padding: '6px 14px', fontSize: '12px' }}
+                        style={{ padding: '8px 14px', fontSize: '12px', minHeight: '36px' }}
                         aria-label={`Approve advisory for ${advisory.panchayat_name}`}
                       >
                         <Check size={13} />
@@ -388,7 +397,7 @@ export const AdvisoryReviewQueue: React.FC<AdvisoryReviewQueueProps> = ({
                       <button
                         onClick={() => handleOpenRejectModal(advisory)}
                         className="btn-danger"
-                        style={{ padding: '6px 14px', fontSize: '12px' }}
+                        style={{ padding: '8px 14px', fontSize: '12px', minHeight: '36px' }}
                         aria-label={`Reject advisory for ${advisory.panchayat_name}`}
                       >
                         <X size={13} />
@@ -406,13 +415,13 @@ export const AdvisoryReviewQueue: React.FC<AdvisoryReviewQueueProps> = ({
                         fontSize: '11px',
                         color: 'var(--primary-700)',
                         backgroundColor: 'var(--primary-050)',
-                        padding: '5px 10px',
+                        padding: '6px 12px',
                         borderRadius: 'var(--radius-pill)',
                         fontWeight: 600,
                       }}
                     >
                       <Lock size={12} />
-                      <span>Locked (Active on App)</span>
+                      <span>Active on App</span>
                     </div>
                   )}
                 </div>

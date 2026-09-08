@@ -29,32 +29,32 @@ export const WeatherHeroCard: React.FC<WeatherHeroCardProps> = ({
       }}
     >
       {/* Top Tag & Status */}
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '16px' }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '10px', marginBottom: '16px' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
           <span
             style={{
               display: 'inline-flex',
               alignItems: 'center',
               gap: '6px',
-              padding: '4px 12px',
+              padding: '4px 10px',
               borderRadius: 'var(--radius-pill)',
               backgroundColor: 'var(--primary-100)',
               color: 'var(--primary-700)',
-              fontSize: '12px',
+              fontSize: '11px',
               fontWeight: 700,
             }}
           >
-            <CloudRain size={14} />
+            <CloudRain size={13} />
             Next-Day Downscaled Micro-Climate
           </span>
-          <span style={{ fontSize: '13px', color: 'var(--ink-500)' }}>
-            Validity: <strong>2026-09-09</strong> (24-Hour Accumulation)
+          <span style={{ fontSize: '12px', color: 'var(--ink-500)' }}>
+            Validity: <strong>2026-09-09</strong>
           </span>
         </div>
 
         <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '12px', color: 'var(--ink-700)' }}>
-          <CheckCircle2 size={16} color="var(--primary-600)" />
-          <span>IMD Block Forecast Reference: <strong>{blockForecastMm} mm</strong></span>
+          <CheckCircle2 size={15} color="var(--primary-600)" />
+          <span>IMD Block Forecast: <strong>{blockForecastMm} mm</strong></span>
         </div>
       </div>
 
@@ -62,8 +62,8 @@ export const WeatherHeroCard: React.FC<WeatherHeroCardProps> = ({
       <div
         style={{
           display: 'grid',
-          gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))',
-          gap: '20px',
+          gridTemplateColumns: 'repeat(auto-fit, minmax(min(240px, 100%), 1fr))',
+          gap: '16px',
           marginTop: '8px',
         }}
       >

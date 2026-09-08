@@ -333,20 +333,20 @@ export const PanchayatDetailView: React.FC<PanchayatDetailViewProps> = ({
       </div>
 
       {/* 3. Detailed Comparison & Scientific Grounding Matrix */}
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))', gap: '20px' }}>
+      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(min(280px, 100%), 1fr))', gap: '20px' }}>
         {/* Left Column: Forecast & Observation Values */}
         <div className="app-card" style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '8px' }}>
             <h3 className="text-card-title">Forecast & Observation Metrics</h3>
             <span style={{ fontSize: '12px', color: 'var(--ink-500)' }}>
               Target: <strong>{forecastDate}</strong>
             </span>
           </div>
 
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '12px' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(130px, 1fr))', gap: '12px' }}>
             {/* Block Baseline */}
             <div style={{ backgroundColor: 'var(--surface-subtle)', padding: '14px', borderRadius: 'var(--radius-sm)', border: '1px solid var(--ink-100)' }}>
-              <div className="text-label">Official IMD Block Forecast</div>
+              <div className="text-label" style={{ fontSize: '10px' }}>Official IMD Block Forecast</div>
               <div style={{ marginTop: '6px' }}>
                 <ForecastValue rainfallMm={blockForecastMm} size="lg" />
               </div>
@@ -357,7 +357,7 @@ export const PanchayatDetailView: React.FC<PanchayatDetailViewProps> = ({
 
             {/* Downscaled */}
             <div style={{ backgroundColor: 'var(--primary-050)', padding: '14px', borderRadius: 'var(--radius-sm)', border: '1px solid var(--primary-100)' }}>
-              <div className="text-label" style={{ color: 'var(--primary-700)' }}>GramSevak Downscaled</div>
+              <div className="text-label" style={{ fontSize: '10px', color: 'var(--primary-700)' }}>GramSevak Downscaled</div>
               <div style={{ marginTop: '6px' }}>
                 <ForecastValue rainfallMm={downscaledMm} size="lg" />
               </div>
@@ -377,10 +377,12 @@ export const PanchayatDetailView: React.FC<PanchayatDetailViewProps> = ({
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'space-between',
+              flexWrap: 'wrap',
+              gap: '8px',
             }}
           >
             <div>
-              <div className="text-label">Actual Ground Observation (IMD AWS/ARG)</div>
+              <div className="text-label" style={{ fontSize: '10px' }}>Actual Ground Observation (IMD AWS/ARG)</div>
               {actualObservedMm !== null ? (
                 <div style={{ fontSize: '18px', fontWeight: 700, color: 'var(--ink-900)', marginTop: '4px' }}>
                   {actualObservedMm.toFixed(1)} mm
@@ -406,20 +408,20 @@ export const PanchayatDetailView: React.FC<PanchayatDetailViewProps> = ({
           </div>
 
           {/* Temporal Lead Days & Timestamps */}
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', fontSize: '12px', color: 'var(--ink-500)', paddingTop: '4px' }}>
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '8px', fontSize: '12px', color: 'var(--ink-500)', paddingTop: '4px' }}>
             <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
               <Calendar size={13} />
               <span>Forecast Issue Date: <strong>{forecastIssueDate}</strong></span>
             </div>
             <div>
-              Lead Time: <strong>1 Day (Next-Day 24h Accumulation)</strong>
+              Lead Time: <strong>1 Day (24h Accumulation)</strong>
             </div>
           </div>
         </div>
 
         {/* Right Column: Model Specs & Feature Physics */}
         <div className="app-card" style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '8px' }}>
             <h3 className="text-card-title">ML Downscaling Model Specifications</h3>
             <span style={{ fontSize: '11px', color: 'var(--ink-500)', fontWeight: 600 }}>
               Version {modelVersion}
@@ -427,21 +429,21 @@ export const PanchayatDetailView: React.FC<PanchayatDetailViewProps> = ({
           </div>
 
           <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '13px', padding: '8px 0', borderBottom: '1px solid var(--border-subtle)' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '13px', padding: '8px 0', borderBottom: '1px solid var(--border-subtle)', flexWrap: 'wrap', gap: '4px' }}>
               <span style={{ color: 'var(--ink-500)' }}>Architecture:</span>
-              <strong style={{ color: 'var(--ink-900)' }}>{modelName} (Scikit-Learn)</strong>
+              <strong style={{ color: 'var(--ink-900)' }}>{modelName}</strong>
             </div>
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '13px', padding: '8px 0', borderBottom: '1px solid var(--border-subtle)' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '13px', padding: '8px 0', borderBottom: '1px solid var(--border-subtle)', flexWrap: 'wrap', gap: '4px' }}>
               <span style={{ color: 'var(--ink-500)' }}>Baseline Benchmark:</span>
-              <strong style={{ color: 'var(--ink-900)' }}>Block Persistence Baseline (IMD Coarse)</strong>
+              <strong style={{ color: 'var(--ink-900)' }}>Block Persistence (IMD)</strong>
             </div>
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '13px', padding: '8px 0', borderBottom: '1px solid var(--border-subtle)' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '13px', padding: '8px 0', borderBottom: '1px solid var(--border-subtle)', flexWrap: 'wrap', gap: '4px' }}>
               <span style={{ color: 'var(--ink-500)' }}>Terrain Elevation:</span>
-              <strong style={{ color: 'var(--ink-900)' }}>{panchayat.elevation_m} meters (ISRO Bhuvan DEM)</strong>
+              <strong style={{ color: 'var(--ink-900)' }}>{panchayat.elevation_m}m (Bhuvan DEM)</strong>
             </div>
-            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '13px', padding: '8px 0', borderBottom: '1px solid var(--border-subtle)' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '13px', padding: '8px 0', borderBottom: '1px solid var(--border-subtle)', flexWrap: 'wrap', gap: '4px' }}>
               <span style={{ color: 'var(--ink-500)' }}>Evaluation Standards:</span>
-              <strong style={{ color: 'var(--primary-700)' }}>MAE & RMSE against held-out AWS readings</strong>
+              <strong style={{ color: 'var(--primary-700)' }}>MAE & RMSE vs AWS</strong>
             </div>
           </div>
 
@@ -462,7 +464,7 @@ export const PanchayatDetailView: React.FC<PanchayatDetailViewProps> = ({
           >
             <Info size={16} color="var(--primary-600)" style={{ flexShrink: 0, marginTop: '1px' }} />
             <span>
-              <strong>Physical Downscaling Context:</strong> Model adjusts rainfall according to terrain slope, elevation ridges, and distance to IMD AWS stations. Predictions are evaluated strictly on empirical evidence without ungrounded confidence scores.
+              <strong>Physical Downscaling Context:</strong> Model adjusts rainfall according to terrain slope, elevation ridges, and distance to IMD AWS stations.
             </span>
           </div>
 
@@ -470,7 +472,7 @@ export const PanchayatDetailView: React.FC<PanchayatDetailViewProps> = ({
           <button
             onClick={() => onOpenGenerateModal(panchayat)}
             className="btn-secondary"
-            style={{ marginTop: 'auto', padding: '8px 14px', fontSize: '13px' }}
+            style={{ marginTop: 'auto', padding: '10px 14px', fontSize: '13px', width: '100%' }}
           >
             <Layers size={14} />
             <span>Re-run Micro Downscaling Inference</span>
@@ -548,23 +550,23 @@ export const PanchayatDetailView: React.FC<PanchayatDetailViewProps> = ({
 
             {/* Officer Action Buttons if DRAFT */}
             {advisory.status === 'DRAFT' && (
-              <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '10px', flexWrap: 'wrap', width: '100%', maxWidth: '360px' }}>
                 <button
                   onClick={() => onRejectAdvisory(advisory)}
                   className="btn-danger"
-                  style={{ padding: '8px 18px', fontSize: '13px' }}
+                  style={{ flex: 1, minWidth: '130px', padding: '10px 16px', fontSize: '13px' }}
                 >
                   <X size={15} />
-                  <span>Reject Advisory</span>
+                  <span>Reject</span>
                 </button>
 
                 <button
                   onClick={() => onApproveAdvisory(advisory)}
                   className="btn-primary"
-                  style={{ padding: '8px 20px', fontSize: '13px' }}
+                  style={{ flex: 1, minWidth: '130px', padding: '10px 16px', fontSize: '13px' }}
                 >
                   <Check size={15} />
-                  <span>Approve for Farmers</span>
+                  <span>Approve</span>
                 </button>
               </div>
             )}

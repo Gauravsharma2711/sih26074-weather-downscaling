@@ -163,14 +163,15 @@ export const App: React.FC = () => {
         <div
           style={{
             position: 'fixed',
-            bottom: '24px',
-            right: '24px',
+            bottom: '16px',
+            right: '16px',
+            maxWidth: 'calc(100vw - 32px)',
             backgroundColor: toastMessage.type === 'error' ? 'var(--danger-600)' : 'var(--ink-900)',
             color: 'var(--surface)',
-            padding: '12px 20px',
+            padding: '10px 16px',
             borderRadius: 'var(--radius-pill)',
             boxShadow: 'var(--shadow-modal)',
-            fontSize: '13px',
+            fontSize: '12px',
             fontWeight: 600,
             display: 'flex',
             alignItems: 'center',
@@ -181,11 +182,11 @@ export const App: React.FC = () => {
           role="status"
         >
           {toastMessage.type === 'error' ? (
-            <AlertTriangle size={16} color="#FFFFFF" />
+            <AlertTriangle size={15} color="#FFFFFF" style={{ flexShrink: 0 }} />
           ) : (
-            <CheckCircle2 size={16} color="var(--primary-500)" />
+            <CheckCircle2 size={15} color="var(--primary-500)" style={{ flexShrink: 0 }} />
           )}
-          <span>{toastMessage.text}</span>
+          <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{toastMessage.text}</span>
         </div>
       )}
 
@@ -228,8 +229,8 @@ export const App: React.FC = () => {
               <div
                 style={{
                   display: 'grid',
-                  gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))',
-                  gap: '20px',
+                  gridTemplateColumns: 'repeat(auto-fit, minmax(min(160px, 100%), 1fr))',
+                  gap: '14px',
                 }}
               >
                 {/* 1. District & Jurisdiction */}
@@ -245,7 +246,7 @@ export const App: React.FC = () => {
                 <MetricCard
                   label="Forecast Date"
                   value={forecastDate}
-                  subtext={`${totalForecastsAvailable} of ${totalForecastsAvailable} Forecasts Available`}
+                  subtext={`${totalForecastsAvailable} of ${totalForecastsAvailable} Forecasts`}
                   icon={<Calendar size={20} />}
                   trend={{
                     text: '100% Synced',
@@ -265,12 +266,12 @@ export const App: React.FC = () => {
 
                 {/* 4. Advisories Pending Review */}
                 <MetricCard
-                  label="Advisories Pending Review"
+                  label="Pending Review"
                   value={draftCount}
-                  subtext="Require human officer approval"
+                  subtext="Officer approval needed"
                   icon={<Clock size={20} />}
                   trend={{
-                    text: draftCount > 0 ? `${draftCount} Need Review` : 'All Clear',
+                    text: draftCount > 0 ? `${draftCount} Pending` : 'All Clear',
                     isPositive: draftCount === 0,
                     color: draftCount > 0 ? 'var(--warning-600)' : 'var(--primary-700)',
                   }}
@@ -281,7 +282,7 @@ export const App: React.FC = () => {
                 <MetricCard
                   label="Approved Advisories"
                   value={approvedCount}
-                  subtext="Active on Farmer Mobile App"
+                  subtext="Active on Farmer App"
                   icon={<CheckCircle2 size={20} />}
                   trend={{
                     text: 'Verified by Officer',
@@ -301,7 +302,7 @@ export const App: React.FC = () => {
 
               {/* Quick Jump: Priority Review Queue Preview */}
               <div>
-                <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '16px' }}>
+                <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '10px', marginBottom: '16px' }}>
                   <div>
                     <h2 className="text-section-title">Priority Advisory Review Queue</h2>
                     <p className="text-body" style={{ fontSize: '13px', color: 'var(--ink-500)' }}>
@@ -309,21 +310,21 @@ export const App: React.FC = () => {
                     </p>
                   </div>
 
-                  <div style={{ display: 'flex', gap: '10px' }}>
+                  <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
                     <button
                       onClick={() => setCurrentTab('forecasts')}
                       className="btn-secondary"
-                      style={{ padding: '6px 14px', fontSize: '12px' }}
+                      style={{ padding: '6px 12px', fontSize: '12px' }}
                     >
                       <Compass size={13} />
-                      <span>View All Forecasts</span>
+                      <span>All Forecasts</span>
                     </button>
                     <button
                       onClick={() => setCurrentTab('review')}
                       className="btn-primary"
-                      style={{ padding: '6px 14px', fontSize: '12px' }}
+                      style={{ padding: '6px 12px', fontSize: '12px' }}
                     >
-                      <span>Full Review Queue ({advisories.length})</span>
+                      <span>Full Queue ({advisories.length})</span>
                     </button>
                   </div>
                 </div>

@@ -21,10 +21,10 @@ class FarmerApiException implements Exception {
 /// - Configurable base URL with safe local and emulator fallbacks.
 /// - Centralized timeout and structured error parsing.
 class FarmerApiClient {
-  /// Base API URL configurable via dart-define or default local FastAPI address
+  /// Base API URL configurable via dart-define or default deployed Render FastAPI address
   static const String defaultBaseUrl = String.fromEnvironment(
     'API_BASE_URL',
-    defaultValue: 'http://127.0.0.1:8000/api/v1',
+    defaultValue: 'https://gramseva-0etv.onrender.com/api/v1',
   );
 
   final String baseUrl;

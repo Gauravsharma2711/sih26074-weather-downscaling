@@ -440,12 +440,14 @@ export const AdvisoryDetailModal: React.FC<AdvisoryDetailModalProps> = ({
         {/* Footer */}
         <div
           style={{
-            padding: '16px 24px',
+            padding: '14px 20px',
             borderTop: 'var(--border-subtle)',
             backgroundColor: 'var(--surface-subtle)',
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'space-between',
+            flexWrap: 'wrap',
+            gap: '10px',
           }}
         >
           <button
@@ -457,22 +459,22 @@ export const AdvisoryDetailModal: React.FC<AdvisoryDetailModalProps> = ({
           </button>
 
           {advisory.status === 'DRAFT' && (
-            <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' }}>
               <button
                 onClick={() => onRequestReject(advisory)}
                 className="btn-danger"
-                style={{ padding: '8px 16px', fontSize: '13px' }}
+                style={{ padding: '8px 14px', fontSize: '13px' }}
               >
                 <XIcon size={14} />
-                <span>Reject Advisory</span>
+                <span>Reject</span>
               </button>
               <button
                 onClick={() => onRequestApprove(advisory)}
                 className="btn-primary"
-                style={{ padding: '8px 18px', fontSize: '13px' }}
+                style={{ padding: '8px 16px', fontSize: '13px' }}
               >
                 <Check size={14} />
-                <span>Approve Advisory</span>
+                <span>Approve for Farmers</span>
               </button>
             </div>
           )}
