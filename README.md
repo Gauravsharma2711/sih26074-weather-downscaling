@@ -10,6 +10,15 @@
 
 ---
 
+## 🌐 Live Deployments & Cloud Endpoints
+
+| Service | Platform | Live URL | Description |
+| :--- | :--- | :--- | :--- |
+| **Officer Dashboard (Frontend)** | Vercel | [https://gramsevak.vercel.app/](https://gramsevak.vercel.app/) | Responsive React web portal for agricultural extension officers to monitor Panchayat downscaled forecasts and review/approve advisories |
+| **GramSevak Backend API** | Render | [https://gramseva-0etv.onrender.com/](https://gramseva-0etv.onrender.com/) | Live FastAPI production REST API, ML inference engine, and interactive OpenAPI documentation ([/docs](https://gramseva-0etv.onrender.com/docs)) |
+
+---
+
 ## 1. Problem Statement
 
 ### The Resolution Dilemma
