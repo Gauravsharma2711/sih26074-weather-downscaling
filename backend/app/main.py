@@ -1,3 +1,11 @@
+import os
+import sys
+
+# Ensure repository root is on sys.path for robust cloud deployment
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
+
 import logging
 from fastapi import FastAPI, Request, Response, status
 from fastapi.responses import JSONResponse
