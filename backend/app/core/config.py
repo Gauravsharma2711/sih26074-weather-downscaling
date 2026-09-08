@@ -15,8 +15,22 @@ class Settings(BaseSettings):
     SERVER_HOST: str = "0.0.0.0"
     SERVER_PORT: int = 8000
     
-    # PostgreSQL Database URL loaded from .env
+    # PostgreSQL Database URL loaded from .env or environment
     DATABASE_URL: str = "postgresql://postgres:postgres@localhost:5432/sih26074_db"
+
+    @field_validator("DATABASE_URL", mode="before")
+    @classmethod
+    def assemble_database_url(cls, v: Any) -> str:
+        url_env = (
+            os.getenv("DATABASE_URL")
+            or os.getenv("SYNC_DATABASE_URL")
+            or os.getenv("SUPABASE_DB_URL")
+            or os.getenv("SUPABASE_DATABASE_URL")
+            or v
+        )
+        if isinstance(url_env, str) and url_env.strip():
+            return url_env.strip()
+        return "postgresql://postgres:postgres@localhost:5432/sih26074_db"
     
     # Allowed CORS Origins
     CORS_ORIGINS: Union[List[str], str] = [
@@ -57,10 +71,32 @@ class Settings(BaseSettings):
     def sync_database_url(self) -> str:
         """
         Sanitize and format DATABASE_URL for SQLAlchemy + psycopg2:
-        1. Strips unsupported params like pgbouncer=true.
-        2. Safely URL-encodes special characters in passwords (e.g. '@').
+        1. Checks SYNC_DATABASE_URL / DATABASE_URL.
+        2. Strips whitespace and enclosing quotes.
+        3. Normalizes legacy postgres:// to postgresql://.
+        4. Strips unsupported params like ?pgbouncer=true.
+        5. Safely URL-encodes special characters in passwords (e.g. '@').
         """
-        url = self.DATABASE_URL
+        raw_url = (
+            os.getenv("SYNC_DATABASE_URL")
+            or os.getenv("DATABASE_URL")
+            or os.getenv("SUPABASE_DB_URL")
+            or os.getenv("SUPABASE_DATABASE_URL")
+            or self.DATABASE_URL
+        )
+        if not raw_url or not isinstance(raw_url, str):
+            return "postgresql://postgres:postgres@localhost:5432/sih26074_db"
+
+        url = raw_url.strip()
+        if (url.startswith('"') and url.endswith('"')) or (url.startswith("'") and url.endswith("'")):
+            url = url[1:-1].strip()
+
+        if not url:
+            return "postgresql://postgres:postgres@localhost:5432/sih26074_db"
+
+        # Normalize legacy or cloud default postgres:// to postgresql://
+        if url.startswith("postgres://"):
+            url = "postgresql://" + url[len("postgres://"):]
         
         # Remove pgbouncer query flag if present (psycopg2 does not accept pgbouncer as a libpq parameter)
         url = url.replace("?pgbouncer=true", "").replace("&pgbouncer=true", "")
